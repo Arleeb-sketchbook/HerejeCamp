@@ -274,3 +274,5 @@ Los Poderes Heréticos no proporcionan habilidades pasivas; Marcas tributos para
 | El Coro   | 9                | Un canto antinatural brota de ti. Quienes lo oyen tiemblan, sangran, se quiebran.   | Emitiendo un cántico blasfemo, forzamos a todas las criaturas en un radio de **30 pies** a realizar una **salvación de Sabiduría (CD 10 \+ SAB)**. Si fallan, quedan **confundidas** por **1 turno**. Requiere descanso corto.             |
 | La Estela | 2X               | Ataca con tanta fuerza que dejarás una estela de destrucción frente a ti            | Puedes darle a cualquier ataque cuerpo a cuerpo el atributo **Rango(30/60)** una cantidad **X** de veces                                                                                                                                   |
 |           |                  |                                                                                     |                                                                                                                                                                                                                                            |
+
+prueba de commit
