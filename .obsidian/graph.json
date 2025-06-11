@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "-tag:#oculto  ",
+  "collapse-filter": true,
+  "search": "-tag:#oculto ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:DESCONOCIDO  ",
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224497,
+  "scale": 1.4019828977761215,
   "close": false
 }
