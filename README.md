@@ -253,7 +253,7 @@ Solo puedes activar un aspecto a la vez
 | El Tentáculo | 8                | Un apéndice crece de ti, alcanza lo que quiera escapar.                                                                         | Puedes realizar un ataque desarmado a 10 pies                                                                                                                        |
 | El Ojo       | 10               | Ve más allá, las mentiras se desvelan frente a ti                                                                               | Tienes 15 pies de Truesight                                                                                                                                          |
 >[!warning]
-\*Solo uno puede activarse a la vez  
+\*Solo uno puede activarse a la vez  <br>
 \*\*Este efecto solo funciona si el ataque realiza daño perforante. Cambiarlo mediante Aspectos Elementales elimina la regeneración de vida
 
   
