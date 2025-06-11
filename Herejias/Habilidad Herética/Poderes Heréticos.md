@@ -1,0 +1,1 @@
+La mutación de la [[Marca de la Lógica]] permite a los Herejes ejecutar diferentes habilidades.

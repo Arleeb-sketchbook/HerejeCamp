@@ -1,0 +1,1 @@
+La mutación de la [[Marca de la Lógica]] permite modificar el cuerpo del Hereje en diferentes formas

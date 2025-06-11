@@ -1,0 +1,1 @@
+El poder máximo de la [[Lógica de la espada]], poderes dignos de los [[Rey-Dios]].

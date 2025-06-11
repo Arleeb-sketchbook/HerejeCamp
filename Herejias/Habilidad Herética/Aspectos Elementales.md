@@ -1,0 +1,1 @@
+La mutación de la [[Marca de la Lógica]] permite modificar el daño de cualquier ataque a un elemento presentado en una tabla

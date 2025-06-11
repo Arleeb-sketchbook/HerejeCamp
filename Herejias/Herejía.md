@@ -1,0 +1,1 @@
+Se considera herejía haber salido del [[Sistema de tributado]], como aquellos que siguieron la voz de [[Eclipse]],
