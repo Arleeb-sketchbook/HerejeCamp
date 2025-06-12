@@ -151,7 +151,7 @@ Si las marcas de la lógica fueran baterías, los tributos serían la energía q
 
 ![[Tabla de tributos]]
 
-Los herejes suelen juntarse en ***clanes*** para cazar criaturas poderosas, pues todos reciben la misma cantidad de tributos por la caza.
+Los herejes suelen juntarse en ***Cadenas*** para cazar criaturas poderosas, pues todos reciben la misma cantidad de tributos por la caza.
 
 Los tributos se obtienen de formas adicionales, dependiendo de tu marca de nacimiento:  
 
@@ -170,19 +170,9 @@ Matar a otro hereje, o a algún individuo que esté almacenado tributos, concede
 
   
 
-## ⌈Clanes⌋
+## ⌈[[Cadenas]]⌋
 
-  
-
-Muchos Herejes toman la decisión de crear o unirse a *Clanes:* Los clanes herejes son grupos de hasta 6 personas que cazan juntos para facilitarse la obtención  de grandes cantidades de tributos, pues al cazar juntos, sin importar quien dé el golpe final, todos obtienen la misma cantidad de tributos.
-
-  
-
-Los claness se crean realizando pactos de sangre: Esto “une” las marcas de los herejes, permitiéndoles comunicarse telepáticamente mediante el truco “mensaje”.Este pacto una vez realizado solo se rompe después de que los miembros están separados por un año.
-
-  
-
-El pacto de sangre del clan castiga seriamente a quienes lo ignoran: Si un miembro de un clan asesina a un miembro de su mismo clan, pierde los tributos que hubiera ganado del asesinato; Y es desvinculado del clan.
+![[Cadenas]]
 
   
 
@@ -212,3 +202,4 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 ![[Poderes Heréticos]]
   
 
+#oculto 
