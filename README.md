@@ -206,13 +206,7 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
   
 
 ## ✴[[Habilidades Heréticas]]✴
-
-  
-
 \[Elijan\]||\[Excedan\]||\[Perviertan\]
-
-  
-
 #### ❂Aspectos Elementales❂
 \[Ardan\]||\[Transformen\]||\[Contaminen\]
 ![[Aspectos Elementales]]

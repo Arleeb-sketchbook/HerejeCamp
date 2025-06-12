@@ -3,6 +3,7 @@ Mutaciones causadas por la acumulación de [[Tributos]] en la [[Marca de la Lóg
 Se separa en 3 categorías:
 ### Aspectos Elementales
 ![[Aspectos Elementales]]
-### Mutaciones 
+### Mutaciones Heréticas
 ![[Mutaciones Heréticas]]
+### Poderes Heréticos
 ![[Poderes Heréticos]]
