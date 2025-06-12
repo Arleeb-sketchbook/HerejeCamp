@@ -1,5 +1,7 @@
 Mutaciones causadas por la acumulación de [[Tributos]] en la [[Marca de la Lógica]]
 
+[Calculadora de tributos](https://libreta-de-marce.ct.ws/herejes.html)
+
 Se separa en 3 categorías:
 ### Aspectos Elementales
 ![[Aspectos Elementales]]
@@ -8,4 +10,3 @@ Se separa en 3 categorías:
 ### Poderes Heréticos
 ![[Poderes Heréticos]]
 
-![](https://libreta-de-marce.ct.ws/herejes.html)
