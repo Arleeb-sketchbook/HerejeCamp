@@ -218,39 +218,10 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 ![[Aspectos Elementales]]
 
 #### ☌Mutaciones Heréticas☌
-
-  
-
 \[Crezcan\]||\[Sangren\]||\[Sean\]
-
-  
-
-| Nombre       | Costo (Tributos) | Descripción                                                                                                                     | Habilidad                                                                                                                                                            |
-| :----------- | :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| El Filo\*    | 6(+2X)           | Transforma tu mano en una cuchilla que rebane a quienes te osen desafiar                                                        | Tus ataques desarmados ahora realizan 1(+X)d6 de daño cortante                                                                                                       |
-| La Boca\*    | 6(+2X)           | Aliméntate de aquellos que busquen alimentarse de tus tributos. **Con tus propias manos.**                                      | Tus ataques desarmados ahora realizan 1(+X)d4 de daño perforante. Recuperas el daño infligido como puntos de golpe temporales.\*\*                                   |
-| El Coloso    | 8                | Tu cuerpo crece, eres una montaña. Que nada ni nadie te pueda parar                                                             | Tu CA aumenta en \+2 Tu Velocidad de movimiento se reduce en 10  pies.                                                                                               |
-| La sombra    | 10               | Tu cuerpo se vuelve casi etéreo, nadie te verá venir, pero cuida de tu ser, pues tu conexión con el plano material se debilita. | Tu velocidad de movimiento aumenta en 10 pies Tienes ventaja en las tiradas de sigilo. Puedes usar disengage y esquivar como acción adicional Tu CA se reduce en \-4 |
-| El Tentáculo | 8                | Un apéndice crece de ti, alcanza lo que quiera escapar.                                                                         | Puedes realizar un ataque desarmado a 10 pies                                                                                                                        |
-| El Ojo       | 10               | Ve más allá, las mentiras se desvelan frente a ti                                                                               | Tienes 15 pies de Truesight                                                                                                                                          |
->[!warning]
-\*Solo uno puede activarse a la vez  <br>
-\*\*Este efecto solo funciona si el ataque realiza daño perforante. Cambiarlo mediante Aspectos Elementales elimina la regeneración de vida
-
-  
+![[Mutaciones Heréticas]]
 
 #### ❖Poderes Heréticos❖
-
+![[Poderes Heréticos]]
   
 
-Los Poderes Heréticos no proporcionan habilidades pasivas; Marcas tributos para permitirte usar habilidades activas con tiempo de recarga. Tus tributos no se consumen al usarlas.
-
-  
-
-| Nombre    | Costo (Tributos) | Descripción                                                                         | Habilidad                                                                                                                                                                                                                                  |
-| :-------- | :--------------- | :---------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| El Velo   | 7                | Cúbrete por un velo de oscuridad, que ni el ojo más atento vería.                   | Te  vuelves invisible hasta realizar un ataque, o hasta que pasen 5 minutos, requiere 5 turnos para reutilizarse.                                                                                                                          |
-| El Icaro  | 8                | Alcanza el sol, donde nadie ose seguirte.                                           | Obtienes una velocidad de vuelo equivalente a la mitad de tu velocidad de movimiento. Puedes mantenerte en el aire por 5 turnos, al finalizar, desciendes automáticamente en un espacio desocupado, requiere 5 turnos para reutilizarse.   |
-| La lengua | 6                | De tu boca emanan símbolos olvidados. Que nadie se atreva a mentir en tu presencia. | Como acción, eliges a una criatura a 30 pies. Debe hacer una **salvación de Carisma (CD 10 \+ CAR)**. Si falla, no puede mentir durante **1 minuto**. Afecta el habla y la telepatía. Requiere descanso corto para reutilizarse.           |
-| El Coro   | 9                | Un canto antinatural brota de ti. Quienes lo oyen tiemblan, sangran, se quiebran.   | Emitiendo un cántico blasfemo, forzamos a todas las criaturas en un radio de **30 pies** a realizar una **salvación de Sabiduría (CD 10 \+ SAB)**. Si fallan, quedan **confundidas** por **1 turno**. Requiere descanso corto.             |
-| La Estela | 2X               | Ataca con tanta fuerza que dejarás una estela de destrucción frente a ti            | Puedes darle a cualquier ataque cuerpo a cuerpo el atributo **Rango(30/60)** una cantidad **X** de veces                                                                                                                                   |

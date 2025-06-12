@@ -12,3 +12,5 @@ A continuacion, se muestra la cantidad de [[Tributos]] por la [[Lógica de la es
 | 10 - 11        | 10                            |
 | 12 - 14        | 12                            |
 | 15+            | 15                            |
+
+Estos se pueden usar para obtener diferentes [[Habilidades Heréticas]]
