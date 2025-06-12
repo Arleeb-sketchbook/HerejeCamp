@@ -205,7 +205,7 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 
   
 
-## ✴Habilidades Heréticas✴
+## ✴[[Habilidades Heréticas]]✴
 
   
 
@@ -214,27 +214,8 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
   
 
 #### ❂Aspectos Elementales❂
-
-  
-
 \[Ardan\]||\[Transformen\]||\[Contaminen\]
-
-  
-
-| Nombre         | Costo (Tributos) | Descripción                                                                                  | Habilidad                                                      |
-| :------------- | :--------------- | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
-| La Forja       | 4                | Tu hambre por tributos arde como el fuego. Infunde tus ataques con esa hambre.               | Puedes cambiar el daño de cualquier ataque a *daño ígneo.*     |
-| La muerte      | 4                | Traes muerte a las batallas. La muerte se manifiesta en tus ataques.                         | Puedes cambiar el daño de cualquier ataque a *daño necrótico.* |
-| El Centellante | 4                | Veloz como un rato, e igual de destructivo; Que tus ataques lleven esa energía               | Puedes cambiar el daño de cualquier ataque a *daño eléctrico.* |
-| El Ermitaño    | 4                | Deja que tus enemigos sientan el frío consuelo de la muerte antes de alimentarte.            | Puedes cambiar el daño de cualquier ataque a *daño frío.*      |
-| El Trueno      | 4                | Retumbas como un presagio funesto. Cada golpe tuyo lleva la furia de la tormenta.            | Puedes cambiar el daño de cualquier ataque a *daño de trueno.* |
-| El Mago        | 8                | Doblas las leyes que rigen la realidad. Tu voluntad golpea más fuerte que el acero.          | Puedes cambiar el daño de cualquier ataque a *daño de fuerza.* |
-| El Sol         | 8                | Brillas con un resplandor que quema lo impuro. Tu ira es juicio, y tu juicio, luz.           | Puedes cambiar el daño de cualquier ataque a *daño radiante.*  |
-| El Susurro     | 8                | La mente de tus enemigos se fragmenta bajo la presión de lo inefable. Tu voz es un cuchillo. | Puedes cambiar el daño de cualquier ataque a *daño psíquico.*  |
-> [!warning]
-Solo puedes activar un aspecto a la vez
-
-  
+![[Aspectos Elementales]]
 
 #### ☌Mutaciones Heréticas☌
 
