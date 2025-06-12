@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Logica/Cadenas.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cadenas"
+            }
+          },
+          {
+            "id": "eab45a27e1bc1397",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,10 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cace899d875f105a",
+  "active": "eab45a27e1bc1397",
   "lastOpenFiles": [
-    "Cadenas.md",
-    "Cadenas.md",
+    "Logica/Cadenas.md",
     "README.md",
     "Herejias/Herejes.md",
     "Reyes-Dios/Bellator.md",
