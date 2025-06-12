@@ -7,3 +7,5 @@ Se separa en 3 categorías:
 ![[Mutaciones Heréticas]]
 ### Poderes Heréticos
 ![[Poderes Heréticos]]
+
+![](https://libreta-de-marce.ct.ws/herejes.html)
