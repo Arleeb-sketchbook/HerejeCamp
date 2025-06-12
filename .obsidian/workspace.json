@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica/Lógica de la espada.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lógica de la espada"
+              "title": "README"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "4acfcbbad026ceb6",
   "lastOpenFiles": [
+    "Logica/Lógica de la espada.md",
     "Herejias/Habilidad Herética/Haeresis Maximus.md",
     "Herejias/Habilidades Heréticas.md",
     "Reyes-Dios/Bellator.md",
@@ -208,7 +209,6 @@
     "Logica/Tabla de tributos.md",
     "LA CRIATURA.md",
     "Archivos/Scivi.png",
-    "Herejias/Proto-Hereje.md",
-    "Herejias/Herejía.md"
+    "Herejias/Proto-Hereje.md"
   ]
 }
