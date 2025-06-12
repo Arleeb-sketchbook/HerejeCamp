@@ -11,32 +11,13 @@
             "id": "4acfcbbad026ceb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Herejias/Habilidades Heréticas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Habilidades Heréticas"
-            }
-          },
-          {
-            "id": "caa44ea6d9513066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Herejias/Habilidad Herética/Aspectos Elementales.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aspectos Elementales"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,14 +162,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa44ea6d9513066",
+  "active": "4acfcbbad026ceb6",
   "lastOpenFiles": [
-    "README.md",
     "Herejias/Habilidades Heréticas.md",
+    "Herejias/Habilidad Herética/Aspectos Elementales.md",
+    "README.md",
     "Logica/Tabla de tributos.md",
     "Herejias/Habilidad Herética/Poderes Heréticos.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
-    "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "PNJs/Nico.md",
     "Herejias/Herejes.md",
     "LA CRIATURA.md",
