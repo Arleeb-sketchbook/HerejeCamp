@@ -149,13 +149,9 @@ Poco se sabe de Nullus en la actualidad, desde la desaparición de Libertium, pa
 
 Si las marcas de la lógica fueran baterías, los tributos serían la energía que las carga, muchos desconocen esto, pues solo usan sus tributos para transferirlos a sus superiores.
 
-  
-
-Para obtener tributos, de manera general, debes asesinar criaturas con un CR mayor a tu nivel actual, pues estas son presas dignas que otorgaran tributo. El tributo que obtienes es igual a el CR de la criatura dividido a la mitad, redondeando hacia arriba.  
+![[Tabla de tributos]]
 
 Los herejes suelen juntarse en ***clanes*** para cazar criaturas poderosas, pues todos reciben la misma cantidad de tributos por la caza.
-
-  
 
 Los tributos se obtienen de formas adicionales, dependiendo de tu marca de nacimiento:  
 
@@ -164,9 +160,6 @@ Marca de Scivi (Nacidos en Velum): Puedes obtener tributos de descubrir informac
 Marca de Bellator(Nacidos en Semigladi): Puedes obtener tributos demostrando valía, superioridad en pelea, entre otras.  
 
 Marca de Liberium(Nacidos en Nullus):???
-
-  
-
 ## Cazando Herejes
 
   
