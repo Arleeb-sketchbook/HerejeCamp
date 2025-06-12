@@ -1,6 +1,6 @@
 {
-  "commitMessage": "se hizo commit manual en {{date}}, en {{numFiles} archivos:\n{{files}}",
-  "autoCommitMessage": "se hizo commit y sync en {{date}}, en {{numFiles} archivos:\n{{files}}",
+  "commitMessage": "se hizo commit manual en {{date}}, en {{numFiles}} archivos:\n{{files}}",
+  "autoCommitMessage": "se hizo commit y sync en {{date}}, en {{numFiles}} archivos:\n{{files}}",
   "commitDateFormat": "MM-DD, HH:mm",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
