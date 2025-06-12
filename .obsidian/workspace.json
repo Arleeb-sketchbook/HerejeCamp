@@ -25,14 +25,12 @@
             "id": "cace899d875f105a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Archivos/Mapa de Eris.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "Mapa de Eris"
             }
           }
         ],
@@ -181,21 +179,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cace899d875f105a",
+  "active": "c8f9175d971abd15",
   "lastOpenFiles": [
-    "Herejias/Habilidades Heréticas.md",
+    "PNJs/PNJs.md",
+    "PNJs/Nico.md",
+    "PNJs/Mindartis Kirei.md",
+    "PNJs/Amy Kirei.md",
+    "Planos y Semiplanos/Eris.md",
+    "Planos y Semiplanos/Trono de Scivi.md",
+    "Planos y Semiplanos/Trono de Bellator.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Herejias/Habilidad Herética/Poderes Heréticos.md",
+    "Herejias/Habilidades Heréticas.md",
+    "Herejias/Herejes.md",
+    "PJs/Akatsuki Kirei.md",
+    "PNJs/PNJs Herejes/William.md",
+    "PJs/JoJo.md",
+    "PJs/PJs.md",
+    "README.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Haeresis Maximus.md",
-    "README.md",
     "Logica/Tabla de tributos.md",
-    "PNJs/Nico.md",
-    "Herejias/Herejes.md",
     "LA CRIATURA.md",
     "Archivos/Scivi.png",
     "Herejias/Proto-Hereje.md",
-    "Herejias/Herejía.md",
-    "PNJs/PNJs.md"
+    "Herejias/Herejía.md"
   ]
 }
