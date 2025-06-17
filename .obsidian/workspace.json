@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "41dd8de971043b20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,15 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61077e13ffb40053",
+  "active": "41dd8de971043b20",
   "lastOpenFiles": [
+    "README.md",
     "LA CRIATURA.md",
     "PNJs/Nico.md",
     "Logica/Cadenas.md",
     "Archivos/Mapa de Eris.png",
     "Herejias/Habilidades Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
-    "README.md",
     "Logica/Tabla de tributos.md",
     "Herejias/Habilidad Herética/Poderes Heréticos.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
