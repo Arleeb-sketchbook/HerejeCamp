@@ -170,7 +170,7 @@ Matar a otro hereje, o a algún individuo que esté almacenado tributos, concede
 
   
 
-## ⌈[[Cadenas]]⌋
+## ⌈Cadenas⌋
 
 ![[Cadenas]]
 
