@@ -9,7 +9,7 @@ toman el rol de **Herejes**, personas que desafiaron un dogma impuesto por los p
 # 🜃Trama🜃
 
 ## ☼Leyendas☼
-\[Recuerden\]||\[Distorsionen\]||\[Olviden\]  
+\[Recuerden\]|\[Distorsionen\]|\[Olviden\]  
 
 *Distintas transcripciones de varios extractos cuentan esta leyenda…*  
 
