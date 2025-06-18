@@ -8,7 +8,7 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Cazador de Sangre |
-> |Relaciones| <ul>Familia<li>[[Amy Kirei]] (Esposa) ✝</li><li>[[Mindartis Kirei]] (Hijo)✝</li></ul><ul>Aliados <li>[[JoJo]]</li></ul>|
+> |Relaciones| <ul>Familia<li>[[Amy]] (Esposa) ✝</li><li>[[Mindartis]] (Hijo)✝</li></ul><ul>Aliados <li>[[JoJo]]</li></ul>|
 > |Edad| 29|
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
@@ -22,7 +22,7 @@ En los oscuros dominios de Eris, Akatsuki Kirei fue un ferviente devoto de [[Bel
 
 Allí, junto a su inseparable mejor amigo, [[JoJo]], Akatsuki ejecutó incontables actos de fe. No dudaron en ofrecer sacrificios humanos, asesinar a los [[Herejes]], y eliminar a cualquiera que blasfemara contra la voluntad de su dios. Ambos creían estar obrando por el bien mayor, ciegos por una fe que los deshumanizaba lentamente.
 
-Pero a diferencia de otros fanáticos, Akatsuki tenía un ancla: su esposa, [Amy][Amy Kirei], y su pequeño hijo, [Mindartis](Mindartis Kirei). Su devoción hacia ellos era igual o incluso mayor que la que sentía por Bellator. Su principal prioridad siempre fue protegerlos, incluso si eso significaba mancharse las manos para mantenerlos a salvo.
+Pero a diferencia de otros fanáticos, Akatsuki tenía un ancla: su esposa, [[Amy]], y su pequeño hijo, [[Mindartis]]. Su devoción hacia ellos era igual o incluso mayor que la que sentía por Bellator. Su principal prioridad siempre fue protegerlos, incluso si eso significaba mancharse las manos para mantenerlos a salvo.
 
 Sin embargo, la secta no tenía espacio para corazones divididos.
 

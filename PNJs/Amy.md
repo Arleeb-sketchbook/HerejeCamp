@@ -6,7 +6,7 @@
 > | ---- | ---- |
 > | Raza | Humano |
 > | Genero | Femenino |
-> |Relaciones| <ul>Familia<li>[[Akatsuki Kirei]] (Esposo) </li><li>[[Mindartis Kirei]] (Hijo)✝️</li>|</ul>
+> |Relaciones| <ul>Familia<li>[[Akatsuki Kirei]] (Esposo) </li><li>[[Mindartis]] (Hijo)✝️</li>|</ul>
 > |Edad| ??|
 > |Reino| [[Semigladi]]|
 > |Estado| Fallecido|
