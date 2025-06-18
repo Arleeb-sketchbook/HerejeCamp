@@ -39,10 +39,14 @@
             "id": "eab45a27e1bc1397",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Logica/Tabla de tributos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabla de tributos"
             }
           }
         ],
@@ -193,6 +197,7 @@
   },
   "active": "eab45a27e1bc1397",
   "lastOpenFiles": [
+    "PNJs/Nico.md",
     "Logica/Cadenas.md",
     "README.md",
     "Herejias/Herejes.md",
@@ -207,7 +212,6 @@
     "Reinos/Nullus.md",
     "Archivos/Mapa de Eris.png",
     "PNJs/PNJs.md",
-    "PNJs/Nico.md",
     "PNJs/Mindartis Kirei.md",
     "PNJs/Amy Kirei.md",
     "Planos y Semiplanos/Eris.md",
