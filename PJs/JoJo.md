@@ -8,7 +8,7 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Monje |
-> |Relaciones| <ul>Familia<li>Gadriel</li><li>George Joestar✝</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki Kirei]]</li><li>[[William]]✝️</li></ul>|
+> |Relaciones| <ul>Familia<li>Gildar Elmute (Hermano Adoptivo)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki Kirei]]</li><li>[[William]]✝️</li></ul>|
 > |Edad| 25 |
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
