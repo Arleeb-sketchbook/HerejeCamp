@@ -12,3 +12,8 @@
 > |Edad| 29|
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
+
+
+Akatsuki es un hombre alto, de complexión delgada pero firme, con un rostro endurecido por las noches sin dormir y los secretos que guarda en su pérdida memoria. Su cabello negro es desarreglado, enmarañado como si el viento fuera su único peine. Viste siempre un abrigo largo y oscuro, desgastado por las inclemencias del clima y los combates. Suele verse con un cigarro encendido, del cual el humo baila entre la bruma como si contara historias no dichas. Sus ojos, oscuros como una tormenta, esconden más de lo que muestran, y rara vez sonríe sin que haya dolor detrás.
+
+Akatsuki es reservado, sarcástico y de palabra afilada. No confía en casi nadie, pero cuando forma un lazo, lo protege con su vida. Habla poco, escucha mucho y observa todo. Tiene un código moral propio, moldeado por la traición y el exilio. Aunque parece frío, en su interior lucha constantemente contra el poder oscuro que lo tienta, La Venganza.
