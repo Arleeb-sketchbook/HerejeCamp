@@ -11,6 +11,5 @@ Jojo y Akatuski, refugiandose en [[Nullus]], se encontraban acampando tranquilam
 ```encounter
 name: Example
 creatures:
- - 3: Goblin
+ - 1: 
 ```
-````
