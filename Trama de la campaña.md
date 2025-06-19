@@ -1,1 +1,3 @@
-Meses después del [[Eclipse]]
+Meses después del [[Eclipse]]:
+
+[[JoJo]] y [[Akatsuki Kirei]]
