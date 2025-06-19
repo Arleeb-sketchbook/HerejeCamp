@@ -11,5 +11,7 @@ Jojo y Akatuski, refugiandose en [[Nullus]], se encontraban acampando tranquilam
 ```encounter
 name: Example
 creatures:
- - 1: 
+ - 1:Adult Black Dragon
+players:
+  - [[JoJo]]
 ```
