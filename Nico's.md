@@ -1,0 +1,1 @@
+La tienda de [[Nico]], vente diferentes armas y objetos para herejes
