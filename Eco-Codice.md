@@ -2,5 +2,5 @@ El Eco-Códice es una versión modificada de un antiguo dispositivo, permite rec
 ### Materiales
 ### Funcionamiento
 ### Apariencia
-Una Tablilla de piedra ( O algún material desconocido ) negra en un marco de tuberías
-![[Pasted image 20250619192919.png]]
+Una Tablilla de piedra ( O algún material desconocido ) negra en un marco metalico con tuberías detrás, las tuberías se sienten tibias
+![[Pasted image 20250619194117.png]]
