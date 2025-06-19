@@ -8,4 +8,4 @@ Meses después del [[Eclipse]]:
 > [!tip] Nota
 > la batalla esta scriptada, si ganan apareceran 4 mas y se salta a cuando los capturan.
 
-Una vez capturados, se encuentran con [[Personaje de Max]]. Trego se presenta
+Una vez capturados, se encuentran con [[Personaje de Max]]. Trego se presenta usando el Hechizo Proyec
