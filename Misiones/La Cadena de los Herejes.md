@@ -22,4 +22,4 @@ Después de una pausa o pregunta de los personajes , continua
  Trego explica como se hace una cadena
 *algo bla bla bla*
 
-Trego envia a los herejes a una mazmorra a conseguir tri
+Trego envía a los herejes a una mazmorra a conseguir tributos, en la misma, al entrar, [[Una Voz Misteriosa]] se comunica con la cadena, y les dije "Tre no es diferente a otros [[Rey-Dios]]"
