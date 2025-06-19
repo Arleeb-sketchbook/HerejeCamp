@@ -7,3 +7,4 @@ La nota dejada caer por [[Trego el Zombrujo]] lee:
 Una firma en la parte de atrás dice
 > "— Tu Amiga, [[Nico]]"
 
+Si deciden viajar a Velum, buscando encontraran 
