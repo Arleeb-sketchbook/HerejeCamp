@@ -22,4 +22,6 @@ Después de una pausa o pregunta de los personajes , continua
  Trego explica como se hace una cadena
 *algo bla bla bla*
 
-Trego envía a los herejes a una mazmorra a conseguir tributos, en la misma, al entrar, [[Una Voz Misteriosa]] se comunica con la cadena, y les dije "Tre no es diferente a otros [[Rey-Dios]]"
+Trego envía a los herejes a una mazmorra a conseguir tributos, en la misma, al entrar, [[Una Voz Misteriosa]] se comunica con la cadena, y les dije "Trego no es diferente a otros [[Rey-Dios]], si lo desean... quédense con lo que es suyo"
+
+La cadena, durante un descanso largo soñaran con La figura que se le pres
