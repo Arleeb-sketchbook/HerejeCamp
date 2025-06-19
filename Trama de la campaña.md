@@ -1,3 +1,4 @@
 Meses después del [[Eclipse]]:
 
-[[JoJo]], [[Akatsuki Kirei]] y [[Personaje ]] 
+Sesión 0:
+[[JoJo]], [[Akatsuki Kirei]] y [[Personaje de Max]] 
