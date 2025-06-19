@@ -9,10 +9,28 @@
       "hp": 42,
       "modifier": 3,
       "player": true
+    },
+    {
+      "note": "Akatsuki",
+      "path": "PJs/Akatsuki.md",
+      "name": "Akatsuki",
+      "level": 5,
+      "hp": 65,
+      "ac": "18",
+      "modifier": 2,
+      "player": true
     }
   ],
-  "parties": [],
-  "defaultParty": null,
+  "parties": [
+    {
+      "name": "Herejes",
+      "players": [
+        "JoJo",
+        "Akatsuki"
+      ]
+    }
+  ],
+  "defaultParty": "Herejes",
   "statuses": [
     {
       "name": "Blinded",
