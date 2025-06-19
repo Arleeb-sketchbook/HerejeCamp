@@ -1,5 +1,5 @@
 [[JoJo]]
-[[Akatsuki Kirei]]
+[[Akatsuki]]
 [[Personaje de Max]]
 
 
