@@ -18,4 +18,4 @@ Despues de una pausa o pregunta de los personajes , continua
 
 ...
 
-`Ustdes crearan una Cadena entre ustedes, y todos me tributaran. Obedeceran`
+`Ustdes crearan una Cadena entre ustedes, y todos me tributaran. Obedeceran, si no, más de mis devoradores`
