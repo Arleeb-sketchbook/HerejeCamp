@@ -4,7 +4,7 @@ columns: 2
 forcecolumns: true
 layout: DnD 5e
 source: B1
-name: Adult Blue Dragon
+name: Devora Conocimiento
 level: Creature 13
 alignment: LE
 size: Huge
@@ -65,11 +65,3 @@ spellcasting:
     desc: DC 33; __Cantrips (6th)__ [[ghost-sound|ghost sound]]; __1st__ [[create-water|create water]] at will; see desert thirst; __6th__ [[illusory-creature|illusory creature]], [[illusory-object|illusory object]], [[ventriloquism]] (at will);
 sourcebook: _Bestiary_, page 108.
 ---
-
-
-Note Content Here
-
-```statblock
-creature: Adult Blue Dragon
-```
-
