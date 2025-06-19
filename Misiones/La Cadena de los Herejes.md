@@ -26,4 +26,4 @@ Trego envía a los herejes a una mazmorra a conseguir tributos, en la misma, al 
 
 La cadena, durante un descanso largo soñaran con La figura que se le presento a Scivi hace millones de años, presentándoles las [[Habilidades Heréticas]], Esto les dara el suficiente poder para derrotar a Trego.
 
-Derrotar a Trego dejara caer "[[]]"
+Derrotar a Trego dejara caer "[[La nota de Nico]]".
