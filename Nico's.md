@@ -2,9 +2,9 @@ La tienda y casa de [[Nico]], vende diferentes armas y objetos para herejes, que
 
 
 ##### Armas
-| Nombre | Descripción | Precio |
-|--------|-------------|--------|
+| Nombre | Descripción | Precio |Habilidad|
+|--------|-------------|--------|---------|
 
-##### Armas
-| Nombre | Descripción | Precio |
-|--------|-------------|--------|
+##### Objetos Herejes
+| Nombre | Descripción | Precio |Habilidad|
+|--------|-------------|--------|---------|
