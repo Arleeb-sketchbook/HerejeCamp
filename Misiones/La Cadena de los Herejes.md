@@ -12,7 +12,7 @@ Una vez capturados, se encuentran con [[Personaje de Max]]. Trego se presenta us
 
 `"Ustedes, son herejes, verdad? No intenten mentirme; Sus marcas han cambiado, y reconoceria esa mutacion donde fuese."`
 
-Despues de una pausa o pregunta de los personajes , continua
+Después de una pausa o pregunta de los personajes , continua
 
 `No soy diferente a ustedes, solo busco el poder que la [[Lógica de la espada]] puede ofrecer. Y ustedes me ayudaran a eso.`
 
