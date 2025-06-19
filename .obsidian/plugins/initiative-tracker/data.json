@@ -1,5 +1,16 @@
 {
-  "players": [],
+  "players": [
+    {
+      "note": "JoJo",
+      "path": "PJs/JoJo.md",
+      "name": "JoJo",
+      "level": 5,
+      "ac": "16",
+      "hp": 42,
+      "modifier": 3,
+      "player": true
+    }
+  ],
   "parties": [],
   "defaultParty": null,
   "statuses": [
