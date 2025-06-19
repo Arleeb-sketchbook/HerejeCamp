@@ -5,13 +5,6 @@ Meses después del [[Eclipse]]:
 
 _Los Herejes protagonistas ([[JoJo]], [[Akatsuki]] y [[Personaje de Max]]) son capturados y  obligados a formar una cadena_ 
 
-Jojo y Akatuski, refugiandose en [[Nullus]], se encontraban acampando tranquilamente en un paramo rodeado por arboles muertos. Su tranquilidad dura poco, pues inesperadamente llega
+Jojo y Akatuski, refugiandose en [[Nullus]], se encontraban acampando tranquilamente en un paramo rodeado por arboles muertos. Su tranquilidad dura poco, pues inesperadamente llega 
 
-dice: 3d4+3d4-(3d4 * 1d4) - 2^1d7
 
-```encounter
-name: Example
-creatures:
- - 1:Adult Black Dragon
-party: Herejes
-```
