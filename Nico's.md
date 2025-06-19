@@ -1,1 +1,3 @@
-La tienda de [[Nico]], vente diferentes armas y objetos para herejes
+La tienda y casa de [[Nico]], vende diferentes armas y objetos para herejes, que mejoran o modifican diferentes [[Habilidades Heréticas]]
+
+>
