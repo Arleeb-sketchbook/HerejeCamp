@@ -13,7 +13,5 @@ dice: 3d4+3d4-(3d4 * 1d4) - 2^1d7
 name: Example
 creatures:
  - 1:Adult Black Dragon
-party: true
-players:
-  - Jojo:1
+party: Herejes
 ```
