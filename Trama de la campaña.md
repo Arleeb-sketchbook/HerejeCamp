@@ -1,8 +1,8 @@
 
 
-### Sesión 0: La [Cadena](Cadenas) de los [[Herejes]]
+### Sesión 0: [[La [Cadena](Cadenas) de los [[Herejes]]]]]]
 %%Los herejes empiezan a nivel 5 con 0 tributos%%
-###### Los Herejes protagonistas ([[JoJo]], [[Akatsuki]] y [[Personaje de Max]]) son capturados y obligados a formar una cadena_. Aqui empieza su aventura 
+_Los Herejes protagonistas ([[JoJo]], [[Akatsuki]] y [[Personaje de Max]]) son capturados y obligados a formar una cadena. Aqui empieza su aventura_ 
 
 Meses después del [[Eclipse]]:
 
