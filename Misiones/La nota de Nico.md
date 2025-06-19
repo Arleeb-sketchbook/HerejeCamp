@@ -7,4 +7,4 @@ La nota dejada caer por [[Trego el Zombrujo]] lee:
 Una firma en la parte de atrás dice
 > "— Tu Amiga, [[Nico]]"
 
-Si deciden viajar a Velum, buscando encontraran la tienda [[Nico's never cry]], conoceran a Nico, al final, para celebrar la nueva amistad, Nico les regala la [[]]
+Si deciden viajar a Velum, buscando encontraran la tienda [[Nico's never cry]], conoceran a Nico, al final, para celebrar la nueva amistad, Nico les regala el [[Eco-Codice]]
