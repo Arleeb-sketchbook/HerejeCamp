@@ -7,7 +7,7 @@ _Los Herejes protagonistas ([[JoJo]], [[Akatsuki]] y [[Personaje de Max]]) son c
 
 Jojo y Akatuski, refugiandose en [[Nullus]], se encontraban acampando tranquilamente en un paramo rodeado por arboles muertos. Su tranquilidad dura poco, pues inesperadamente llega
 
-````yaml
+
 ```encounter
 name: Example
 creatures:
