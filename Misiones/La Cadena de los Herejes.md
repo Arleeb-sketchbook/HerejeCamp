@@ -14,4 +14,4 @@ Una vez capturados, se encuentran con [[Personaje de Max]]. Trego se presenta us
 
 Despues de una pausa o pregunta de los personajes , continua
 
-`No soy diferente a ustedes, solo busco el poder que la [[logica de `
+`No soy diferente a ustedes, solo busco el poder que la [[Lógica de la espada]] puede ofrecer. Y ustedes me ayudaran a eso.`
