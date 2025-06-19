@@ -19,4 +19,7 @@ Después de una pausa o pregunta de los personajes , continua
 ...
 
 `Ustdes crearan una Cadena entre ustedes, y todos me tributaran. Obedeceran, si no, más de mis devoradores los motivaran, y esta vez... no les prohibire comer sus cerebros.`
+ Trego explica como se hace una cadena
+*algo bla bla bla*
 
+Trego envia a los herejes a una mazmorra a conseguir tri
