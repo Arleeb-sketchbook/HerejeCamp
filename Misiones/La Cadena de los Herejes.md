@@ -10,7 +10,7 @@ Meses después del [[Eclipse]]:
 
 Una vez capturados, se encuentran con [[Personaje de Max]]. Trego se presenta usando el Hechizo Proyectar Imagen, les explica su situación de manera clara:
 
-`"Ustedes, son herejes, verdad? No intenten mentirme; Sus marcas han cambiado, y reconoceria esa mutacion donde fuese."`
+`"Ustedes... ustede son herejes, verdad? No intenten mentirme; Sus marcas han cambiado, y reconoceria esa mutacion donde fuese."`
 
 Después de una pausa o pregunta de los personajes , continua
 
