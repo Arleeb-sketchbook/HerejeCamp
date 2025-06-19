@@ -1,5 +1,5 @@
-%%Los herejes empiezan a nivel 5 con 0 tributos%%
-_Los [[Herejes]] protagonistas ([[JoJo]], [[Akatsuki]] y [[Personaje de Max]]) son capturados y obligados a formar una [[Cadenas]]a. Aqui empieza su aventura_ 
+
+_Los [[Herejes]] protagonistas ([[JoJo]], [[Akatsuki]] y [[Personaje de Max]]) son capturados y obligados a formar una [Cadena](Cadenas). Aquí empieza su aventura_ 
 
 Meses después del [[Eclipse]]:
 
