@@ -2,4 +2,5 @@ El Eco-Códice es una versión modificada de un antiguo dispositivo, permite rec
 ### Materiales
 ### Funcionamiento
 ### Apariencia
+
 ![[Pasted image 20250619192919.png]]
