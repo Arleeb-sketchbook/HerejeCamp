@@ -27,6 +27,6 @@ Trego envía a los herejes a una mazmorra a conseguir tributos, en la misma, al 
 
 La cadena, durante un descanso largo soñaran con La figura que se le presento a Scivi hace millones de años, presentándoles las [[Habilidades Heréticas]], Esto les dara el suficiente poder para derrotar a Trego.
 
-Derrotar a Trego dejara caer "[[La nota de Nico]]". Y mostrara a al [[Tsucora Quori]] que lo controlaba por un momento, antes de que este vuelva al [[Plano onirico]].
+Derrotar a Trego dejara caer una nota. Y mostrara a al [[Tsucora Quori]] que lo controlaba por un momento, antes de que este ultimo vuelva al [[Plano onirico]].
 
-Misión finalizada.
+Misión finalizada; Recompenza: Acceso a la misión "[[La nota de Nico]]"
