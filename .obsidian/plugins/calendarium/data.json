@@ -279,7 +279,24 @@
             "offset": 0
           }
         ],
-        "moons": [],
+        "moons": [
+          {
+            "name": "Obliva",
+            "cycle": 15,
+            "offset": 0,
+            "faceColor": "#cce9ff",
+            "shadowColor": "#000",
+            "id": "ID_ca783a8ac9a8"
+          },
+          {
+            "name": "Ruul",
+            "cycle": 93,
+            "offset": 0,
+            "faceColor": "#740202",
+            "shadowColor": "#000",
+            "id": "ID_08188b293879"
+          }
+        ],
         "displayMoons": true,
         "displayDayNumber": false,
         "leapDays": [
@@ -376,9 +393,49 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Nace Akatsuki",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 2,
+            "year": 1603
+          },
+          "id": "ID_98a819c919d9",
+          "note": "PJs/Akatsuki.md",
+          "category": "ID_4a087b29f9e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Nace Personaje de Max",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 16,
+            "year": 1595
+          },
+          "id": "ID_6b29f8589b99",
+          "note": "PJs/Personaje de Max.md",
+          "category": "ID_4a087b29f9e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
-      "categories": [],
+      "categories": [
+        {
+          "id": "ID_4a087b29f9e8",
+          "color": "#e2c346",
+          "name": "Cumpleaños"
+        }
+      ],
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",

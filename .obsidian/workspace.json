@@ -180,6 +180,11 @@
               "state": {
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 15,
+                    "month": 2,
+                    "year": 1632
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
@@ -192,7 +197,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a"
+                "id": "ID_99187928a94a",
+                "child": "ID_6a88eb693bca"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -200,6 +206,26 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "96721c51987e5e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a14bb98384e0c10",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_cb3beb798a09",
+                "id": "ID_6a88eb693bca",
+                "parent": "ID_99187928a94a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,6 +247,6 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "042a3872f7f782b9",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": []
 }
