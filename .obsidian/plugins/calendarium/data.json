@@ -290,7 +290,7 @@
           },
           {
             "name": "Ruul",
-            "cycle": 93,
+            "cycle": 90,
             "offset": 0,
             "faceColor": "#740202",
             "shadowColor": "#000",
@@ -427,6 +427,28 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Mes Escarlata 1632",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": 1,
+            "year": 1632
+          },
+          "id": "ID_58bad809496b",
+          "note": "Eventos/Mes Escarlata.md",
+          "category": "ID_482a3b88b83a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "month": 4,
+            "day": 15,
+            "year": 1632
+          }
         }
       ],
       "categories": [
@@ -434,6 +456,11 @@
           "id": "ID_4a087b29f9e8",
           "color": "#e2c346",
           "name": "Cumpleaños"
+        },
+        {
+          "id": "ID_482a3b88b83a",
+          "color": "#ff0000",
+          "name": "Meses Escarlata"
         }
       ],
       "path": [],
