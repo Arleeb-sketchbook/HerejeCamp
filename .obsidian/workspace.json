@@ -11,14 +11,12 @@
             "id": "504d1f6174846d66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Semana Escarlata.md",
-                "mode": "source",
-                "source": false
+                "file": "_Archivos/OIG1.webp"
               },
-              "icon": "lucide-file",
-              "title": "Semana Escarlata"
+              "icon": "lucide-image",
+              "title": "OIG1"
             }
           }
         ]
@@ -251,14 +249,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2a14bb98384e0c10",
+  "active": "042a3872f7f782b9",
   "lastOpenFiles": [
-    "Pasted image 20250620150623.jpg",
-    "Semana Escarlata.md",
-    "Ruul.md",
-    "Obliva.md",
-    "Pasted image 20250620150145.jpg",
-    "OIG1.webp",
-    "Sin nombre"
+    "_Archivos/OIG1.webp",
+    "Eventos/Semana Escarlata.md",
+    "Eventos",
+    "Cuerpos Celestes",
+    "_Archivos/Pasted image 20250620150623.jpg",
+    "Cuerpos Celestes/Ruul.md",
+    "Cuerpos Celestes/Obliva.md",
+    "_Archivos/Pasted image 20250620150145.jpg"
   ]
 }
