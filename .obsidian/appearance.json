@@ -2,5 +2,7 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "archivo"
-  ]
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }
