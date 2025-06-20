@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misiones/Principales/La Cadena de los Herejes.md",
+                "file": "Objetos/Objetos Clave/Eco-Codice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Cadena de los Herejes"
+              "title": "Eco-Codice"
             }
           }
         ]
@@ -246,6 +246,8 @@
   },
   "active": "d147c9121d9dc096",
   "lastOpenFiles": [
+    "Misiones/Principales/La nota de Nico.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
     "Enemigos/Tsucora Quori.md",
     "Misiones/Secundarias",

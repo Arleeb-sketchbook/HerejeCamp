@@ -29,4 +29,4 @@ La cadena, durante un descanso largo soñaran con La figura que se le presento a
 
 Derrotar a Trego dejara caer una nota. Y mostrara a al [[Tsucora Quori]] que lo controlaba por un momento, antes de que este ultimo vuelva al [[Plano onirico]].
 
-Misión finalizada; Recompenza: Acceso a la misión "[[La nota de Nico]]"
+Misión finalizada; Recompensa: Acceso a la misión "[[La nota de Nico]]"
