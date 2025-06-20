@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinos/Velum.md",
+                "file": "PNJs/Nico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velum"
+              "title": "Nico"
             }
           }
         ]
@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,6 +246,8 @@
   },
   "active": "d147c9121d9dc096",
   "lastOpenFiles": [
+    "Trama de la campaña.md",
+    "Reinos/Velum.md",
     "Reinos/Semigladi.md",
     "Reinos/Nullus.md",
     "Reyes-Dios/Scivi.md",

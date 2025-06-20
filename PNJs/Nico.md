@@ -7,7 +7,7 @@
 > | Raza | Humana |
 > | Genero | Femenina |
 > | Clase | Artífice |
-> |Relaciones|Aliados: ![[PJs]]|
+> |Relaciones|Aliados: ![[PJs]] [[Trego el Zombrujo]]|
 > |Edad| 20|
 > |Reino| [[Velum]]|
 > |Estado| Viva|
