@@ -31,6 +31,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
+        "dimension": 66.45244215938303,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -77,6 +78,7 @@
       {
         "id": "1ceb11ac5e6d70f6",
         "type": "tabs",
+        "dimension": 33.54755784061697,
         "children": [
           {
             "id": "042a3872f7f782b9",
@@ -181,7 +183,7 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 4,
+                    "day": 5,
                     "month": 4,
                     "year": 1632
                   },
@@ -247,6 +249,8 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2a14bb98384e0c10",
-  "lastOpenFiles": []
+  "active": "6e64f4d2d0ebca74",
+  "lastOpenFiles": [
+    "Sin nombre"
+  ]
 }
