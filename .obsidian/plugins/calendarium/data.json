@@ -359,7 +359,25 @@
         "month": 2,
         "year": 1632
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Eclipse",
+          "description": "El día que todo cambio...\n",
+          "date": {
+            "day": 10,
+            "month": 0,
+            "year": 1632
+          },
+          "id": "ID_aa59398a1b08",
+          "note": "DESCONOCIDO/Eclipse.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
