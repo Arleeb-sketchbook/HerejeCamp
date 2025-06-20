@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b04b73f152f05028",
+        "id": "3ecc82b3e419c7e2",
         "type": "tabs",
         "children": [
           {
-            "id": "504d1f6174846d66",
+            "id": "d147c9121d9dc096",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "card-browser-view",
               "state": {
-                "file": "_Archivos/OIG1.webp"
+                "path": "/"
               },
-              "icon": "lucide-image",
-              "title": "OIG1"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -183,14 +183,14 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
-                    "month": 2,
-                    "year": 1634
+                    "day": 15,
+                    "month": 4,
+                    "year": 1632
                   },
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
-                    "month": 2,
+                    "month": 4,
                     "year": 1632
                   },
                   "displayDayNumber": false,
@@ -249,7 +249,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "042a3872f7f782b9",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
     "_Archivos/OIG1.webp",
     "Eventos/Semana Escarlata.md",
