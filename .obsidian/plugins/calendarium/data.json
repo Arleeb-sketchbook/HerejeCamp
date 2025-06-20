@@ -1,10 +1,443 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Calendario de Tributos",
+      "description": "",
+      "id": "ID_58cadb295b3b",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Aon",
+            "id": "ID_89e9591b299b"
+          },
+          {
+            "type": "day",
+            "name": "Dhà",
+            "id": "ID_99ab4b297bc8"
+          },
+          {
+            "type": "day",
+            "name": "Trì",
+            "id": "ID_c908ead9081a"
+          },
+          {
+            "type": "day",
+            "name": "Ceithir",
+            "id": "ID_ab28ea8bbaca"
+          },
+          {
+            "type": "day",
+            "name": "Còig",
+            "id": "ID_fa2abbf9ab8b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Unus",
+            "length": 20,
+            "id": "ID_59bb7b8bf9c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Duo",
+            "length": 20,
+            "id": "ID_e919e88a0bc8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tertius",
+            "length": 20,
+            "id": "ID_bb98b8c8980a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quattuor",
+            "length": 20,
+            "id": "ID_4988ba9aba0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quinque",
+            "length": 20,
+            "id": "ID_1a9908daf809",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sextus",
+            "length": 20,
+            "id": "ID_b81bdabb3909",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_f9d918886a09",
+            "type": "era",
+            "name": "Meridies",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": true,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 1600,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 1999,
+              "month": 5,
+              "day": 20
+            }
+          },
+          {
+            "id": "ID_a9297bb90a79",
+            "type": "era",
+            "name": "Origo",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 0,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 100,
+              "month": 5,
+              "day": 20
+            }
+          }
+        ],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_3ac91ba8295b",
+            "name": "Frigus",
+            "type": "Periodic",
+            "color": "#2689f2",
+            "duration": 60,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_485a09c82baa",
+            "name": "Calidus",
+            "type": "Periodic",
+            "color": "#d8b32d",
+            "duration": 60,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -350556114,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 9,
+        "month": 2,
+        "year": 1800
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "D/M/YYYY"
+    },
+    {
+      "name": "Tributary",
+      "description": null,
+      "id": "ID_b84a3bca881a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Aon",
+            "id": "ID_fb39aaebbbba",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Diog",
+            "id": "ID_1a584b5aab5b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Triuir",
+            "id": "ID_1be858cb0889",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Ceithir",
+            "id": "ID_cb4808395b29",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Coig",
+            "id": "ID_3919caf95bd9",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Primus",
+            "type": "month",
+            "length": 15,
+            "id": "ID_fb9bf99bd979",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Secundus",
+            "type": "month",
+            "length": 16,
+            "id": "ID_fabaab4aa83b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Tertius",
+            "type": "month",
+            "length": 15,
+            "id": "ID_99d9f8dada6b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Quarta",
+            "type": "month",
+            "length": 16,
+            "id": "ID_c86809eae8db",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Quintus",
+            "type": "month",
+            "length": 15,
+            "id": "ID_abcb798b397b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Praeter",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 2
+              }
+            ],
+            "timespan": 0,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_eb6ba84b7b5a"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_d86a1a580ac9",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Meridies",
+            "description": "",
+            "format": "Year {{era_year}} - {{era_name}}",
+            "date": {
+              "year": 1400,
+              "month": 2,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_ca5a28f8595b",
+            "name": "Frigus",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 38.75,
+            "peak": 0,
+            "color": "#11b2df",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_da69ea9b2b2b",
+            "name": "Calidus",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 38.75,
+            "peak": 0,
+            "color": "#ff0000",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 1,
+        "month": 2,
+        "year": 1600
+      },
+      "events": [
+        {
+          "name": "Frigus Solstice",
+          "description": "",
+          "id": "3199070",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Frigus Equinox",
+          "description": "",
+          "id": "3199071",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Calidus Solstice",
+          "description": "",
+          "id": "3199072",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Calidus Equinox",
+          "description": "",
+          "id": "3199073",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_b84a3bca881a",
   "eventPreview": false,
   "exit": {
     "saving": false,
