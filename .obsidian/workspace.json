@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "0053d3726dc62a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ff17506fa92df94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c354a7db5bdcc6",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c23d72b9badb8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8db30b976506f62d",
+        "type": "tabs",
+        "dimension": 61.55844155844156,
+        "children": [
+          {
+            "id": "c8f9175d971abd15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "274ae7d3653c6c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "62991f8a79cf2fe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "28f8c1ba886fb11e",
+        "type": "tabs",
+        "dimension": 38.44155844155844,
+        "children": [
+          {
+            "id": "ef92ac1cd899c6c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "cc8e88d7d90ed051",
+    "type": "split",
+    "children": [
+      {
+        "id": "888d8ac76c0fefbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9767ee7b313be35",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_cb3beb798a09",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 7,
+                    "month": 2,
+                    "year": 1632
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_ba0b8819e998"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "hide-folders:Show hidden folders": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false,
+      "project-browser:Open project browser": false
+    }
+  },
+  "active": "f9767ee7b313be35",
+  "lastOpenFiles": [
+    "README.md",
+    "DESCONOCIDO/Eclipse.md",
+    "Herejias/Herejes.md",
+    "Trama de la campaña.md",
+    "Objetos/Objetos Clave/Eco-Codice.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
+    "Enemigos/Trego el Zombrujo.md",
+    "Enemigos/Tsucora Quori.md",
+    "Herejias/Habilidades Heréticas.md",
+    "Herejias/Habilidad Herética/Aspectos Elementales.md",
+    "Misiones/Principales/La nota de Nico.md",
+    "Misiones/Secundarias",
+    "Misiones/Principales",
+    "Reinos/Lugares Importantes/En Velum/Nico's.md",
+    "Logica/Tabla de tributos.md",
+    "_Archivos/Pasted image 20250619192919.png",
+    "Objetos/Objetos Herejes",
+    "Objetos/Objetos",
+    "Objetos/Objetos Clave",
+    "Objetos",
+    "_Archivos/Pasted image 20250619194117.png",
+    "Planos y Semiplanos/Plano onirico.md",
+    "PJs/Akatsuki.md",
+    "Misiones",
+    "_Archivos/Pasted image 20250619172054.png",
+    "Enemigos",
+    "_Archivos/Pasted image 20250619172254.png",
+    "Enemigos/Devorador de conocimiento.md",
+    "_Archivos/Pasted image 20250619172802.png",
+    "_Archivos/Pasted image 20250619172734.png",
+    "_Archivos/Pasted image 20250619172658.png",
+    "_Archivos/Pasted image 20250619172639.png",
+    "Devora Conocimiento.md",
+    "Logica/Cadenas.md",
+    "PJs/Personaje de Max.md",
+    "PJs/PJs.md",
+    "PNJs/PNJs.md",
+    "PNJs/Mindartis.md",
+    "PNJs/Amy.md",
+    "Amy.md",
+    "PJs/JoJo.md",
+    "PNJs/Nico.md",
+    "Nuevo Text Document.txt",
+    "_Archivos/Mapa de Eris.png",
+    "_Archivos/Scivi.png"
+  ]
+}
