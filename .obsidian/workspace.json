@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNJs/Nico.md",
+                "file": "Enemigos/Tsucora Quori.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nico"
+              "title": "Tsucora Quori"
             }
           }
         ]
@@ -246,6 +246,7 @@
   },
   "active": "d147c9121d9dc096",
   "lastOpenFiles": [
+    "PNJs/Nico.md",
     "Trama de la campaña.md",
     "Reinos/Velum.md",
     "Reinos/Semigladi.md",
