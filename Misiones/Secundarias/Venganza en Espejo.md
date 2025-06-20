@@ -1,5 +1,5 @@
 ---
-state: "[[Idea]]"
+state: Idea
 ---
 _Un antiguo enemigo busca venganza... pero no contra los herejes?_
 
