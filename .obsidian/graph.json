@@ -57,10 +57,38 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Planos y Semiplanos\"  ",
       "color": {
         "a": 1,
         "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:PNJs  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Reinos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Reyes-Dios  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Herejias/Habilidad Herética\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -74,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181629,
+  "scale": 0.7132754626224432,
   "close": false
 }
