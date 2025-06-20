@@ -185,15 +185,15 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 15,
+                    "day": 10,
                     "month": 4,
-                    "year": 1632
+                    "year": 1633
                   },
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
                     "month": 4,
-                    "year": 1632
+                    "year": 1633
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -251,7 +251,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d147c9121d9dc096",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
     "Cuerpos Celestes/Obliva.md",
     "Eventos/Mes Escarlata.md",
