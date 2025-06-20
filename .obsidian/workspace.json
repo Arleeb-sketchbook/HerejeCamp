@@ -11,12 +11,14 @@
             "id": "504d1f6174846d66",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Ruul.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "Ruul"
             }
           },
           {
@@ -33,8 +35,7 @@
               "title": "Obliva"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,10 +265,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "eb4604276069d62c",
+  "active": "504d1f6174846d66",
   "lastOpenFiles": [
-    "Ruul.md",
     "Obliva.md",
+    "Pasted image 20250620150145.jpg",
+    "Ruul.md",
     "OIG1.webp",
     "Sin nombre"
   ]
