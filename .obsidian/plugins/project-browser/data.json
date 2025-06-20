@@ -21,27 +21,27 @@
       {
         "name": "Idea",
         "defaultView": "Small Cards",
-        "link": true
+        "link": false
       },
       {
         "name": "Shortlisted",
         "defaultView": "Small Cards",
-        "link": true
+        "link": false
       },
       {
         "name": "Drafting",
         "defaultView": "Detailed Cards",
-        "link": true
+        "link": false
       },
       {
         "name": "Focus",
         "defaultView": "Simple Cards",
-        "link": true
+        "link": false
       },
       {
         "name": "Final",
         "defaultView": "Small Cards",
-        "link": true
+        "link": false
       }
     ],
     "hidden": [
