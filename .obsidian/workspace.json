@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0053d3726dc62a9b",
+    "id": "1c6cb5f20519f6d4",
     "type": "split",
     "children": [
       {
-        "id": "1ff17506fa92df94",
+        "id": "b04b73f152f05028",
         "type": "tabs",
         "children": [
           {
-            "id": "12c354a7db5bdcc6",
+            "id": "504d1f6174846d66",
             "type": "leaf",
             "state": {
               "type": "card-browser-view",
@@ -25,16 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c23d72b9badb8a7",
+    "id": "b43714d35f874245",
     "type": "split",
     "children": [
       {
-        "id": "8db30b976506f62d",
+        "id": "7d6fbb094a8cac81",
         "type": "tabs",
-        "dimension": 61.55844155844156,
         "children": [
           {
-            "id": "c8f9175d971abd15",
+            "id": "6e64f4d2d0ebca74",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +46,7 @@
             }
           },
           {
-            "id": "274ae7d3653c6c38",
+            "id": "3341491a95acc9f8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +63,7 @@
             }
           },
           {
-            "id": "62991f8a79cf2fe3",
+            "id": "dc285013e6773b46",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,12 +75,11 @@
         ]
       },
       {
-        "id": "28f8c1ba886fb11e",
+        "id": "1ceb11ac5e6d70f6",
         "type": "tabs",
-        "dimension": 38.44155844155844,
         "children": [
           {
-            "id": "ef92ac1cd899c6c2",
+            "id": "042a3872f7f782b9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,25 +92,94 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 673.5
   },
   "right": {
-    "id": "cc8e88d7d90ed051",
+    "id": "68bfb69048dad351",
     "type": "split",
     "children": [
       {
-        "id": "888d8ac76c0fefbb",
+        "id": "bf26cb86a4d109db",
         "type": "tabs",
         "children": [
           {
-            "id": "f9767ee7b313be35",
+            "id": "e3effd46c32fd311",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "df6d53407254e54e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "a938b0d28baf10aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1e75cbf05cdcc1c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "e6a1269f37f64e23",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "d4ddbf1fba68344e",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
-                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
@@ -125,17 +192,18 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_ba0b8819e998"
+                "id": "ID_99187928a94a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,56 +217,10 @@
       "hide-folders:Show hidden folders": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f9767ee7b313be35",
-  "lastOpenFiles": [
-    "README.md",
-    "DESCONOCIDO/Eclipse.md",
-    "Herejias/Herejes.md",
-    "Trama de la campaña.md",
-    "Objetos/Objetos Clave/Eco-Codice.md",
-    "Misiones/Principales/La Cadena de los Herejes.md",
-    "Enemigos/Trego el Zombrujo.md",
-    "Enemigos/Tsucora Quori.md",
-    "Herejias/Habilidades Heréticas.md",
-    "Herejias/Habilidad Herética/Aspectos Elementales.md",
-    "Misiones/Principales/La nota de Nico.md",
-    "Misiones/Secundarias",
-    "Misiones/Principales",
-    "Reinos/Lugares Importantes/En Velum/Nico's.md",
-    "Logica/Tabla de tributos.md",
-    "_Archivos/Pasted image 20250619192919.png",
-    "Objetos/Objetos Herejes",
-    "Objetos/Objetos",
-    "Objetos/Objetos Clave",
-    "Objetos",
-    "_Archivos/Pasted image 20250619194117.png",
-    "Planos y Semiplanos/Plano onirico.md",
-    "PJs/Akatsuki.md",
-    "Misiones",
-    "_Archivos/Pasted image 20250619172054.png",
-    "Enemigos",
-    "_Archivos/Pasted image 20250619172254.png",
-    "Enemigos/Devorador de conocimiento.md",
-    "_Archivos/Pasted image 20250619172802.png",
-    "_Archivos/Pasted image 20250619172734.png",
-    "_Archivos/Pasted image 20250619172658.png",
-    "_Archivos/Pasted image 20250619172639.png",
-    "Devora Conocimiento.md",
-    "Logica/Cadenas.md",
-    "PJs/Personaje de Max.md",
-    "PJs/PJs.md",
-    "PNJs/PNJs.md",
-    "PNJs/Mindartis.md",
-    "PNJs/Amy.md",
-    "Amy.md",
-    "PJs/JoJo.md",
-    "PNJs/Nico.md",
-    "Nuevo Text Document.txt",
-    "_Archivos/Mapa de Eris.png",
-    "_Archivos/Scivi.png"
-  ]
+  "active": "042a3872f7f782b9",
+  "lastOpenFiles": []
 }

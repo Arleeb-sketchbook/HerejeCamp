@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-tag:#oculto  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,84 +11,56 @@
       "query": "path:DESCONOCIDO  ",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"Herejias/Habilidad Herética\"  -file:\"Habilidades Hereticas\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431478
+        "rgb": 14701138
       }
     },
     {
       "query": "path:Herejias  ",
       "color": {
         "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
-      "query": "path:Logica  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:PJs  ",
-      "color": {
-        "a": 1,
-        "rgb": 16751001
-      }
-    },
-    {
-      "query": "path:PNJs  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:\"Planos y Semiplanos\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65310
-      }
-    },
-    {
-      "query": "path:Reinos  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "path:Reyes-Dios  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "file:\"la criatura\"",
-      "color": {
-        "a": 1,
-        "rgb": 16711867
-      }
-    },
-    {
-      "query": "path:Misiones  ",
-      "color": {
-        "a": 1,
-        "rgb": 3431704
+        "rgb": 14725458
       }
     },
     {
       "query": "path:Enemigos  ",
       "color": {
         "a": 1,
-        "rgb": 6356992
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Logica  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Misiones  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Objetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:PJs  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -102,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25194465520514525,
-  "close": true
+  "scale": 0.2588386562181629,
+  "close": false
 }
