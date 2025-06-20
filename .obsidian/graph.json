@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-tag:#oculto  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Herejias/Habilidad Herética\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     },
     {
@@ -83,13 +90,6 @@
         "a": 1,
         "rgb": 14725458
       }
-    },
-    {
-      "query": "path:\"Herejias/Habilidad Herética\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224432,
-  "close": false
+  "scale": 0.25883865621816343,
+  "close": true
 }
