@@ -1,7 +1,8 @@
 {
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "archivo"
+    "archivo",
+    "radius"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": ""
