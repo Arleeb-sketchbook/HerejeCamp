@@ -1,4 +1,4 @@
-div {
+*,:not {
     border-radius: 25px;
 
 }
