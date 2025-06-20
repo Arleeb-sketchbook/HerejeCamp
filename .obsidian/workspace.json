@@ -185,9 +185,9 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 8,
-                    "month": 4,
-                    "year": 1633
+                    "day": 6,
+                    "month": 1,
+                    "year": 1634
                   },
                   "viewState": 1,
                   "displaying": {
@@ -251,7 +251,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "504d1f6174846d66",
+  "active": "2a14bb98384e0c10",
   "lastOpenFiles": [
     "Pasted image 20250620150623.jpg",
     "Semana Escarlata.md",
