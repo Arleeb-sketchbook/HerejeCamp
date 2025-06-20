@@ -309,10 +309,10 @@
             "id": "ID_48b85818f8ca",
             "name": "Frigus",
             "type": "Periodic",
-            "kind": "None",
-            "duration": 31,
+            "kind": "Winter",
+            "duration": 31.16666667,
             "peak": 0,
-            "color": "#0b20b4",
+            "color": "#0000ff",
             "weatherOffset": 56,
             "weatherPeak": 5
           },
@@ -320,10 +320,10 @@
             "id": "ID_b8d9fbbb7928",
             "name": "Interio",
             "type": "Periodic",
-            "kind": "None",
-            "duration": 31,
+            "kind": "Spring",
+            "duration": 31.16666667,
             "peak": 0,
-            "color": "#97b40b",
+            "color": "#00ff00",
             "weatherOffset": 56,
             "weatherPeak": 5
           },
@@ -331,10 +331,10 @@
             "id": "ID_c9483a7b1b7b",
             "name": "Calidus",
             "type": "Periodic",
-            "kind": "None",
-            "duration": 31,
+            "kind": "Summer",
+            "duration": 31.16666667,
             "peak": 0,
-            "color": "#903b5b",
+            "color": "#ff0000",
             "weatherOffset": 56,
             "weatherPeak": 5
           }
@@ -344,9 +344,9 @@
         "displayColors": true,
         "interpolateColors": true,
         "weather": {
-          "enabled": false,
-          "seed": 1,
-          "tempUnits": "Imperial",
+          "enabled": true,
+          "seed": -1246277341,
+          "tempUnits": "Metric",
           "windUnits": "Metric",
           "primaryWindDirection": "E"
         }
@@ -355,15 +355,16 @@
         "locations": []
       },
       "current": {
-        "year": 1632,
+        "day": 8,
         "month": 2,
-        "day": 7
+        "year": 1632
       },
       "events": [],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events"
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "D/M/YYYY"
     }
   ],
   "configDirectory": null,
