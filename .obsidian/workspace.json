@@ -11,12 +11,14 @@
             "id": "d9d43047e2161495",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Objetos/Objetos Clave/Eco-Códice.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "Eco-Códice"
             }
           }
         ]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#oculto  ",
+  "search": "-tag:#oculto ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858325,
-  "close": false
+  "scale": 0.18462326225858336,
+  "close": true
 }
