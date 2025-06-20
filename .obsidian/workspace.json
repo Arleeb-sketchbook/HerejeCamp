@@ -11,12 +11,14 @@
             "id": "d147c9121d9dc096",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Cuerpos Celestes/Ruul.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "Ruul"
             }
           }
         ]
@@ -249,15 +251,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d4ddbf1fba68344e",
+  "active": "d147c9121d9dc096",
   "lastOpenFiles": [
+    "Cuerpos Celestes/Obliva.md",
+    "Eventos/Mes Escarlata.md",
     "_Archivos/OIG1.webp",
-    "Eventos/Semana Escarlata.md",
     "Eventos",
     "Cuerpos Celestes",
     "_Archivos/Pasted image 20250620150623.jpg",
     "Cuerpos Celestes/Ruul.md",
-    "Cuerpos Celestes/Obliva.md",
     "_Archivos/Pasted image 20250620150145.jpg"
   ]
 }
