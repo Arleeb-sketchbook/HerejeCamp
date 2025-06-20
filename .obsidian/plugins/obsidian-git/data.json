@@ -1,6 +1,6 @@
 {
   "commitMessage": "Pushed {{numFiles}} files on {{date}}",
-  "autoCommitMessage": "Pushed {{numFiles}} on {{date}}",
+  "autoCommitMessage": "Pushed {{numFiles}} files on {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "D/M, HH:mm",
   "autoSaveInterval": 1,
