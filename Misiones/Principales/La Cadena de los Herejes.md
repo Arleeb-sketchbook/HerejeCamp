@@ -14,12 +14,13 @@ Una vez capturados, se encuentran con [[Personaje de Max]]. Trego se presenta us
 
 Después de una pausa o pregunta de los personajes , continua
 
-`No soy diferente a ustedes, solo busco el poder que la [[Lógica de la espada]] puede ofrecer. Y ustedes me ayudaran a eso.`
+>No soy diferente a ustedes, solo busco el poder que la [[Lógica de la espada]] puede ofrecer. Y ustedes me ayudaran a eso.`
 
 ...
 
-`Ustdes crearan una Cadena entre ustedes, y todos me tributaran. Obedeceran, si no, más de mis devoradores los motivaran, y esta vez... no les prohibire comer sus cerebros.`
+>Ustdes crearan una Cadena entre ustedes, y todos me tributaran. Obedeceran, si no, más de mis devoradores los motivaran, y esta vez... no les prohibire comer sus cerebros.`
  Trego explica como se hace una cadena
+
 *algo bla bla bla*
 
 Trego envía a los herejes a una mazmorra a conseguir tributos, en la misma, al entrar, [[Una Voz Misteriosa]] se comunica con la cadena, y les dije "Trego no es diferente a otros [[Rey-Dios]], si lo desean... quédense con lo que es suyo"
