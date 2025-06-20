@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Pushed {{numFiles}} files on {{date}}, {{hostname}}",
+  "commitMessage": "Pushed {{numFiles}} files on {{date}}",
   "autoCommitMessage": "Pushed {{numFiles}} on {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "D/M, HH:mm",
