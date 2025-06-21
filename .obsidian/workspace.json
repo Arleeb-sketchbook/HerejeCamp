@@ -73,6 +73,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "b163fe329a9c0843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042a3872f7f782b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +181,8 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 16,
-                    "month": 5,
+                    "day": 7,
+                    "month": 2,
                     "year": 1632
                   },
                   "viewState": 1,
@@ -207,19 +223,8 @@
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
             }
-          },
-          {
-            "id": "042a3872f7f782b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,7 +246,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d9d43047e2161495",
+  "active": "2a14bb98384e0c10",
   "lastOpenFiles": [
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
