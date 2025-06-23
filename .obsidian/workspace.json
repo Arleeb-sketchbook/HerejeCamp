@@ -31,6 +31,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
+        "dimension": 62.98701298701299,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -77,6 +78,7 @@
       {
         "id": "b163fe329a9c0843",
         "type": "tabs",
+        "dimension": 37.01298701298701,
         "children": [
           {
             "id": "042a3872f7f782b9",
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 270.5
   },
   "right": {
     "id": "68bfb69048dad351",
@@ -247,7 +249,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2a14bb98384e0c10",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
