@@ -149,7 +149,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "2a14bb98384e0c10",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
