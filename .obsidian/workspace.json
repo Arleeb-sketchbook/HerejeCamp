@@ -119,15 +119,15 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 7,
-                    "month": 2,
-                    "year": 1632
+                    "day": 1,
+                    "month": 0,
+                    "year": 1
                   },
                   "viewState": 0,
                   "displaying": {
-                    "day": 7,
-                    "month": 2,
-                    "year": 1632
+                    "day": 1,
+                    "month": 0,
+                    "year": 1
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
