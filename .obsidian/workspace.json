@@ -78,7 +78,7 @@
       {
         "id": "bf26cb86a4d109db",
         "type": "tabs",
-        "dimension": 64.09313725490196,
+        "dimension": 55.63725490196079,
         "children": [
           {
             "id": "d4ddbf1fba68344e",
@@ -90,14 +90,14 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 7,
-                    "month": 2,
+                    "day": 9,
+                    "month": 0,
                     "year": 1632
                   },
                   "viewState": 1,
                   "displaying": {
-                    "day": 7,
-                    "month": 2,
+                    "day": 6,
+                    "month": 0,
                     "year": 1632
                   },
                   "displayDayNumber": false,
@@ -119,7 +119,7 @@
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 35.90686274509804,
+        "dimension": 44.36274509803921,
         "children": [
           {
             "id": "2a14bb98384e0c10",
@@ -172,7 +172,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "af3441a0b0c05826",
+  "active": "2a14bb98384e0c10",
   "lastOpenFiles": [
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
