@@ -11,12 +11,14 @@
             "id": "d9d43047e2161495",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "split-diff-view",
               "state": {
-                "path": "/"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -31,7 +33,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
-        "dimension": 62.98701298701299,
+        "dimension": 70.03891050583657,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -78,14 +80,16 @@
       {
         "id": "b163fe329a9c0843",
         "type": "tabs",
-        "dimension": 37.01298701298701,
+        "dimension": 29.961089494163424,
         "children": [
           {
             "id": "042a3872f7f782b9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
@@ -94,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 240.5
   },
   "right": {
     "id": "68bfb69048dad351",
@@ -106,68 +110,9 @@
         "dimension": 75.49019607843137,
         "children": [
           {
-            "id": "e3effd46c32fd311",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
-            }
-          },
-          {
-            "id": "df6d53407254e54e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes"
-            }
-          },
-          {
-            "id": "a938b0d28baf10aa",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "1e75cbf05cdcc1c3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema"
-            }
-          },
-          {
             "id": "d4ddbf1fba68344e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "CALENDARIUM",
               "state": {
@@ -193,11 +138,23 @@
                 "id": "ID_99187928a94a",
                 "child": "ID_6a88eb693bca"
               },
+              "pinned": true,
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "ccfd19b23b108bee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "96721c51987e5e07",
@@ -240,7 +197,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e3effd46c32fd311",
+  "active": "d9d43047e2161495",
   "lastOpenFiles": [
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
