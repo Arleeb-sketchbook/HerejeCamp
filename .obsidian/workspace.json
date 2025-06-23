@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5e06843ff91751",
+        "id": "f12aeb8063bc49d3",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d43047e2161495",
+            "id": "e62407914b096a7f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "card-browser-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "path": "/"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -123,7 +121,7 @@
                     "month": 2,
                     "year": 1632
                   },
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
                     "day": 7,
                     "month": 2,
@@ -142,19 +140,8 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "ccfd19b23b108bee",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "96721c51987e5e07",
@@ -173,6 +160,16 @@
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
+            }
+          },
+          {
+            "id": "ccfd19b23b108bee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -197,7 +194,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d9d43047e2161495",
+  "active": "e62407914b096a7f",
   "lastOpenFiles": [
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
