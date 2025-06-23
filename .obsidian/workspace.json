@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09e39666feac47f5",
+        "id": "68710f13b03165fa",
         "type": "tabs",
         "children": [
           {
-            "id": "af3441a0b0c05826",
+            "id": "f7b9474450359986",
             "type": "leaf",
             "state": {
               "type": "card-browser-view",
@@ -96,8 +96,8 @@
                   },
                   "viewState": 1,
                   "displaying": {
-                    "day": 6,
-                    "month": 0,
+                    "day": 7,
+                    "month": 2,
                     "year": 1632
                   },
                   "displayDayNumber": false,
@@ -173,7 +173,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "f7b9474450359986",
   "lastOpenFiles": [
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
