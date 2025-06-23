@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3db8978570dec50d",
+        "id": "09e39666feac47f5",
         "type": "tabs",
         "children": [
           {
-            "id": "1d50f5f531ad3bd2",
+            "id": "af3441a0b0c05826",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -47,33 +45,6 @@
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
             }
-          },
-          {
-            "id": "3341491a95acc9f8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Buscar"
-            }
-          },
-          {
-            "id": "dc285013e6773b46",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
           }
         ]
       },
@@ -93,21 +64,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "4504289a9850faff",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "pinned": true,
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +78,7 @@
       {
         "id": "bf26cb86a4d109db",
         "type": "tabs",
-        "dimension": 75.49019607843137,
+        "dimension": 64.09313725490196,
         "children": [
           {
             "id": "d4ddbf1fba68344e",
@@ -132,15 +90,15 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 1
+                    "day": 7,
+                    "month": 2,
+                    "year": 1632
                   },
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 1
+                    "day": 7,
+                    "month": 2,
+                    "year": 1632
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -161,11 +119,12 @@
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 24.509803921568626,
+        "dimension": 35.90686274509804,
         "children": [
           {
             "id": "2a14bb98384e0c10",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
@@ -173,6 +132,7 @@
                 "id": "ID_6a88eb693bca",
                 "parent": "ID_99187928a94a"
               },
+              "pinned": true,
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
             }
@@ -180,9 +140,11 @@
           {
             "id": "ccfd19b23b108bee",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -210,8 +172,11 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "4504289a9850faff",
+  "active": "af3441a0b0c05826",
   "lastOpenFiles": [
+    "PNJs/Nico.md",
+    "Misiones/Principales/La nota de Nico.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
     "README.md",
     "_Archivos/Musica.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
@@ -220,7 +185,6 @@
     "Planos y Semiplanos/Semiplanos/Mundos Trono",
     "Planos y Semiplanos/Semiplanos",
     "Planos y Semiplanos/Planos",
-    "Misiones/Principales/La Cadena de los Herejes.md",
     "PNJs/PNJs Herejes/William.md",
     "Herejias/Herejes.md",
     "Eventos/Periodo Escarlata.md",
@@ -229,10 +193,8 @@
     "Idea.md",
     "Cuerpos Celestes/Ruul.md",
     "Cuerpos Celestes/Obliva.md",
-    "Misiones/Principales/La nota de Nico.md",
     "Enemigos/Tsucora Quori.md",
     "Misiones/Secundarias",
-    "PNJs/Nico.md",
     "Trama de la campaña.md",
     "Reinos/Velum.md",
     "Reinos/Semigladi.md",

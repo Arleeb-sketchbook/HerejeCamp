@@ -75,35 +75,6 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "viewResults": [
-    {
-      "result": "18",
-      "original": "1d20",
-      "resultText": "1d20\n[18]",
-      "timestamp": 1750698484645,
-      "id": "Y6NT3IRisLSL"
-    },
-    {
-      "result": "18",
-      "original": "2d20",
-      "resultText": "2d20\n[11, 7]",
-      "timestamp": 1750698502129,
-      "id": "84THVvZhEHKv"
-    },
-    {
-      "result": "1",
-      "original": "1d20kl",
-      "resultText": "1d20kl\n[1]",
-      "timestamp": 1750698512878,
-      "id": "nBUy9OZWx03A"
-    },
-    {
-      "result": "4",
-      "original": "1d20",
-      "resultText": "1d20\n[4]",
-      "timestamp": 1750698521711,
-      "id": "y0iDAJ3Sz_MA"
-    }
-  ],
+  "viewResults": [],
   "version": "11.4.2"
 }
