@@ -1,1 +1,0 @@
-El plano de los sueños de **todos** los seres.
