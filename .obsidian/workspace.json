@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "_Archivos/Musica.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Musica"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "d4ddbf1fba68344e",
+  "active": "1d50f5f531ad3bd2",
   "lastOpenFiles": [
+    "_Archivos/Musica.md",
     "README.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
