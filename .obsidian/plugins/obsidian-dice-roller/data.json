@@ -1,0 +1,109 @@
+{
+  "position": "RIGHT",
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": true,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": true,
+  "scaler": 1,
+  "diceColor": "#ff0000",
+  "textColor": "#000000",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "narrativeSymbolSet": "Genesys",
+  "displayAsSymbols": false,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "viewResults": [
+    {
+      "result": "18",
+      "original": "1d20",
+      "resultText": "1d20\n[18]",
+      "timestamp": 1750698484645,
+      "id": "Y6NT3IRisLSL"
+    },
+    {
+      "result": "18",
+      "original": "2d20",
+      "resultText": "2d20\n[11, 7]",
+      "timestamp": 1750698502129,
+      "id": "84THVvZhEHKv"
+    },
+    {
+      "result": "1",
+      "original": "1d20kl",
+      "resultText": "1d20kl\n[1]",
+      "timestamp": 1750698512878,
+      "id": "nBUy9OZWx03A"
+    },
+    {
+      "result": "4",
+      "original": "1d20",
+      "resultText": "1d20\n[4]",
+      "timestamp": 1750698521711,
+      "id": "y0iDAJ3Sz_MA"
+    }
+  ],
+  "version": "11.4.2"
+}

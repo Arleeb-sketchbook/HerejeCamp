@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Archivos/Musica.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Musica"
+              "title": "README"
             }
           }
         ]
@@ -93,8 +93,21 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "4504289a9850faff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,10 +210,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "1d50f5f531ad3bd2",
+  "active": "4504289a9850faff",
   "lastOpenFiles": [
-    "_Archivos/Musica.md",
     "README.md",
+    "_Archivos/Musica.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
     "Planos y Semiplanos/Planos/Plano onírico.md",
