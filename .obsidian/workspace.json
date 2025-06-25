@@ -117,15 +117,15 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 9,
+                    "day": 1,
                     "month": 0,
-                    "year": 1632
+                    "year": 2025
                   },
                   "viewState": 1,
                   "displaying": {
-                    "day": 7,
-                    "month": 2,
-                    "year": 1632
+                    "day": 1,
+                    "month": 0,
+                    "year": 2025
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -210,6 +210,7 @@
   },
   "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
+    "Sin título.canvas",
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
