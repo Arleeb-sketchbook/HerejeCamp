@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68710f13b03165fa",
+        "id": "1ea1f77ac77055c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b9474450359986",
+            "id": "c3554df71f4483c4",
             "type": "leaf",
             "state": {
               "type": "card-browser-view",
@@ -117,11 +117,11 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
-                    "month": 0,
+                    "day": 12,
+                    "month": 1,
                     "year": 2025
                   },
-                  "viewState": 1,
+                  "viewState": 0,
                   "displaying": {
                     "day": 1,
                     "month": 0,
@@ -208,8 +208,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d4ddbf1fba68344e",
+  "active": "c3554df71f4483c4",
   "lastOpenFiles": [
+    "Reinos/Lugares Importantes/En Velum/Nico's.md",
     "Sin título.canvas",
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
