@@ -133,7 +133,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a"
+                "id": "ID_99187928a94a",
+                "child": "ID_6a88eb693bca"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -141,63 +142,15 @@
             }
           },
           {
-            "id": "8e30e5be71c2c795",
+            "id": "733a332930811a8d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
-            }
-          },
-          {
-            "id": "0612d5d80ee8438c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes"
-            }
-          },
-          {
-            "id": "0de1b09b3f31db48",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "7011f00a84688226",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema"
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ]
@@ -214,6 +167,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_cb3beb798a09",
                 "id": "ID_6a88eb693bca",
                 "parent": "ID_99187928a94a"
               },
@@ -250,10 +204,11 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "2a14bb98384e0c10",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
