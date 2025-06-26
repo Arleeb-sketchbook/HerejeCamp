@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea1f77ac77055c0",
+        "id": "1f8db884021d07e9",
         "type": "tabs",
         "children": [
           {
-            "id": "c3554df71f4483c4",
+            "id": "40049365b49929ee",
             "type": "leaf",
             "state": {
               "type": "card-browser-view",
@@ -121,11 +121,11 @@
                     "month": 1,
                     "year": 2025
                   },
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 2025
+                    "day": 7,
+                    "month": 2,
+                    "year": 1632
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -208,14 +208,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c3554df71f4483c4",
+  "active": "40049365b49929ee",
   "lastOpenFiles": [
+    "_Archivos/LA CRIATURA.md",
+    "README.md",
     "Reinos/Lugares Importantes/En Velum/Nico's.md",
     "Sin título.canvas",
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
-    "README.md",
     "_Archivos/Musica.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
@@ -240,7 +241,6 @@
     "Reyes-Dios/Scivi.md",
     "Reyes-Dios/Liberium.md",
     "Reyes-Dios/Bellator.md",
-    "LA CRIATURA.md",
     "_Archivos/OIG1.webp",
     "Eventos",
     "Cuerpos Celestes",
