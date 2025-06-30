@@ -11,12 +11,14 @@
             "id": "40049365b49929ee",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -159,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de README"
             }
           },
           {
@@ -177,11 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -205,12 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de README"
             }
           }
         ]
@@ -270,13 +275,16 @@
   },
   "active": "40049365b49929ee",
   "lastOpenFiles": [
+    "Mazmorra de La Cadena de los Herejes.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
+    "Mazmorra.md",
+    "Mazmorra de.md",
     "_Archivos/LA CRIATURA.md",
     "README.md",
     "Reinos/Lugares Importantes/En Velum/Nico's.md",
     "Sin título.canvas",
     "PNJs/Nico.md",
     "Misiones/Principales/La nota de Nico.md",
-    "Misiones/Principales/La Cadena de los Herejes.md",
     "_Archivos/Musica.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
@@ -298,9 +306,6 @@
     "Reinos/Velum.md",
     "Reinos/Semigladi.md",
     "Reinos/Nullus.md",
-    "Reyes-Dios/Scivi.md",
-    "Reyes-Dios/Liberium.md",
-    "Reyes-Dios/Bellator.md",
     "_Archivos/OIG1.webp",
     "Eventos",
     "Cuerpos Celestes",
