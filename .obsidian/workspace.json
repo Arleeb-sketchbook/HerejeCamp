@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misiones/Principales/La Cadena de los Herejes.md",
+                "file": "Mazmorra de La Cadena de los Herejes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Cadena de los Herejes"
+              "title": "Mazmorra de La Cadena de los Herejes"
             }
           }
         ]
@@ -119,9 +119,9 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 12,
-                    "month": 1,
-                    "year": 2025
+                    "day": 7,
+                    "month": 2,
+                    "year": 1632
                   },
                   "viewState": 1,
                   "displaying": {
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misiones/Principales/La Cadena de los Herejes.md",
+                "file": "Mazmorra de La Cadena de los Herejes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de La Cadena de los Herejes"
+              "title": "Enlaces entrantes de Mazmorra de La Cadena de los Herejes"
             }
           },
           {
@@ -180,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misiones/Principales/La Cadena de los Herejes.md",
+                "file": "Mazmorra de La Cadena de los Herejes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de La Cadena de los Herejes"
+              "title": "Enlaces salientes de Mazmorra de La Cadena de los Herejes"
             }
           },
           {
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misiones/Principales/La Cadena de los Herejes.md",
+                "file": "Mazmorra de La Cadena de los Herejes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de La Cadena de los Herejes"
+              "title": "Esquema de Mazmorra de La Cadena de los Herejes"
             }
           }
         ]
@@ -275,9 +275,9 @@
   },
   "active": "40049365b49929ee",
   "lastOpenFiles": [
+    "Misiones/Principales/La Cadena de los Herejes.md",
     "README.md",
     "Mazmorra de La Cadena de los Herejes.md",
-    "Misiones/Principales/La Cadena de los Herejes.md",
     "Mazmorra.md",
     "Mazmorra de.md",
     "_Archivos/LA CRIATURA.md",
