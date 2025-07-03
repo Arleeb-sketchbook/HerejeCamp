@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a762b1d0c33f65f3",
+        "id": "4b0da2d17519ff0a",
         "type": "tabs",
         "children": [
           {
-            "id": "923115bab9911621",
+            "id": "8fcf9b48cfbe6874",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
-                "mode": "source",
-                "source": true
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "Habilidades Licántropas"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -162,8 +160,25 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "54152e9d596f68dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Herejia-Soundtrack/Soundtrack.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Soundtrack"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,10 +200,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "923115bab9911621",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
+    "_Herejia-Soundtrack/01 - Ashita No Joe OST Joes Whistle.mp3",
+    "_Herejia-Soundtrack/Soundtrack.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
     "Enfermedades/Licantropía.md",
@@ -213,7 +230,6 @@
     "PJs/Akatsuki.md",
     "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",
-    "_Herejia-Soundtrack/6- Revelations - [Eternal Eclipse].mp3",
     "PJs/JoJo.md",
     "PJs/Personaje de Max.md",
     "PJs/PJs.md",
@@ -230,9 +246,7 @@
     "_Archivos/Pasted image 20250619172639.png",
     "_Archivos/Pasted image 20250619172658.png",
     "_Archivos/Pasted image 20250619172734.png",
-    "Objetos/Objetos Clave/Eco-Códice.md",
     "_Archivos/Pasted image 20250619172054.png",
-    "Enfermedades/Vampirismo.md",
     "Sin título.canvas"
   ]
 }
