@@ -10,3 +10,6 @@ Se separa en 3 categorías:
 ### Poderes Heréticos
 ![[Poderes Heréticos]]
 
+
+# [[Habilidades Condicionales]]
+![[Habilidades Condicionales]]
