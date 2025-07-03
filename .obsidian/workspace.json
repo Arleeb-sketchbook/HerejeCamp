@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b64400ef7b3431de",
+        "id": "a9b2e11161f477df",
         "type": "tabs",
         "children": [
           {
-            "id": "9cbba8d79e08885d",
+            "id": "b7b326aee488a2ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -29,7 +31,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
-        "dimension": 74.1267787839586,
+        "dimension": 72.1862871927555,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -76,7 +78,7 @@
       {
         "id": "b163fe329a9c0843",
         "type": "tabs",
-        "dimension": 25.873221216041397,
+        "dimension": 27.8137128072445,
         "children": [
           {
             "id": "042a3872f7f782b9",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 232.5
   },
   "right": {
     "id": "68bfb69048dad351",
@@ -200,7 +202,8 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e183be676c2ab870",
@@ -275,7 +278,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "042a3872f7f782b9",
   "lastOpenFiles": [
     "DESCONOCIDO/Eclipse.md",
     "README.md",
