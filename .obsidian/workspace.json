@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0299820ec9655c94",
+        "id": "29d3c9b1fc452258",
         "type": "tabs",
         "children": [
           {
-            "id": "adbf07b0c97e7bb2",
+            "id": "37207f8b2100bdba",
             "type": "leaf",
             "state": {
               "type": "card-browser-view",
@@ -105,7 +105,7 @@
       {
         "id": "bf26cb86a4d109db",
         "type": "tabs",
-        "dimension": 55.63725490196079,
+        "dimension": 42.08588957055215,
         "children": [
           {
             "id": "d4ddbf1fba68344e",
@@ -142,21 +142,6 @@
             }
           },
           {
-            "id": "b931edc16f7d5ff5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
             "id": "d0b738ee4d5cc4a2",
             "type": "leaf",
             "state": {
@@ -175,7 +160,7 @@
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 22.181372549019606,
+        "dimension": 31.901840490797547,
         "children": [
           {
             "id": "2a14bb98384e0c10",
@@ -222,7 +207,7 @@
       {
         "id": "e183be676c2ab870",
         "type": "tabs",
-        "dimension": 22.181372549019606,
+        "dimension": 26.012269938650306,
         "children": [
           {
             "id": "92904d87f1a1d221",
@@ -254,9 +239,23 @@
               "icon": "links-going-out",
               "title": "Enlaces salientes"
             }
+          },
+          {
+            "id": "b931edc16f7d5ff5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,15 +272,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
       "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "92904d87f1a1d221",
+  "active": "37207f8b2100bdba",
   "lastOpenFiles": [
+    "README.md",
     "PJs/PJs.md",
     "Herejias/Herejes.md",
     "PJs/Akatsuki.md",
-    "README.md",
     "Trama de la campaña.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
     "Enemigos/Trego el Zombrujo.md",
