@@ -1,12 +1,87 @@
 {
-  "soundscape": "lofi",
+  "soundscape": "CUSTOM_73eba327-af3a-4a8f-8fd0-370149595be5",
   "volume": 25,
   "autoplay": false,
   "scrollSongTitle": true,
-  "customSoundscapes": [],
+  "customSoundscapes": [
+    {
+      "id": "73eba327-af3a-4a8f-8fd0-370149595be5",
+      "name": "HerejeSongs",
+      "tracks": [
+        {
+          "name": "Se Hai Timore Del Vero",
+          "id": "https://youtu.be/3IaxhNviZlU"
+        },
+        {
+          "name": "Duran Duran - INVISIBLE",
+          "id": "https://www.youtube.com/watch?v=FKwVFWwA_x8&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=2"
+        },
+        {
+          "name": "MOST BADASS VOCAL BATTLE ACTION EVER | by Epikus",
+          "id": "https://www.youtube.com/watch?v=zP_lAuTRRCI&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=3"
+        },
+        {
+          "name": "InfraSound Music- Hellbender",
+          "id": "https://www.youtube.com/watch?v=TEIxR91vB2w&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=4"
+        },
+        {
+          "name": "''Waves Of Distress'' - InfraSound Music",
+          "id": "https://www.youtube.com/watch?v=RXSk_ER_CTs&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=5"
+        },
+        {
+          "name": "''Manifest Of Wrath'' - InfraSound Music",
+          "id": "https://www.youtube.com/watch?v=CL-oDMpEbV8&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=6"
+        },
+        {
+          "name": "Dismal Light-Sinyells",
+          "id": "https://www.youtube.com/watch?v=4xWT-gImdkM&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=7"
+        },
+        {
+          "name": "Robert Slump - Machine God Genesis",
+          "id": "https://www.youtube.com/watch?v=h7N_TcRwv7k&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=8"
+        },
+        {
+          "name": "Harbinger-Eternal Eclipse",
+          "id": "https://www.youtube.com/watch?v=zSj8G8ELXBA&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=9"
+        },
+        {
+          "name": "Monster Fight-Sinyells",
+          "id": "https://www.youtube.com/watch?v=qwQngxcMIwA&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=13"
+        },
+        {
+          "name": "Revelations · Eternal Eclipse",
+          "id": "https://www.youtube.com/watch?v=7aCrMpbpkUk&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=14"
+        },
+        {
+          "name": "Luce del Desiderio · Lappy",
+          "id": "https://www.youtube.com/watch?v=j2TfF6uOM6M&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=17"
+        },
+        {
+          "name": "Lord of Ashes · Lappy",
+          "id": "https://www.youtube.com/watch?v=4nrI88fmc-I&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=18"
+        },
+        {
+          "name": "Susie - Toby Fox",
+          "id": "https://www.youtube.com/watch?v=mM8YTLEDJl8&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=19"
+        },
+        {
+          "name": "Dark Place- Toby Fox",
+          "id": "https://www.youtube.com/watch?v=SG177cepVfk&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=20"
+        },
+        {
+          "name": "Black Knife - Toby Fox",
+          "id": "https://www.youtube.com/watch?v=B8Us0DZgexw&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=21"
+        },
+        {
+          "name": "Neverending Bight- Toby Fox",
+          "id": "https://www.youtube.com/watch?v=QZ03-aaO4sA&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=22"
+        }
+      ]
+    }
+  ],
   "myMusicIndex": [],
   "myMusicFolderPath": "",
   "reindexFrequency": "5",
   "myMusicShuffle": false,
-  "currentTrackIndex": 0
+  "currentTrackIndex": 1
 }
