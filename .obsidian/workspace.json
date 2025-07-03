@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enfermedades/Fungicognito.md",
-                "mode": "preview",
+                "file": "Enfermedades/Enfermedades.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fungicognito"
+              "title": "Enfermedades"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
+        "dimension": 66.11253196930946,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -57,6 +58,25 @@
               "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e39a10ebd04c17cb",
+        "type": "tabs",
+        "dimension": 33.887468030690535,
+        "children": [
+          {
+            "id": "042a3872f7f782b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -132,18 +152,6 @@
             }
           },
           {
-            "id": "042a3872f7f782b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
             "id": "733a332930811a8d",
             "type": "leaf",
             "pinned": true,
@@ -155,8 +163,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +187,9 @@
   },
   "active": "923115bab9911621",
   "lastOpenFiles": [
+    "Enfermedades/Enfermedades.md",
+    "Logica/Lógica de la espada.md",
+    "Enfermedades/Fungicognito.md",
     "2025-07-03.md",
     "_Herejia-Soundtrack/12- Street Fighter IV - Theme of Seth.mp3",
     "_Herejia-Soundtrack/06- Revelations - [Eternal Eclipse].mp3",
@@ -220,12 +230,9 @@
     "Eventos/Periodo Escarlata.md",
     "Enemigos/Devorador de conocimiento.md",
     "Enfermedades/Mimicosis.md",
-    "Enfermedades/Fungicognito.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "DESCONOCIDO/Eclipse.md",
     "Herejias/Herejes.md",
-    "Trama de la campaña.md",
-    "Misiones/Secundarias/Ecos de Venganza.md",
     "Sin título.canvas"
   ]
 }
