@@ -1,6 +1,6 @@
 {
   "soundscape": "MY_MUSIC",
-  "volume": 0,
+  "volume": 5,
   "autoplay": false,
   "scrollSongTitle": true,
   "customSoundscapes": [
@@ -275,5 +275,5 @@
   "myMusicFolderPath": "C:\\Users\\usuario\\Music\\Herejia-Verso",
   "reindexFrequency": "5",
   "myMusicShuffle": false,
-  "currentTrackIndex": 25
+  "currentTrackIndex": 0
 }
