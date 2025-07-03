@@ -135,8 +135,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a",
-                "child": "ID_6a88eb693bca"
+                "id": "ID_99187928a94a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -232,7 +231,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_cb3beb798a09",
                 "id": "ID_6a88eb693bca",
                 "parent": "ID_99187928a94a"
               },
@@ -269,8 +267,7 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "project-browser:Open project browser": false
     }
   },
   "active": "40049365b49929ee",
