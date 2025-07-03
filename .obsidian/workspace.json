@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a438b69b89fe5999",
+        "id": "a762b1d0c33f65f3",
         "type": "tabs",
         "children": [
           {
-            "id": "28405099a2f9c385",
+            "id": "923115bab9911621",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Enfermedades/Fungicognito.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "Fungicognito"
             }
           }
         ]
@@ -31,7 +33,6 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
-        "dimension": 74.16020671834626,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -47,49 +48,15 @@
             }
           },
           {
-            "id": "9a227ede4ce2c688",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Buscar"
-            }
-          },
-          {
-            "id": "2b83fffdcefaffbe",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bd3ad77d25c3cdbd",
-        "type": "tabs",
-        "dimension": 25.83979328165374,
-        "children": [
-          {
-            "id": "042a3872f7f782b9",
+            "id": "ccfd19b23b108bee",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -105,7 +72,7 @@
       {
         "id": "bf26cb86a4d109db",
         "type": "tabs",
-        "dimension": 40.461725394896725,
+        "dimension": 42.23300970873786,
         "children": [
           {
             "id": "d4ddbf1fba68344e",
@@ -140,27 +107,13 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "d0b738ee4d5cc4a2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema"
-            }
           }
         ]
       },
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 35.23693803159174,
+        "dimension": 57.76699029126213,
         "children": [
           {
             "id": "6d316720f97f6bd8",
@@ -179,6 +132,18 @@
             }
           },
           {
+            "id": "042a3872f7f782b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
             "id": "733a332930811a8d",
             "type": "leaf",
             "pinned": true,
@@ -190,74 +155,8 @@
               "title": "Dice Tray"
             }
           }
-        ]
-      },
-      {
-        "id": "e183be676c2ab870",
-        "type": "tabs",
-        "dimension": 24.301336573511538,
-        "children": [
-          {
-            "id": "b931edc16f7d5ff5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "92904d87f1a1d221",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
-            }
-          },
-          {
-            "id": "4156b98b3f6277d7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
-            }
-          },
-          {
-            "id": "ccfd19b23b108bee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -275,23 +174,24 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
       "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "28405099a2f9c385",
+  "active": "923115bab9911621",
   "lastOpenFiles": [
+    "2025-07-03.md",
+    "_Herejia-Soundtrack/12- Street Fighter IV - Theme of Seth.mp3",
+    "_Herejia-Soundtrack/06- Revelations - [Eternal Eclipse].mp3",
+    "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
+    "_Herejia-Soundtrack/22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina.mp3",
+    "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
     "PJs/Akatsuki.md",
     "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",
     "_Herejia-Soundtrack/6- Revelations - [Eternal Eclipse].mp3",
-    "_Herejia-Soundtrack/7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
-    "_Herejia-Soundtrack/5- Harbinger - Eternal Eclipse.mp3",
-    "_Herejia-Soundtrack/4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
-    "_Herejia-Soundtrack/26 - Your Power - Toby Fox .mp3",
-    "_Herejia-Soundtrack/3- Neverending Night - Toby Fox.mp3",
-    "_Herejia-Soundtrack/25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
     "PJs/JoJo.md",
     "PJs/Personaje de Max.md",
     "PJs/PJs.md",
