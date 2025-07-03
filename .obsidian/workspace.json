@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0da2d17519ff0a",
+        "id": "3b6e5774d7762430",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcf9b48cfbe6874",
+            "id": "fedf256c8dcb4b46",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Misiones/Principales/El Caballero.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "El Caballero"
             }
           }
         ]
@@ -162,9 +164,8 @@
             }
           },
           {
-            "id": "54152e9d596f68dc",
+            "id": "5b1e63857626ab13",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -172,13 +173,11 @@
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Soundtrack"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,10 +199,20 @@
       "media-extended:Open media": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "fedf256c8dcb4b46",
   "lastOpenFiles": [
-    "_Herejia-Soundtrack/01 - Ashita No Joe OST Joes Whistle.mp3",
+    "Misiones/Principales/La nota de Nico.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
+    "Misiones/Principales/El Caballero.md",
+    "DESCONOCIDO/Una Voz Misteriosa.md",
+    "DESCONOCIDO/Evento Desconocido.md",
+    "Trama de la campaña.md",
+    "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
+    "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
+    "Planos y Semiplanos/Planos/Plano onírico.md",
+    "Planos y Semiplanos/Planos/Eris.md",
     "_Herejia-Soundtrack/Soundtrack.md",
+    "_Herejia-Soundtrack/01 - Ashita No Joe OST Joes Whistle.mp3",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
@@ -219,7 +228,6 @@
     "Enfermedades/Enfermedades.md",
     "Logica/Lógica de la espada.md",
     "Enfermedades/Fungicognito.md",
-    "2025-07-03.md",
     "_Herejia-Soundtrack/12- Street Fighter IV - Theme of Seth.mp3",
     "_Herejia-Soundtrack/06- Revelations - [Eternal Eclipse].mp3",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
@@ -227,18 +235,10 @@
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
-    "PJs/Akatsuki.md",
     "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",
-    "PJs/JoJo.md",
-    "PJs/Personaje de Max.md",
-    "PJs/PJs.md",
-    "Cuerpos Celestes/Obliva.md",
-    "README.md",
     "_Archivos/Pasted image 20250703113041.png",
-    "Enemigos/Hashalaq Quori.md",
     "_Archivos/Pasted image 20250703113109.png",
-    "Enemigos/Trego el Zombrujo.md",
     "_Archivos/Pasted image 20250619192919.png",
     "_Archivos/Pasted image 20250619194117.png",
     "_Archivos/Pasted image 20250619172802.png",

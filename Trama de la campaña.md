@@ -6,3 +6,9 @@ _Los herejes empiezan a nivel 5 con 0 tributos_
 ![[La nota de Nico]]
 
 #oculto 
+
+### Capitulo final: [[El Caballero]]
+![[El Caballero]]
+
+### Prologo: ???
+![[Evento Desconocido]]
