@@ -1,13 +1,13 @@
 {
   "soundscape": "MY_MUSIC",
-  "volume": 5,
+  "volume": 43,
   "autoplay": false,
   "scrollSongTitle": true,
   "customSoundscapes": [],
   "myMusicIndex": [
     {
       "fileName": "1 - Ashita No Joe OST Joes Whistle.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\1 - Ashita No Joe OST Joes Whistle.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\1 - Ashita No Joe OST Joes Whistle.mp3",
       "title": "1 - Ashita No Joe OST Joes Whistle",
       "artist": "Anime Music",
       "album": "",
@@ -15,7 +15,7 @@
     },
     {
       "fileName": "10- Duran Duran - INVISIBLE.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\10- Duran Duran - INVISIBLE.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\10- Duran Duran - INVISIBLE.mp3",
       "title": "10- Duran Duran - INVISIBLE",
       "artist": "Music 4",
       "album": "",
@@ -23,14 +23,14 @@
     },
     {
       "fileName": "11- 3 LEFT - Pianoman.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\11- 3 LEFT - Pianoman.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\11- 3 LEFT - Pianoman.mp3",
       "title": "11- 3 LEFT - Pianoman",
       "artist": "PianoMan",
       "duration": 339.864
     },
     {
       "fileName": "12- Street Fighter IV - Theme of Seth.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\12- Street Fighter IV - Theme of Seth.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\12- Street Fighter IV - Theme of Seth.mp3",
       "title": "12- Street Fighter IV - Theme of Seth",
       "artist": "Quentin Fields",
       "album": "",
@@ -38,7 +38,7 @@
     },
     {
       "fileName": "13- Robert Slump - Machine God Genesis.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\13- Robert Slump - Machine God Genesis.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\13- Robert Slump - Machine God Genesis.mp3",
       "title": "13- Robert Slump - Machine God Genesis",
       "artist": "Robert Slump (Toxic Recordings)",
       "album": "",
@@ -46,7 +46,7 @@
     },
     {
       "fileName": "14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION.mp3",
       "title": "14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION",
       "artist": "Samuel Kim Music",
       "album": "",
@@ -54,7 +54,7 @@
     },
     {
       "fileName": "15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION.mp3",
       "title": "15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION",
       "artist": "Samuel Kim Music",
       "album": "",
@@ -62,7 +62,7 @@
     },
     {
       "fileName": "16- Kakyoins Theme but its EPIC VERSION.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\16- Kakyoins Theme but its EPIC VERSION.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\16- Kakyoins Theme but its EPIC VERSION.mp3",
       "title": "16- Kakyoins Theme but its EPIC VERSION",
       "artist": "Samuel Kim Music",
       "album": "",
@@ -70,21 +70,21 @@
     },
     {
       "fileName": "17- [Sinyells] Dismal Light.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\17- [Sinyells] Dismal Light.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\17- [Sinyells] Dismal Light.mp3",
       "title": "17- [Sinyells] Dismal Light",
       "artist": "Sinyells",
       "duration": 234.864
     },
     {
       "fileName": "18- [Sinyells] Monster Fight.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\18- [Sinyells] Monster Fight.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\18- [Sinyells] Monster Fight.mp3",
       "title": "18- [Sinyells] Monster Fight",
       "artist": "Sinyells",
       "duration": 207.43836734693878
     },
     {
       "fileName": "19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music).mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music).mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music).mp3",
       "title": "19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music)",
       "artist": "Trailer Music World I",
       "album": "",
@@ -92,7 +92,7 @@
     },
     {
       "fileName": "2- Susie  - Toby Fox.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\2- Susie  - Toby Fox.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\2- Susie  - Toby Fox.mp3",
       "title": "2- Susie  - Toby Fox",
       "artist": "Toby Fox",
       "album": "",
@@ -100,7 +100,7 @@
     },
     {
       "fileName": "20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music).mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music).mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music).mp3",
       "title": "20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music)",
       "artist": "Trailer Music World I",
       "album": "",
@@ -108,7 +108,7 @@
     },
     {
       "fileName": "21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock).mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock).mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock).mp3",
       "title": "21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock)",
       "artist": "Warrior From Heaven",
       "album": "",
@@ -116,7 +116,7 @@
     },
     {
       "fileName": "22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina.mp3",
       "title": "22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina",
       "artist": "Catalina",
       "album": "",
@@ -124,7 +124,7 @@
     },
     {
       "fileName": "23- Dark Place - Toby Fox.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\23- Dark Place - Toby Fox.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\23- Dark Place - Toby Fox.mp3",
       "title": "23- Dark Place - Toby Fox",
       "artist": "Toby Fox",
       "album": "",
@@ -132,7 +132,7 @@
     },
     {
       "fileName": "24- Black Knife - Toby Fox.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\24- Black Knife - Toby Fox.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\24- Black Knife - Toby Fox.mp3",
       "title": "24- Black Knife - Toby Fox",
       "artist": "Toby Fox",
       "album": "",
@@ -140,7 +140,7 @@
     },
     {
       "fileName": "25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
       "title": "25 - Your Best Nightmare ⧸ Finale by Dethraxx",
       "artist": "Dethraxx",
       "album": "",
@@ -148,14 +148,14 @@
     },
     {
       "fileName": "26 - Your Power - Toby Fox .mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\26 - Your Power - Toby Fox .mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\26 - Your Power - Toby Fox .mp3",
       "title": "26 - Your Power - Toby Fox ",
       "artist": "Toby Fox",
       "duration": 13.248
     },
     {
       "fileName": "3- Neverending Night - Toby Fox.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\3- Neverending Night - Toby Fox.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\3- Neverending Night - Toby Fox.mp3",
       "title": "3- Neverending Night - Toby Fox",
       "artist": "Toby Fox",
       "album": "",
@@ -163,7 +163,7 @@
     },
     {
       "fileName": "4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
       "title": "4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus",
       "artist": "Epic Music World",
       "album": "",
@@ -171,42 +171,42 @@
     },
     {
       "fileName": "5- Harbinger - Eternal Eclipse.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\5- Harbinger - Eternal Eclipse.mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\5- Harbinger - Eternal Eclipse.mp3",
       "title": "5- Harbinger - Eternal Eclipse",
       "artist": "Eternal Eclipse",
       "duration": 164.67591836734695
     },
     {
       "fileName": "6- Revelations - [Eternal Eclipse].mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\6- Revelations - [Eternal Eclipse].mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\6- Revelations - [Eternal Eclipse].mp3",
       "title": "6- Revelations - [Eternal Eclipse]",
       "artist": "Eternal Eclipse",
       "duration": 209.616
     },
     {
       "fileName": "7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
       "title": "7-  Se Hai Timore Del Vero - [KEYGEN CHURCH]",
       "artist": "Keygen Church, Vittorio D'Amore",
       "duration": 272.544
     },
     {
       "fileName": "8- Lord of Ashes - [Lappy].mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\8- Lord of Ashes - [Lappy].mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\8- Lord of Ashes - [Lappy].mp3",
       "title": "8- Lord of Ashes - [Lappy]",
       "artist": "Lappy",
       "duration": 391.248
     },
     {
       "fileName": "9 - Luce del Desiderio - [Lappy] .mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\9 - Luce del Desiderio - [Lappy] .mp3",
+      "fullPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack\\9 - Luce del Desiderio - [Lappy] .mp3",
       "title": "9 - Luce del Desiderio - [Lappy] ",
       "artist": "Lappy",
       "duration": 117.696
     }
   ],
-  "myMusicFolderPath": "C:\\Users\\usuario\\Music\\Herejia-Verso",
+  "myMusicFolderPath": "C:\\Users\\usuario\\Documents\\Obsidian Vault\\HerejeCamp\\_Herejia-Soundtrack",
   "reindexFrequency": "5",
   "myMusicShuffle": false,
-  "currentTrackIndex": 0
+  "currentTrackIndex": 4
 }

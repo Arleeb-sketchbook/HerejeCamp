@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b26a433b0dc984e0",
+        "id": "a438b69b89fe5999",
         "type": "tabs",
         "children": [
           {
-            "id": "0610569da1dc8c76",
+            "id": "688df49f249854f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "PJs/Akatsuki.md",
-                "mode": "preview",
-                "source": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "Akatsuki"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -107,7 +105,7 @@
       {
         "id": "bf26cb86a4d109db",
         "type": "tabs",
-        "dimension": 42.08588957055215,
+        "dimension": 44.73039215686275,
         "children": [
           {
             "id": "d4ddbf1fba68344e",
@@ -131,12 +129,13 @@
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
-                  "interpolateColors": true,
+                  "interpolateColors": false,
+                  "hideEra": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
                 "id": "ID_99187928a94a",
-                "child": "ID_6a88eb693bca"
+                "child": "ID_db387a8ac91a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -162,16 +161,17 @@
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 31.901840490797543,
+        "dimension": 30.75980392156863,
         "children": [
           {
-            "id": "2a14bb98384e0c10",
+            "id": "6d316720f97f6bd8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "id": "ID_6a88eb693bca",
+                "calendar": "ID_cb3beb798a09",
+                "id": "ID_db387a8ac91a",
                 "parent": "ID_99187928a94a"
               },
               "pinned": true,
@@ -196,7 +196,7 @@
       {
         "id": "e183be676c2ab870",
         "type": "tabs",
-        "dimension": 26.012269938650306,
+        "dimension": 24.509803921568626,
         "children": [
           {
             "id": "b931edc16f7d5ff5",
@@ -279,12 +279,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0610569da1dc8c76",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
+    "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
+    "PJs/Akatsuki.md",
+    "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
+    "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",
+    "_Herejia-Soundtrack/6- Revelations - [Eternal Eclipse].mp3",
+    "_Herejia-Soundtrack/7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
+    "_Herejia-Soundtrack/5- Harbinger - Eternal Eclipse.mp3",
+    "_Herejia-Soundtrack/4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
+    "_Herejia-Soundtrack/26 - Your Power - Toby Fox .mp3",
+    "_Herejia-Soundtrack/3- Neverending Night - Toby Fox.mp3",
+    "_Herejia-Soundtrack/25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
+    "_Herejia-Soundtrack/24- Black Knife - Toby Fox.mp3",
     "PJs/JoJo.md",
     "PJs/Personaje de Max.md",
     "PJs/PJs.md",
-    "PJs/Akatsuki.md",
     "Cuerpos Celestes/Obliva.md",
     "README.md",
     "_Archivos/Pasted image 20250703113041.png",
@@ -316,17 +327,6 @@
     "Herejias/Herejes.md",
     "Trama de la campaña.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
-    "Tablas",
-    "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
-    "Mazmorras",
-    "Herejias/Habilidad Herética/Habilidades Condicionales",
-    "Enfermedades",
-    "Sin título.canvas",
-    "Planos y Semiplanos/Semiplanos/Mundos Trono",
-    "Planos y Semiplanos/Semiplanos",
-    "Planos y Semiplanos/Planos",
-    "Misiones/Secundarias",
-    "Eventos",
-    "Cuerpos Celestes"
+    "Sin título.canvas"
   ]
 }
