@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad12be2de01eac54",
+        "id": "b26a433b0dc984e0",
         "type": "tabs",
         "children": [
           {
-            "id": "79cbe7d4c5294ec3",
+            "id": "0610569da1dc8c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enemigos/Hashalaq Quori.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashalaq Quori"
+              "title": "README"
             }
           }
         ]
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemigos/Hashalaq Quori.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Hashalaq Quori"
+              "title": "Enlaces entrantes de README"
             }
           },
           {
@@ -239,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enemigos/Hashalaq Quori.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Hashalaq Quori"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -279,13 +279,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "79cbe7d4c5294ec3",
+  "active": "0610569da1dc8c76",
   "lastOpenFiles": [
-    "Pasted image 20250703113109.png",
-    "Pasted image 20250703113041.png",
+    "_Archivos/Pasted image 20250703113041.png",
+    "Enemigos/Hashalaq Quori.md",
+    "_Archivos/Pasted image 20250703113109.png",
     "Enemigos/Trego el Zombrujo.md",
     "README.md",
-    "Enemigos/Hashalaq Quori.md",
     "_Archivos/Pasted image 20250619192919.png",
     "_Archivos/Pasted image 20250619194117.png",
     "_Archivos/Pasted image 20250619172802.png",
@@ -295,7 +295,6 @@
     "_Archivos/Pasted image 20250619172734.png",
     "Objetos/Objetos Clave/Eco-Códice.md",
     "_Archivos/Pasted image 20250619172054.png",
-    "_Archivos/Pasted image 20250620150145.jpg",
     "Herejias/Habilidades Heréticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
