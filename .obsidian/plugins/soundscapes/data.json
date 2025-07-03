@@ -3,277 +3,210 @@
   "volume": 5,
   "autoplay": false,
   "scrollSongTitle": true,
-  "customSoundscapes": [
-    {
-      "id": "73eba327-af3a-4a8f-8fd0-370149595be5",
-      "name": "HerejeSongs",
-      "tracks": [
-        {
-          "name": "Se Hai Timore Del Vero",
-          "id": "https://youtu.be/3IaxhNviZlU"
-        },
-        {
-          "name": "Duran Duran - INVISIBLE",
-          "id": "https://www.youtube.com/watch?v=FKwVFWwA_x8&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=2"
-        },
-        {
-          "name": "MOST BADASS VOCAL BATTLE ACTION EVER | by Epikus",
-          "id": "https://www.youtube.com/watch?v=zP_lAuTRRCI&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=3"
-        },
-        {
-          "name": "InfraSound Music- Hellbender",
-          "id": "https://www.youtube.com/watch?v=TEIxR91vB2w&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=4"
-        },
-        {
-          "name": "''Waves Of Distress'' - InfraSound Music",
-          "id": "https://www.youtube.com/watch?v=RXSk_ER_CTs&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=5"
-        },
-        {
-          "name": "''Manifest Of Wrath'' - InfraSound Music",
-          "id": "https://www.youtube.com/watch?v=CL-oDMpEbV8&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=6"
-        },
-        {
-          "name": "Dismal Light-Sinyells",
-          "id": "https://www.youtube.com/watch?v=4xWT-gImdkM&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=7"
-        },
-        {
-          "name": "Robert Slump - Machine God Genesis",
-          "id": "https://www.youtube.com/watch?v=h7N_TcRwv7k&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=8"
-        },
-        {
-          "name": "Harbinger-Eternal Eclipse",
-          "id": "https://www.youtube.com/watch?v=zSj8G8ELXBA&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=9"
-        },
-        {
-          "name": "Monster Fight-Sinyells",
-          "id": "https://www.youtube.com/watch?v=qwQngxcMIwA&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=13"
-        },
-        {
-          "name": "Revelations · Eternal Eclipse",
-          "id": "https://www.youtube.com/watch?v=7aCrMpbpkUk&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=14"
-        },
-        {
-          "name": "Luce del Desiderio · Lappy",
-          "id": "https://www.youtube.com/watch?v=j2TfF6uOM6M&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=17"
-        },
-        {
-          "name": "Lord of Ashes · Lappy",
-          "id": "https://www.youtube.com/watch?v=4nrI88fmc-I&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=18"
-        },
-        {
-          "name": "Susie - Toby Fox",
-          "id": "https://www.youtube.com/watch?v=mM8YTLEDJl8&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=19"
-        },
-        {
-          "name": "Dark Place- Toby Fox",
-          "id": "https://www.youtube.com/watch?v=SG177cepVfk&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=20"
-        },
-        {
-          "name": "Black Knife - Toby Fox",
-          "id": "https://www.youtube.com/watch?v=B8Us0DZgexw&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=21"
-        },
-        {
-          "name": "Neverending Bight- Toby Fox",
-          "id": "https://www.youtube.com/watch?v=QZ03-aaO4sA&list=PLcebW6mQAorwv2aIs9X_2KeZJc5ppmS-9&index=22"
-        }
-      ]
-    }
-  ],
+  "customSoundscapes": [],
   "myMusicIndex": [
     {
       "fileName": "1 - Ashita No Joe OST Joes Whistle.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\1 - Ashita No Joe OST Joes Whistle.mp3",
-      "title": "Ashita No Joe OST Joes Whistle",
+      "title": "1 - Ashita No Joe OST Joes Whistle",
       "artist": "Anime Music",
+      "album": "",
       "duration": 104.28
     },
     {
       "fileName": "10- Duran Duran - INVISIBLE.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\10- Duran Duran - INVISIBLE.mp3",
-      "title": "Duran Duran - INVISIBLE",
+      "title": "10- Duran Duran - INVISIBLE",
       "artist": "Music 4",
+      "album": "",
       "duration": 191.66040816326532
     },
     {
       "fileName": "11- 3 LEFT - Pianoman.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\11- 3 LEFT - Pianoman.mp3",
-      "title": "3 LEFT",
+      "title": "11- 3 LEFT - Pianoman",
       "artist": "PianoMan",
-      "album": "3 LEFT",
       "duration": 339.864
     },
     {
       "fileName": "12- Street Fighter IV - Theme of Seth.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\12- Street Fighter IV - Theme of Seth.mp3",
-      "title": "Street Fighter IV - Theme of Seth",
+      "title": "12- Street Fighter IV - Theme of Seth",
       "artist": "Quentin Fields",
+      "album": "",
       "duration": 138.10938775510203
     },
     {
       "fileName": "13- Robert Slump - Machine God Genesis.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\13- Robert Slump - Machine God Genesis.mp3",
-      "title": "Robert Slump - Machine God Genesis",
+      "title": "13- Robert Slump - Machine God Genesis",
       "artist": "Robert Slump (Toxic Recordings)",
+      "album": "",
       "duration": 267.91183673469385
     },
     {
       "fileName": "14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION.mp3",
-      "title": "JOJO Stone Ocean: Pucci Theme ｜ EPIC VERSION",
+      "title": "14- JOJO Stone Ocean： Pucci Theme ｜ EPIC VERSION",
       "artist": "Samuel Kim Music",
+      "album": "",
       "duration": 284.928
     },
     {
       "fileName": "15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION.mp3",
-      "title": "Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION",
+      "title": "15- Jonathan Joestar Theme but its EPIC OVERDRIVE VERSION",
       "artist": "Samuel Kim Music",
+      "album": "",
       "duration": 220.7869387755102
     },
     {
       "fileName": "16- Kakyoins Theme but its EPIC VERSION.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\16- Kakyoins Theme but its EPIC VERSION.mp3",
-      "title": "Kakyoins Theme but its EPIC VERSION (Attack on Titan Style)",
+      "title": "16- Kakyoins Theme but its EPIC VERSION",
       "artist": "Samuel Kim Music",
+      "album": "",
       "duration": 255.81714285714287
     },
     {
       "fileName": "17- [Sinyells] Dismal Light.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\17- [Sinyells] Dismal Light.mp3",
-      "title": "Dismal Light",
+      "title": "17- [Sinyells] Dismal Light",
       "artist": "Sinyells",
-      "album": "The Animal Inside",
       "duration": 234.864
     },
     {
       "fileName": "18- [Sinyells] Monster Fight.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\18- [Sinyells] Monster Fight.mp3",
-      "title": "Monster Fight",
+      "title": "18- [Sinyells] Monster Fight",
       "artist": "Sinyells",
-      "album": "The Animal Inside",
       "duration": 207.43836734693878
     },
     {
       "fileName": "19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music).mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music).mp3",
-      "title": "Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music)",
+      "title": "19- [Trailer Music World I] Manifest Of Wrath - InfraSound Music (Dark Battle Doom Metal Trailer Music)",
       "artist": "Trailer Music World I",
+      "album": "",
       "duration": 125.57061224489796
     },
     {
       "fileName": "2- Susie  - Toby Fox.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\2- Susie  - Toby Fox.mp3",
-      "title": "4. Susie (DELTARUNE Chapter 1 Soundtrack) - Toby Fox",
+      "title": "2- Susie  - Toby Fox",
       "artist": "Toby Fox",
+      "album": "",
       "duration": 32.47020408163265
     },
     {
       "fileName": "20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music).mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music).mp3",
-      "title": "Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music)",
+      "title": "20- [Trailer Music World I] Waves Of Distress - InfraSound Music (Massive Brutal Hybrid Rock Trailer Music)",
       "artist": "Trailer Music World I",
+      "album": "",
       "duration": 137.2734693877551
     },
     {
       "fileName": "21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock).mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock).mp3",
-      "title": "InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock)",
+      "title": "21- [Warrior From Heaven] InfraSound Music- Hellbender (2021 Dark Powerful Aggressive Metal Rock)",
       "artist": "Warrior From Heaven",
+      "album": "",
       "duration": 187.92489795918368
     },
     {
       "fileName": "22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina.mp3",
-      "title": "Megalith Agnus Dei x Somebody That I Used to Know",
+      "title": "22- Megalith Agnus Dei x Somebody That I Used to Know - Catalina",
       "artist": "Catalina",
+      "album": "",
       "duration": 263.3404081632653
     },
     {
       "fileName": "23- Dark Place - Toby Fox.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\23- Dark Place - Toby Fox.mp3",
-      "title": "64. Dark Place (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox",
+      "title": "23- Dark Place - Toby Fox",
       "artist": "Toby Fox",
+      "album": "",
       "duration": 63.76489795918367
     },
     {
       "fileName": "24- Black Knife - Toby Fox.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\24- Black Knife - Toby Fox.mp3",
-      "title": "30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox",
+      "title": "24- Black Knife - Toby Fox",
       "artist": "Toby Fox",
+      "album": "",
       "duration": 122.01795918367347
     },
     {
       "fileName": "25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
-      "title": "Undertale: Your Best Nightmare ⧸ Finale ｜ ULTRA HEAVY Metal Remix Cover by Dethraxx",
+      "title": "25 - Your Best Nightmare ⧸ Finale by Dethraxx",
       "artist": "Dethraxx",
+      "album": "",
       "duration": 316.176
     },
     {
       "fileName": "26 - Your Power - Toby Fox .mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\26 - Your Power - Toby Fox .mp3",
-      "title": "Your Power",
+      "title": "26 - Your Power - Toby Fox ",
       "artist": "Toby Fox",
-      "album": "DELTARUNE Chapter 1 (Original Game Soundtrack)",
       "duration": 13.248
     },
     {
       "fileName": "3- Neverending Night - Toby Fox.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\3- Neverending Night - Toby Fox.mp3",
-      "title": "72. Neverending Night (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox - Toby Fox",
+      "title": "3- Neverending Night - Toby Fox",
       "artist": "Toby Fox",
+      "album": "",
       "duration": 103.224
     },
     {
       "fileName": "4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
-      "title": "MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus",
+      "title": "4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus",
       "artist": "Epic Music World",
+      "album": "",
       "duration": 203.5461224489796
     },
     {
       "fileName": "5- Harbinger - Eternal Eclipse.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\5- Harbinger - Eternal Eclipse.mp3",
-      "title": "Harbinger",
+      "title": "5- Harbinger - Eternal Eclipse",
       "artist": "Eternal Eclipse",
-      "album": "Wings of Apocalypse",
       "duration": 164.67591836734695
     },
     {
       "fileName": "6- Revelations - [Eternal Eclipse].mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\6- Revelations - [Eternal Eclipse].mp3",
-      "title": "Revelations",
+      "title": "6- Revelations - [Eternal Eclipse]",
       "artist": "Eternal Eclipse",
-      "album": "Wings of Apocalypse",
       "duration": 209.616
     },
     {
       "fileName": "7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\7-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
-      "title": "Se Hai Timore Del Vero",
+      "title": "7-  Se Hai Timore Del Vero - [KEYGEN CHURCH]",
       "artist": "Keygen Church, Vittorio D'Amore",
-      "album": "Nel Nome Del Codice",
       "duration": 272.544
     },
     {
       "fileName": "8- Lord of Ashes - [Lappy].mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\8- Lord of Ashes - [Lappy].mp3",
-      "title": "Lord of Ashes",
+      "title": "8- Lord of Ashes - [Lappy]",
       "artist": "Lappy",
-      "album": "Lord of Ashes",
       "duration": 391.248
     },
     {
       "fileName": "9 - Luce del Desiderio - [Lappy] .mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\9 - Luce del Desiderio - [Lappy] .mp3",
-      "title": "Luce del Desiderio",
+      "title": "9 - Luce del Desiderio - [Lappy] ",
       "artist": "Lappy",
-      "album": "Luce del Desiderio",
       "duration": 117.696
     }
   ],
   "myMusicFolderPath": "C:\\Users\\usuario\\Music\\Herejia-Verso",
   "reindexFrequency": "5",
   "myMusicShuffle": false,
-  "currentTrackIndex": 9
+  "currentTrackIndex": 0
 }

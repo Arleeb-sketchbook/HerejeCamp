@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PJs/JoJo.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "JoJo"
             }
           }
         ]
@@ -135,7 +135,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a"
+                "id": "ID_99187928a94a",
+                "child": "ID_6a88eb693bca"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -274,16 +275,20 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "0610569da1dc8c76",
   "lastOpenFiles": [
+    "PJs/Akatsuki.md",
+    "PJs/JoJo.md",
+    "Cuerpos Celestes/Obliva.md",
+    "README.md",
     "_Archivos/Pasted image 20250703113041.png",
     "Enemigos/Hashalaq Quori.md",
     "_Archivos/Pasted image 20250703113109.png",
     "Enemigos/Trego el Zombrujo.md",
-    "README.md",
     "_Archivos/Pasted image 20250619192919.png",
     "_Archivos/Pasted image 20250619194117.png",
     "_Archivos/Pasted image 20250619172802.png",
@@ -301,7 +306,6 @@
     "Enfermedades/Vampirismo.md",
     "Enfermedades/Licantropía.md",
     "Eventos/Periodo Escarlata.md",
-    "PJs/Akatsuki.md",
     "Enemigos/Devorador de conocimiento.md",
     "Enfermedades/Mimicosis.md",
     "Enfermedades/Fungicognito.md",
@@ -314,7 +318,6 @@
     "Tablas",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
-    "Reyes-Dios/Liberium.md",
     "Mazmorras",
     "Herejias/Habilidad Herética/Habilidades Condicionales",
     "Enfermedades",
