@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3b6e5774d7762430",
+        "id": "30c2bc94a6d67291",
         "type": "tabs",
         "children": [
           {
-            "id": "fedf256c8dcb4b46",
+            "id": "55a1f60af03842a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "Misiones/Principales/El Caballero.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "El Caballero"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -199,11 +197,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "fedf256c8dcb4b46",
+  "active": "55a1f60af03842a1",
   "lastOpenFiles": [
+    "Misiones/Principales/El Caballero.md",
     "Misiones/Principales/La nota de Nico.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
-    "Misiones/Principales/El Caballero.md",
     "DESCONOCIDO/Una Voz Misteriosa.md",
     "DESCONOCIDO/Evento Desconocido.md",
     "Trama de la campaña.md",
