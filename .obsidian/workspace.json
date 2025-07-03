@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
+                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Habilidades Miméticas"
+              "title": "Habilidades Fúngicas"
             }
           }
         ]
@@ -187,10 +187,14 @@
   },
   "active": "923115bab9911621",
   "lastOpenFiles": [
+    "Enfermedades/Licantropía.md",
+    "Eventos/Periodo Escarlata.md",
+    "PNJs/Nico.md",
+    "PNJs/Amy.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
+    "Tablas/Materiales Defectuosos.md",
     "Tablas/Materiales Mímicos.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
-    "Tablas/Materiales Defectuosos.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "Herejias/Habilidades Heréticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales.md",
     "Enfermedades/Enfermedades.md",
@@ -229,10 +233,6 @@
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
     "Enfermedades/Vampirismo.md",
-    "Enfermedades/Licantropía.md",
-    "Eventos/Periodo Escarlata.md",
-    "Enemigos/Devorador de conocimiento.md",
-    "Enfermedades/Mimicosis.md",
     "Sin título.canvas"
   ]
 }
