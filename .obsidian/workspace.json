@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bda609f704494c97",
+        "id": "f00abd79f761a81d",
         "type": "tabs",
         "children": [
           {
-            "id": "97b38eec7fa7b9ec",
+            "id": "763b8054f830e155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enfermedades/Mimicosis.md",
-                "mode": "source",
+                "file": "Trama de la campaña.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mimicosis"
+              "title": "Trama de la campaña"
             }
           }
         ]
@@ -273,12 +273,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97b38eec7fa7b9ec",
+  "active": "763b8054f830e155",
   "lastOpenFiles": [
+    "Cuerpos Celestes/Obliva.md",
+    "Cuerpos Celestes/Ruul.md",
     "Enfermedades/Mimicosis.md",
-    "Mazmorra de La Cadena de los Herejes.md",
+    "Mazmorras",
+    "Enfermedades/Fungicognito.md",
+    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales",
-    "Sin nombre",
     "Enfermedades",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "README.md",
@@ -302,13 +305,9 @@
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
     "Idea.md",
-    "Cuerpos Celestes/Ruul.md",
-    "Cuerpos Celestes/Obliva.md",
     "Enemigos/Tsucora Quori.md",
     "Misiones/Secundarias",
     "Trama de la campaña.md",
-    "Reinos/Velum.md",
-    "Reinos/Semigladi.md",
     "_Archivos/OIG1.webp",
     "Eventos",
     "Cuerpos Celestes",
