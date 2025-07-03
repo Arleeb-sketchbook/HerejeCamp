@@ -105,7 +105,7 @@
       {
         "id": "bf26cb86a4d109db",
         "type": "tabs",
-        "dimension": 44.73039215686274,
+        "dimension": 40.46172539489672,
         "children": [
           {
             "id": "d4ddbf1fba68344e",
@@ -129,8 +129,7 @@
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
-                  "interpolateColors": false,
-                  "hideEra": true,
+                  "interpolateColors": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
@@ -161,7 +160,7 @@
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 30.75980392156863,
+        "dimension": 35.236938031591734,
         "children": [
           {
             "id": "6d316720f97f6bd8",
@@ -196,7 +195,7 @@
       {
         "id": "e183be676c2ab870",
         "type": "tabs",
-        "dimension": 24.50980392156863,
+        "dimension": 24.30133657351154,
         "children": [
           {
             "id": "b931edc16f7d5ff5",
@@ -279,7 +278,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d4ddbf1fba68344e",
+  "active": "b931edc16f7d5ff5",
   "lastOpenFiles": [
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
     "PJs/Akatsuki.md",
