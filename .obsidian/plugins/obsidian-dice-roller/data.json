@@ -75,6 +75,21 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "viewResults": [],
-  "version": "11.4.2"
+  "version": "11.4.2",
+  "viewResults": [
+    {
+      "result": "16",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[16]",
+      "timestamp": 1751543835398,
+      "id": "3evFU66e3e8I"
+    },
+    {
+      "result": "4",
+      "original": "1d7",
+      "resultText": "1d7\n[4]",
+      "timestamp": 1751543887090,
+      "id": "oF7IjrUUjEcW"
+    }
+  ]
 }

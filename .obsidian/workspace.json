@@ -15,7 +15,7 @@
               "state": {
                 "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Mimeticas.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Habilidades Mimeticas"
@@ -218,7 +218,8 @@
               "title": "Esquema de Mazmorra de La Cadena de los Herejes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "96721c51987e5e07",
@@ -275,8 +276,9 @@
   },
   "active": "763b8054f830e155",
   "lastOpenFiles": [
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
+    "Materiales Mimicos.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Mimeticas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "Trama de la campaña.md",
     "Cuerpos Celestes/Obliva.md",
     "Cuerpos Celestes/Ruul.md",
@@ -307,7 +309,6 @@
     "Eventos/Periodo Escarlata.md",
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Venganza en Espejo.md",
-    "Idea.md",
     "Misiones/Secundarias",
     "_Archivos/OIG1.webp",
     "Eventos",
