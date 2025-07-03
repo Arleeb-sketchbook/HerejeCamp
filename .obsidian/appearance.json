@@ -1,8 +1,10 @@
 {
-  "cssTheme": "ITS Theme",
+  "cssTheme": "PLN",
   "enabledCssSnippets": [
-    "archivo"
+    "archivo",
+    "infobox"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "accentColor": ""
 }
