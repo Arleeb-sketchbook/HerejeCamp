@@ -43,6 +43,13 @@
       }
     },
     {
+      "query": "path:\"Herejias/Habilidad Herética\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
       "query": "path:Herejias  ",
       "color": {
         "a": 1,
@@ -111,6 +118,13 @@
         "a": 1,
         "rgb": 10331572
       }
+    },
+    {
+      "query": "path:Misiones  ",
+      "color": {
+        "a": 1,
+        "rgb": 6402031
+      }
     }
   ],
   "collapse-display": false,
@@ -123,6 +137,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13621765722847726,
-  "close": true
+  "scale": 0.9190301334735212,
+  "close": false
 }

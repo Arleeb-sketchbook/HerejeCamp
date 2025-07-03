@@ -1,0 +1,1 @@
+Un hereje con [[Licantropía]]

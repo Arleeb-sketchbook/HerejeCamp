@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eventos/Periodo Escarlata.md",
+                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Periodo Escarlata"
+              "title": "Habilidades Vampíricas"
+            }
+          },
+          {
+            "id": "042a3872f7f782b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +44,6 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
-        "dimension": 72.1862871927555,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -73,23 +83,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b163fe329a9c0843",
-        "type": "tabs",
-        "dimension": 27.8137128072445,
-        "children": [
-          {
-            "id": "042a3872f7f782b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
             }
           }
         ]
@@ -218,7 +211,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eventos/Periodo Escarlata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Periodo Escarlata"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -237,12 +229,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eventos/Periodo Escarlata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Periodo Escarlata"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -277,15 +268,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b7b326aee488a2ca",
+  "active": "042a3872f7f782b9",
   "lastOpenFiles": [
-    "PJs/Akatsuki.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales.md",
+    "Enfermedades/Vampirismo.md",
+    "Enfermedades/Licantropía.md",
     "Eventos/Periodo Escarlata.md",
+    "PJs/Akatsuki.md",
     "Enemigos/Devorador de conocimiento.md",
     "Enfermedades/Mimicosis.md",
     "Enfermedades/Fungicognito.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Mimeticas.md",
     "DESCONOCIDO/Eclipse.md",
     "README.md",
     "PJs/PJs.md",
@@ -294,7 +290,6 @@
     "Misiones/Secundarias/Ecos de Venganza.md",
     "Enemigos/Trego el Zombrujo.md",
     "Herejias/Habilidades Heréticas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales.md",
     "Tablas",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
@@ -302,10 +297,6 @@
     "Reyes-Dios/Scivi.md",
     "Reyes-Dios/Bellator.md",
     "PJs/JoJo.md",
-    "PJs/Personaje de Max.md",
-    "Tablas/Materiales Mimicos.md",
-    "Cuerpos Celestes/Obliva.md",
-    "Cuerpos Celestes/Ruul.md",
     "Mazmorras",
     "Herejias/Habilidad Herética/Habilidades Condicionales",
     "Enfermedades",
