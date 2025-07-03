@@ -81,11 +81,18 @@
   ],
   "myMusicIndex": [
     {
-      "fileName": "[Anime Music] Ashita No Joe OST Joes Whistle.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\[Anime Music] Ashita No Joe OST Joes Whistle.mp3",
+      "fileName": "1 - Ashita No Joe OST Joes Whistle.mp3",
+      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\1 - Ashita No Joe OST Joes Whistle.mp3",
       "title": "Ashita No Joe OST Joes Whistle",
       "artist": "Anime Music",
       "duration": 104.28
+    },
+    {
+      "fileName": "2- Susie  - Toby Fox.mp3",
+      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\2- Susie  - Toby Fox.mp3",
+      "title": "4. Susie (DELTARUNE Chapter 1 Soundtrack) - Toby Fox",
+      "artist": "Toby Fox",
+      "duration": 32.47020408163265
     },
     {
       "fileName": "[Catalina] Megalith Agnus Dei x Somebody That I Used to Know.mp3",
@@ -230,13 +237,6 @@
       "duration": 122.01795918367347
     },
     {
-      "fileName": "[Toby Fox] 4. Susie (DELTARUNE Chapter 1 Soundtrack) - Toby Fox.mp3",
-      "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\[Toby Fox] 4. Susie (DELTARUNE Chapter 1 Soundtrack) - Toby Fox.mp3",
-      "title": "4. Susie (DELTARUNE Chapter 1 Soundtrack) - Toby Fox",
-      "artist": "Toby Fox",
-      "duration": 32.47020408163265
-    },
-    {
       "fileName": "[Toby Fox] 64. Dark Place (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3",
       "fullPath": "C:\\Users\\usuario\\Music\\Herejia-Verso\\[Toby Fox] 64. Dark Place (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3",
       "title": "64. Dark Place (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox",
@@ -275,5 +275,5 @@
   "myMusicFolderPath": "C:\\Users\\usuario\\Music\\Herejia-Verso",
   "reindexFrequency": "5",
   "myMusicShuffle": false,
-  "currentTrackIndex": 0
+  "currentTrackIndex": 19
 }
