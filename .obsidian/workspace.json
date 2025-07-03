@@ -80,7 +80,7 @@
       {
         "id": "bd3ad77d25c3cdbd",
         "type": "tabs",
-        "dimension": 25.839793281653744,
+        "dimension": 25.83979328165374,
         "children": [
           {
             "id": "042a3872f7f782b9",
@@ -135,8 +135,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a",
-                "child": "ID_6a88eb693bca"
+                "id": "ID_99187928a94a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -171,7 +170,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_cb3beb798a09",
                 "id": "ID_6a88eb693bca",
                 "parent": "ID_99187928a94a"
               },
@@ -267,6 +265,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "soundscapes:Soundscapes: My Music": false,
       "hide-folders:Show hidden folders": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -275,8 +274,7 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "project-browser:Open project browser": false
     }
   },
   "active": "0610569da1dc8c76",
