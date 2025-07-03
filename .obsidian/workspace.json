@@ -11,12 +11,14 @@
             "id": "b7b326aee488a2ca",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Eventos/Periodo Escarlata.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "Periodo Escarlata"
             }
           }
         ]
@@ -83,11 +85,9 @@
           {
             "id": "042a3872f7f782b9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
@@ -160,7 +160,7 @@
       {
         "id": "96721c51987e5e07",
         "type": "tabs",
-        "dimension": 31.901840490797547,
+        "dimension": 31.901840490797543,
         "children": [
           {
             "id": "2a14bb98384e0c10",
@@ -179,18 +179,6 @@
             }
           },
           {
-            "id": "ccfd19b23b108bee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "733a332930811a8d",
             "type": "leaf",
             "pinned": true,
@@ -202,8 +190,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e183be676c2ab870",
@@ -211,11 +198,27 @@
         "dimension": 26.012269938650306,
         "children": [
           {
+            "id": "b931edc16f7d5ff5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
             "id": "92904d87f1a1d221",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eventos/Periodo Escarlata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Periodo Escarlata"
             }
           },
           {
@@ -234,30 +237,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Eventos/Periodo Escarlata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Periodo Escarlata"
             }
           },
           {
-            "id": "b931edc16f7d5ff5",
+            "id": "ccfd19b23b108bee",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,25 +274,28 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
       "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false,
-      "omnisearch:Omnisearch": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "042a3872f7f782b9",
+  "active": "b7b326aee488a2ca",
   "lastOpenFiles": [
+    "PJs/Akatsuki.md",
+    "Eventos/Periodo Escarlata.md",
+    "Enemigos/Devorador de conocimiento.md",
+    "Enfermedades/Mimicosis.md",
+    "Enfermedades/Fungicognito.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Mimeticas.md",
     "DESCONOCIDO/Eclipse.md",
     "README.md",
     "PJs/PJs.md",
     "Herejias/Herejes.md",
-    "PJs/Akatsuki.md",
     "Trama de la campaña.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
     "Enemigos/Trego el Zombrujo.md",
     "Herejias/Habilidades Heréticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales.md",
     "Tablas",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Mimeticas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Reyes-Dios/Liberium.md",
@@ -303,13 +306,9 @@
     "Tablas/Materiales Mimicos.md",
     "Cuerpos Celestes/Obliva.md",
     "Cuerpos Celestes/Ruul.md",
-    "Enfermedades/Mimicosis.md",
     "Mazmorras",
-    "Enfermedades/Fungicognito.md",
-    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales",
     "Enfermedades",
-    "Misiones/Principales/La Cadena de los Herejes.md",
     "Sin título.canvas",
     "Planos y Semiplanos/Semiplanos/Mundos Trono",
     "Planos y Semiplanos/Semiplanos",

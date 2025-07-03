@@ -11,7 +11,105 @@
       "query": "path:\"Cuerpos Celestes\"  ",
       "color": {
         "a": 1,
-        "rgb": 21074
+        "rgb": 6271923
+      }
+    },
+    {
+      "query": "path:DESCONOCIDO  ",
+      "color": {
+        "a": 1,
+        "rgb": 12940509
+      }
+    },
+    {
+      "query": "path:Enemigos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14707829
+      }
+    },
+    {
+      "query": "path:Enfermedades  ",
+      "color": {
+        "a": 1,
+        "rgb": 10011513
+      }
+    },
+    {
+      "query": "path:Eventos  ",
+      "color": {
+        "a": 1,
+        "rgb": 16303445
+      }
+    },
+    {
+      "query": "path:Herejias  ",
+      "color": {
+        "a": 1,
+        "rgb": 13983641
+      }
+    },
+    {
+      "query": "path:Logica  ",
+      "color": {
+        "a": 1,
+        "rgb": 5682882
+      }
+    },
+    {
+      "query": "path:Mazmorras  ",
+      "color": {
+        "a": 1,
+        "rgb": 12472390
+      }
+    },
+    {
+      "query": "path:Objetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 11252415
+      }
+    },
+    {
+      "query": "path:PJs  ",
+      "color": {
+        "a": 1,
+        "rgb": 13007069
+      }
+    },
+    {
+      "query": "path:\"Planos y Semiplanos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8308642
+      }
+    },
+    {
+      "query": "path:PNJs  ",
+      "color": {
+        "a": 1,
+        "rgb": 13736550
+      }
+    },
+    {
+      "query": "path:Reinos  ",
+      "color": {
+        "a": 1,
+        "rgb": 15057019
+      }
+    },
+    {
+      "query": "path:Reyes-Dios  ",
+      "color": {
+        "a": 1,
+        "rgb": 10907104
+      }
+    },
+    {
+      "query": "path:Tablas path:\"Cuerpos Celestes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10331572
       }
     }
   ],
@@ -25,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5370427192340324,
+  "scale": 0.13621765722847726,
   "close": true
 }
