@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b2e11161f477df",
+        "id": "ad12be2de01eac54",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b326aee488a2ca",
+            "id": "79cbe7d4c5294ec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
-                "mode": "source",
-                "source": true
+                "file": "Enemigos/Tsucora Quori.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Habilidades Vampíricas"
-            }
-          },
-          {
-            "id": "042a3872f7f782b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Tsucora Quori"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,6 +33,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
+        "dimension": 74.16020671834626,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -83,6 +73,25 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd3ad77d25c3cdbd",
+        "type": "tabs",
+        "dimension": 25.839793281653744,
+        "children": [
+          {
+            "id": "042a3872f7f782b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -211,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enemigos/Tsucora Quori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Tsucora Quori"
             }
           },
           {
@@ -229,11 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Enemigos/Tsucora Quori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Tsucora Quori"
             }
           },
           {
@@ -252,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,8 +279,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "042a3872f7f782b9",
+  "active": "79cbe7d4c5294ec3",
   "lastOpenFiles": [
+    "Pasted image 20250703113109.png",
+    "Pasted image 20250703113041.png",
+    "Enemigos/Trego el Zombrujo.md",
+    "README.md",
+    "Enemigos/Tsucora Quori.md",
+    "_Archivos/Pasted image 20250619192919.png",
+    "_Archivos/Pasted image 20250619194117.png",
+    "_Archivos/Pasted image 20250619172802.png",
+    "_Archivos/Pasted image 20250619172254.png",
+    "_Archivos/Pasted image 20250619172639.png",
+    "_Archivos/Pasted image 20250619172658.png",
+    "_Archivos/Pasted image 20250619172734.png",
+    "Objetos/Objetos Clave/Eco-Códice.md",
+    "_Archivos/Pasted image 20250619172054.png",
+    "_Archivos/Pasted image 20250620150145.jpg",
+    "Herejias/Habilidades Heréticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
@@ -283,20 +310,14 @@
     "Enfermedades/Fungicognito.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "DESCONOCIDO/Eclipse.md",
-    "README.md",
     "PJs/PJs.md",
     "Herejias/Herejes.md",
     "Trama de la campaña.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
-    "Enemigos/Trego el Zombrujo.md",
-    "Herejias/Habilidades Heréticas.md",
     "Tablas",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Reyes-Dios/Liberium.md",
-    "Reyes-Dios/Scivi.md",
-    "Reyes-Dios/Bellator.md",
-    "PJs/JoJo.md",
     "Mazmorras",
     "Herejias/Habilidad Herética/Habilidades Condicionales",
     "Enfermedades",
@@ -305,10 +326,7 @@
     "Planos y Semiplanos/Semiplanos",
     "Planos y Semiplanos/Planos",
     "Misiones/Secundarias",
-    "_Archivos/OIG1.webp",
     "Eventos",
-    "Cuerpos Celestes",
-    "_Archivos/Pasted image 20250620150623.jpg",
-    "_Archivos/Pasted image 20250620150145.jpg"
+    "Cuerpos Celestes"
   ]
 }
