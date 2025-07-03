@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29d3c9b1fc452258",
+        "id": "b64400ef7b3431de",
         "type": "tabs",
         "children": [
           {
-            "id": "37207f8b2100bdba",
+            "id": "9cbba8d79e08885d",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
-              "state": {
-                "path": "/"
-              },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -31,7 +29,7 @@
       {
         "id": "7d6fbb094a8cac81",
         "type": "tabs",
-        "dimension": 59.58188153310105,
+        "dimension": 74.1267787839586,
         "children": [
           {
             "id": "6e64f4d2d0ebca74",
@@ -78,7 +76,7 @@
       {
         "id": "b163fe329a9c0843",
         "type": "tabs",
-        "dimension": 40.41811846689895,
+        "dimension": 25.873221216041397,
         "children": [
           {
             "id": "042a3872f7f782b9",
@@ -96,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 441.5
   },
   "right": {
     "id": "68bfb69048dad351",
@@ -255,7 +253,8 @@
               "title": "Etiquetas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -276,8 +275,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37207f8b2100bdba",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
+    "DESCONOCIDO/Eclipse.md",
     "README.md",
     "PJs/PJs.md",
     "Herejias/Herejes.md",
@@ -307,7 +307,6 @@
     "Herejias/Habilidad Herética/Habilidades Condicionales",
     "Enfermedades",
     "Misiones/Principales/La Cadena de los Herejes.md",
-    "Mazmorra.md",
     "Sin título.canvas",
     "Planos y Semiplanos/Semiplanos/Mundos Trono",
     "Planos y Semiplanos/Semiplanos",
