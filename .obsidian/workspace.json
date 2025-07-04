@@ -195,7 +195,7 @@
       {
         "id": "e183be676c2ab870",
         "type": "tabs",
-        "dimension": 24.30133657351154,
+        "dimension": 24.301336573511538,
         "children": [
           {
             "id": "b931edc16f7d5ff5",
@@ -208,8 +208,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -227,8 +227,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -241,8 +241,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -265,12 +265,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "soundscapes:Soundscapes: My Music": false,
-      "hide-folders:Show hidden folders": false,
+      "hide-folders:Hide hidden folders again": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
