@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-tag:#oculto ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Cuerpos Celestes\"  ",
@@ -129,14 +129,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.6,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.14524945874288914,
+  "textFadeMultiplier": -2.9,
+  "nodeSizeMultiplier": 1.08293413173653,
+  "lineSizeMultiplier": 2.37395209580838,
+  "collapse-forces": false,
+  "centerStrength": 0.496007984031936,
+  "repelStrength": 10.1596806387226,
+  "linkStrength": 0.511976047904192,
+  "linkDistance": 273,
+  "scale": 0.16348370567220755,
   "close": true
 }

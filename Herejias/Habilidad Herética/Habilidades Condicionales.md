@@ -1,4 +1,4 @@
-Las enfermedades, normalmente prejudiciales o letales, afectan de maneras curiosas a aquellos que han decidido auto tributarse.
+Las [[Enfermedades]], normalmente prejudiciales o letales, afectan de maneras curiosas a aquellos que han decidido auto tributarse.
 
 ### [[Habilidades Miméticas]]
 ![[Habilidades Miméticas]]
