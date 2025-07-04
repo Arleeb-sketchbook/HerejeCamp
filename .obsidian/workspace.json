@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4eda66ec6f1d0f2d",
+        "id": "cd71e66a12a5ceb1",
         "type": "tabs",
         "children": [
           {
-            "id": "58c14166bb0c49bb",
+            "id": "febc8cc5c67a225a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herejias/Proto-Hereje.md",
-                "mode": "source",
+                "file": "PJs/Akatsuki.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Proto-Hereje"
+              "title": "Akatsuki"
             }
           }
         ]
@@ -208,6 +208,7 @@
           {
             "id": "688df49f249854f5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -216,11 +217,13 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Soundtrack"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -239,23 +242,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "58c14166bb0c49bb",
+  "active": "febc8cc5c67a225a",
   "lastOpenFiles": [
+    "PJs/Akatsuki.md",
+    "PJs/JoJo.md",
+    "Cuerpos Celestes/Ruul.md",
+    "PNJs/Nico.md",
+    "PNJs/Amy.md",
+    "_Herejia-Soundtrack/Soundtrack.md",
+    "Reyes-Dios/Bellator.md",
+    "README.md",
+    "Herejias/Proto-Hereje.md",
     "PNJs/PNJs Herejes/Roguer.md",
     "Herejias/Herejes.md",
     "DESCONOCIDO/Una Voz Misteriosa.md",
     "DESCONOCIDO/Evento Desconocido.md",
     "DESCONOCIDO/Eclipse.md",
-    "Reyes-Dios/Bellator.md",
     "Enfermedades/Licantropía.md",
     "Enfermedades/Fungicognito.md",
     "Enfermedades/Vampirismo.md",
     "Enfermedades/Mimicosis.md",
     "Enfermedades/Enfermedades.md",
-    "_Herejia-Soundtrack/Soundtrack.md",
-    "README.md",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
-    "PJs/Akatsuki.md",
     "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",
     "_Herejia-Soundtrack/6- Revelations - [Eternal Eclipse].mp3",
@@ -265,7 +273,6 @@
     "_Herejia-Soundtrack/26 - Your Power - Toby Fox .mp3",
     "_Herejia-Soundtrack/3- Neverending Night - Toby Fox.mp3",
     "_Herejia-Soundtrack/25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
-    "PJs/JoJo.md",
     "PJs/Personaje de Max.md",
     "PJs/PJs.md",
     "Cuerpos Celestes/Obliva.md",
@@ -283,10 +290,6 @@
     "Objetos/Objetos Clave/Eco-Códice.md",
     "_Archivos/Pasted image 20250619172054.png",
     "Herejias/Habilidades Heréticas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales.md",
     "Sin título.canvas"
   ]
 }
