@@ -1,1 +1,0 @@
-William fue un [[Proto-Hereje]], asesinado por [[Bellator]] en persona

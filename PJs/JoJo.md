@@ -8,9 +8,9 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Monje |
-> |Relaciones| <ul>Familia<li>Gildar Elmute (Hermano Adoptivo)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[William]]✝️</li></ul>|
+> |Relaciones| <ul>Familia<li>Gildar Elmute (Hermano Adoptivo)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roguer]]✝️</li></ul>|
 > |Edad| 25 |
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
 
-JoJo — cuyo nombre real es Jonathan Joestar — es considerado un [[Proto-Hereje]], pues aprendió habilidades heréticas antes del eclipse por parte de su maestro [[William]]
+JoJo — cuyo nombre real es Jonathan Joestar — es considerado un [[Proto-Hereje]], pues aprendió habilidades heréticas antes del eclipse por parte de su maestro [[Roguer]]

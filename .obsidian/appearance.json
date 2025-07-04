@@ -1,10 +1,11 @@
 {
-  "cssTheme": "Ukiyo",
+  "cssTheme": "Typomagical",
   "enabledCssSnippets": [
     "archivo",
     "infobox"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }
