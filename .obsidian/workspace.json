@@ -15,7 +15,7 @@
               "state": {
                 "file": "Enfermedades/Mimicosis.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -239,7 +239,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6d316720f97f6bd8",
+  "active": "c97eca0dc5ca38c6",
   "lastOpenFiles": [
     "Enfermedades/Enfermedades.md",
     "_Herejia-Soundtrack/Soundtrack.md",
