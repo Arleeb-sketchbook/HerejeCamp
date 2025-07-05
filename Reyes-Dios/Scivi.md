@@ -13,7 +13,7 @@
 > |Reino| [[Velum]]|
 > |Estado| Viva|
 
-Reina-Diosa del conocimiento, hermana de [[Bellator]] y [[Liberium]].
+Reina-Diosa del conocimiento, hermana mayor de [[Bellator]] y [[Liberium]].
 
 Reina pacíficamente sobre [[Velum]].
 

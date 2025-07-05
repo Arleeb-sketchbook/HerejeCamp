@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trama de la campaña.md",
-                "mode": "preview",
+                "file": "Reyes-Dios/Liberium.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trama de la campaña"
+              "title": "Liberium"
             }
           }
         ],
@@ -148,33 +148,6 @@
         "dimension": 46.774193548387096,
         "children": [
           {
-            "id": "6d316720f97f6bd8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "id": "ID_db387a8ac91a",
-                "parent": "ID_99187928a94a"
-              },
-              "pinned": true,
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          },
-          {
-            "id": "733a332930811a8d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "pinned": true,
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "688df49f249854f5",
             "type": "leaf",
             "pinned": true,
@@ -189,6 +162,18 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "OST"
+            }
+          },
+          {
+            "id": "733a332930811a8d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ]
@@ -209,13 +194,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6d316720f97f6bd8",
+  "active": "240bedc04c8ea75e",
   "lastOpenFiles": [
-    "Trama de la campaña.md",
-    "_Herejia-Soundtrack/OST.md",
+    "Reyes-Dios/Bellator.md",
     "Reyes-Dios/Scivi.md",
     "Reyes-Dios/Liberium.md",
-    "Reyes-Dios/Bellator.md",
+    "_Herejia-Soundtrack/OST.md",
+    "Trama de la campaña.md",
     "PNJs/PNJs Herejes/Roguer.md",
     "PNJs/Nico.md",
     "PNJs/Mindartis.md",
