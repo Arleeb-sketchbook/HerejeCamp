@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reyes-Dios/Liberium.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Liberium"
+              "title": "README"
             }
           }
         ],
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,16 +196,18 @@
   },
   "active": "240bedc04c8ea75e",
   "lastOpenFiles": [
+    "PJs/JoJo.md",
+    "_Herejia-Soundtrack/OST.md",
+    "Reyes-Dios/Liberium.md",
+    "_Herejia-Soundtrack/27- Bury the Light.mp3",
+    "_Herejia-Soundtrack/Bury the Light.mp3",
     "Reyes-Dios/Bellator.md",
     "Reyes-Dios/Scivi.md",
-    "Reyes-Dios/Liberium.md",
-    "_Herejia-Soundtrack/OST.md",
     "Trama de la campaña.md",
     "PNJs/PNJs Herejes/Roguer.md",
     "PNJs/Nico.md",
     "PNJs/Mindartis.md",
     "PNJs/Amy.md",
-    "PJs/JoJo.md",
     "PJs/Akatsuki.md",
     "Cuerpos Celestes/Ruul.md",
     "README.md",
@@ -227,11 +229,8 @@
     "_Herejia-Soundtrack/5- Harbinger - Eternal Eclipse.mp3",
     "_Herejia-Soundtrack/4 - MOST BADASS VOCAL BATTLE ACTION EVER ｜ by Epikus.mp3",
     "_Herejia-Soundtrack/26 - Your Power - Toby Fox .mp3",
-    "_Herejia-Soundtrack/3- Neverending Night - Toby Fox.mp3",
-    "_Herejia-Soundtrack/25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3",
     "PJs/Personaje de Max.md",
     "PJs/PJs.md",
-    "Cuerpos Celestes/Obliva.md",
     "_Archivos/Pasted image 20250703113041.png",
     "_Archivos/Pasted image 20250703113109.png",
     "_Archivos/Pasted image 20250619192919.png",

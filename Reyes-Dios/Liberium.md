@@ -14,6 +14,6 @@
 
 Hermano menor de Scivi y Bellator, Liberium representa la libertad.
 
-"Reinaba" sobre [[Nullus]] hasta su misteriosa desaparición,
+"Reinaba" sobre [[Nullus]] hasta su misteriosa desaparición, actualmente se desconoce su paradero.
 
 No entendió las palabras de [[Una Voz Misteriosa]]
