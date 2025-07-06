@@ -11,29 +11,18 @@
             "id": "0a19beb0ec0ae18e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "240bedc04c8ea75e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Misiones/Secundarias/(Entrega) Carga Varada.md",
+                "file": "Misiones/Misión de  Aventura.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(Entrega) Carga Varada"
+              "title": "Misión de  Aventura"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +183,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "240bedc04c8ea75e",
+  "active": "0a19beb0ec0ae18e",
   "lastOpenFiles": [
+    "Misiones/Misión de Asesinato.md",
+    "Misiones/Misión de  Aventura.md",
+    "Misiones/Misión de Entrega.md",
+    "Misiones/Secundarias/Carga Varada.md",
+    "Objetos/Objetos Clave/Eco-Códice.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
-    "Misiones/Secundarias/(Entrega) Carga Varada.md",
     "README.md",
     "Enfermedades/Fungicognito.md",
     "Enfermedades/Mimicosis.md",
@@ -220,10 +213,6 @@
     "PJs/Akatsuki.md",
     "Cuerpos Celestes/Ruul.md",
     "Herejias/Proto-Hereje.md",
-    "Herejias/Herejes.md",
-    "DESCONOCIDO/Una Voz Misteriosa.md",
-    "DESCONOCIDO/Evento Desconocido.md",
-    "DESCONOCIDO/Eclipse.md",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
     "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",

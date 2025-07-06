@@ -1,0 +1,1 @@
+Las misiones de entrega constan de transportar un objeto o individuo de un punto A a un punto B, sorteando obstáculos en el camino y asegurándose de que el bien transportado llegue en buen estado
