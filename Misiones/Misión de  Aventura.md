@@ -1,0 +1,1 @@
+Las misiones de aventura son misiones que no tienen ningún otro tipo de clasificación, tienden a ser las misiones principales

@@ -25,5 +25,6 @@
 [[25 - Your Best Nightmare ⧸ Finale by Dethraxx.mp3]]
 [[26 - Your Power - Toby Fox .mp3]]
 [[27- Bury the Light.mp3]]
-
+[[28 - Low Roar - Ill Keep Coming.mp3]]
+[[29 - Low Roar - Dont Be So Serious.mp3]]
 #oculto 

@@ -1,0 +1,1 @@
+Las misiones de asesinato son misiones cuyo objetivo es eliminar o neutralizar a un objetivo, a veces la misión solo trata del asesinato, a veces tiene objetivos previos
