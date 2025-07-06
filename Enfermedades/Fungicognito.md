@@ -4,6 +4,6 @@ Un individuo se puede contagiar de fungicognito si inhala esporas del hongo, o l
 
 ### Sintomatologia
 
-| Fase | Sintomas |
-| ---- | -------- |
-| Encubacion |
+| Fase       | Sintomas                                                      |
+| ---------- | ------------------------------------------------------------- |
+| Incubación | El infectado empieza recibir pensamientos de la mente colmena |
