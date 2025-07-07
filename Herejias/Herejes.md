@@ -9,4 +9,4 @@ En su mayoría, nadie se vuelve hereje por que si. Muchos tienen sus motivos par
 Al almacenar [[Tributos]], los Herejes se vuelven capaces de usar las [[Habilidades Heréticas]]
 
 #### *Lista de Herejes conocidos*
-![[PJs]] ![[PNJs Herejes]]
+![[PJs]]![[PNJs Herejes]]

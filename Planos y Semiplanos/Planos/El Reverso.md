@@ -1,0 +1,2 @@
+El Reverso es un eco de [[Eris]], es a donde van las almas de los caídos al morir.
+Se ve como Eris y se modifica al mismo tiempo que el anterior, sin embargo las únicas criaturas visibles son espectros de gente que dejo algo, o alguien, atrás.
