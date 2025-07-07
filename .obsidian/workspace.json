@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "15b45e763b508e39",
+        "id": "5554766a7753db5d",
         "type": "tabs",
         "children": [
           {
-            "id": "2acf8919d60a3097",
+            "id": "2a38e38c243626ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "Misiones/Secundarias/Carga Varada.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "Carga Varada"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -182,10 +179,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2acf8919d60a3097",
+  "active": "2a38e38c243626ea",
   "lastOpenFiles": [
-    "Planos y Semiplanos/Planos/El Reverso.md",
     "Misiones/Secundarias/Carga Varada.md",
+    "Planos y Semiplanos/Planos/El Reverso.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
     "PNJs/PNJs Herejes/S.P.B.md",
     "Reinos/Lugares Importantes/En Velum/Nico's.md",
