@@ -116,8 +116,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a",
-                "child": "ID_db387a8ac91a"
+                "id": "ID_99187928a94a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -174,8 +173,7 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "project-browser:Open project browser": false
     }
   },
   "active": "46b2d6f512ec3199",
