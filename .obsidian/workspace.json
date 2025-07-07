@@ -11,10 +11,15 @@
             "id": "46b2d6f512ec3199",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "S.P.B.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "S.P.B"
             }
           }
         ]
@@ -173,41 +178,42 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "46b2d6f512ec3199",
   "lastOpenFiles": [
+    "Misiones/Misión de Entrega.md",
+    "S.P.B.md",
+    "README.md",
+    "Reyes-Dios/Liberium.md",
+    "Reyes-Dios/Bellator.md",
+    "Pasted image 20250706232659.png",
+    "Misiones/Secundarias/Carga Varada.md",
+    "Misiones/Secundarias/Ecos de Venganza.md",
+    "Misiones/Principales/La nota de Nico.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
+    "Misiones/Principales/El Caballero.md",
     "Herejias/Herejía.md",
     "DESCONOCIDO/Eclipse.md",
     "Misiones/Misión de  Aventura.md",
     "Misiones/Misión de Asesinato.md",
-    "Misiones/Misión de Entrega.md",
     "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/29 - Low Roar - Dont Be So Serious.mp3",
     "_Herejia-Soundtrack/28 - Low Roar - Ill Keep Coming.mp3",
-    "Misiones/Secundarias/Carga Varada.md",
     "Objetos/Objetos Clave/Eco-Códice.md",
-    "Misiones/Secundarias/Ecos de Venganza.md",
-    "README.md",
     "Enfermedades/Fungicognito.md",
     "Enfermedades/Mimicosis.md",
     "Enfermedades/Enfermedades.md",
     "Enfermedades/Vampirismo.md",
     "Tablas/Materiales Defectuosos.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
-    "Reyes-Dios/Liberium.md",
     "PJs/JoJo.md",
     "_Herejia-Soundtrack/27- Bury the Light.mp3",
     "_Herejia-Soundtrack/Bury the Light.mp3",
-    "Reyes-Dios/Bellator.md",
     "Reyes-Dios/Scivi.md",
     "Trama de la campaña.md",
-    "PNJs/PNJs Herejes/Roguer.md",
-    "PNJs/Nico.md",
-    "PNJs/Mindartis.md",
-    "PNJs/Amy.md",
-    "PJs/Akatsuki.md",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
     "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Herejia-Soundtrack/8- Lord of Ashes - [Lappy].mp3",
@@ -223,7 +229,6 @@
     "_Archivos/Pasted image 20250619172639.png",
     "_Archivos/Pasted image 20250619172658.png",
     "_Archivos/Pasted image 20250619172734.png",
-    "_Archivos/Pasted image 20250619172054.png",
     "Sin título.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-
+_Tipo:[[Misión de  Aventura]]_
 _Los [[Herejes]] protagonistas son capturados y obligados a formar una [Cadena](Cadenas). Aquí empieza su aventura_ 
 
 Meses después del [[Eclipse]]:
