@@ -12,8 +12,14 @@ Acercar la mano al primer símbolo o a la luz azul, sientes el peso del conocimi
 
 # Primer Encuentro
 <div style="display:flex;">
-<img src="Pasted image 20250719092811.png" style="width:325; height:375">x2
-<img src="Pasted image 20250719092811.png" style="width:325; height:375">  
+	<div >
+		Guerreros zombi de Bellator x2
+		<img src="Pasted image 20250719092811.png" style="width:325; height:375">
+	</div>
+	<div>
+		Clerigo Zombi de Scivi
+		<img src="Pasted image 20250719092811.png" style="width:325; height:375">  
+	</div>
 </div>
 
 # Acertijo
@@ -29,3 +35,36 @@ Frente a la estatua y la inscripción se encuentran tres discos con palabras
 >[!tip] Respuesta
 >Se deben ordenar los discos para que muestren Valentía-Sacrificio-Muerte
 
+# Jefe
+### _El Espectro de Ares Verdan_
+
+**Ambientación**:  
+Una sala oscura con antorchas azules. En el centro yace una armadura completa, impoluta, flotando sobre un círculo de marcas tribales. Cuando los jugadores se acercan, la armadura se llena de humo rojizo y una voz ronca dice:
+
+> “He servido a Bellator. He dado todo. Si desean tomar lo que juré proteger... deben merecerlo.”
+#### Ares Verdan – Guerrero Heraldo del Filo
+
+Usa estadísticas del **Wight**, pero adaptadas:
+
+- **HP**: 95
+    
+- **AC**: 18 (armadura pesada)
+    
+- **Velocidad**: 30 ft
+    
+- **Arma legendaria**: _Espada del Juramento_
+    
+    - Ataque cuerpo a cuerpo +7, 2d10+4 daño cortante
+        
+    - Al impactar, el objetivo debe hacer una salvación de FUERZA CD 15 o caer derribado
+        
+- **Aura del Retador**: Mientras tenga más de 50% de vida, cualquier criatura que entre en combate con otro enemigo debe hacer una tirada de Sabiduría CD 13 o tener desventaja en ataques que no sean contra Ares.
+    
+- **Tributo de Último Aliento** _(1 vez por combate)_: Cuando cae a 0 hp, se mantiene con 1 hp y puede hacer un último turno completo antes de morir.
+    
+
+#### Terreno:
+
+- 2 estatuas de Bellator le otorgan 1d6 vida por turno si no son destruidas (HP 15 cada una).
+    
+- Destruirlas requiere una acción, una tirada de ataque cuerpo a cuerpo (AC 13).
