@@ -13,4 +13,5 @@ Acercar la mano al primer símbolo o a la luz azul, sientes el peso del conocimi
 # Primer Encuentro
 
 
-# Se
+# Acertijo
+Al entrar a la sala, los herejes se encuentran frente a una balanza y una estatua de cada

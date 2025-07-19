@@ -1,4 +1,4 @@
-# ~={red}Herejía=~: ~={orange}La espada=~
+# Herejía: La espada
 #### _La espada no es solo un arma, es un credo._
 
 _**Herejía**_ es una campaña _(Además de una extensión)_ de D&D 5e (2014), inspirada en el concepto de la _**Lógica de la espada**_ del universo de *Destiny*.
