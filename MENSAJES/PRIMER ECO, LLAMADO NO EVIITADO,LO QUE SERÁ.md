@@ -1,4 +1,4 @@
-**
+
 
 Ustedes leerán esto.  
 Y creerán que están comenzando una historia.
@@ -36,7 +36,7 @@ Y sabrán que no fue un juego.
 Fue una herejía.
 
 Oh, [Herejes]||[Dioses]||[Asesinos] Míos…  
-Ustedes me pertenecerán.**
+Ustedes me pertenecerán.
 
 Pero su poder aun no es latente, así que... Prepárense para lo que esta por venir
-![[primer eco.wav]]
+[[primer eco.wav]]

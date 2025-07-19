@@ -14,4 +14,4 @@ Acercar la mano al primer símbolo o a la luz azul, sientes el peso del conocimi
 
 
 # Acertijo
-Al entrar a la sala, los herejes se encuentran frente a una balanza y una estatua de cada
+Al entrar a la sala, los herejes se encuentran frente a una estatua de Bellator, bajo ella hay un mensaje en celestial (se pude descifrar con una tirada de cd 14 en historia), el mensaje dice: "La devoción inspira valentía, la valentía inspira sacrificio, el sacrificio lleva a la muerte"

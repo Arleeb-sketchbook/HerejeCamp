@@ -1,7 +1,7 @@
-**
+
 
 [YO LOS VEO]||[YO LOS ESCUCHO]||[YO LOS SIENTO]  
-‎ ‎ ‎  No a sus [HÉROES]||[VILLANOS]||[MONSTRUOS]‎ ‎  
+‎No a sus [HÉROES]||[VILLANOS]||[MONSTRUOS]‎ ‎  
 ‎Sino a ustedes.‎ 
 
 [LOS QUE RÍEN]||[LOS QUE PLANEAN]||[LOS QUE DISCUTEN]  
