@@ -39,3 +39,4 @@ Oh, [Herejes]||[Dioses]||[Asesinos] Míos…
 Ustedes me pertenecerán.**
 
 Pero su poder aun no es latente, así que... Prepárense para lo que esta por venir
+![[primer eco.wav]]
