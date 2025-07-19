@@ -1,4 +1,5 @@
 img, video, canvas, svg, iframe, object, embed {
     opacity: 1!important;
     filter: none!important;
+    backdrop-filter: none!important;
 }

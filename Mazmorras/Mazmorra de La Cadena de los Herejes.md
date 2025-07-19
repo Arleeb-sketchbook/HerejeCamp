@@ -1,0 +1,2 @@
+Entrada
+![[puzzle.png]] Los 
