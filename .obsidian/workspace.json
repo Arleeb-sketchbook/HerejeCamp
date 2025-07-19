@@ -11,12 +11,15 @@
             "id": "2a38e38c243626ea",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "PNJs/PNJs Herejes/S.P.B.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "S.P.B"
             }
           }
         ]
@@ -175,7 +178,8 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "2a38e38c243626ea",

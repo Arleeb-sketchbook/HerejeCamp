@@ -2,7 +2,8 @@
   "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
     "archivo",
-    "infobox"
+    "infobox",
+    "opacity"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "",
