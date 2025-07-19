@@ -15,7 +15,7 @@
               "state": {
                 "file": "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",

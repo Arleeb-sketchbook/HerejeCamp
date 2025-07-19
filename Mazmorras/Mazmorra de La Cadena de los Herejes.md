@@ -11,9 +11,10 @@ Acercar la mano al primer símbolo o a la luz azul, sientes el peso del conocimi
 
 
 # Primer Encuentro
-
-![[Pasted image 20250719092431.png|cover hsmall]]X2
-![[Pasted image 20250719092811.png|cover hsmall]]
+<div style="display:flex;">
+<img src="Pasted image 20250719092811.png" style="width:325; height:375">x2
+<img src="Pasted image 20250719092811.png" style="width:325; height:375">  
+</div>
 
 # Acertijo
 Al entrar a la sala, los herejes se encuentran frente a una estatua de Bellator, bajo ella hay un mensaje en celestial (se pude descifrar con una tirada de cd 14 en historia), el mensaje dice: "La devoción inspira valentía, la valentía inspira sacrificio, el sacrificio lleva a la muerte"
