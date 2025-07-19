@@ -4,25 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c082af35d666fc31",
+        "id": "cc2531f57b6053c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a9cbdb528af2f4fa",
+            "id": "faa81c37f07c5269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "Misiones/Secundarias/Ecos de Venganza.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "Ecos de Venganza"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
+          },
+          {
+            "id": "780572bd7ed12b12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +69,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -198,8 +207,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "780572bd7ed12b12",
   "lastOpenFiles": [
+    "Misiones/Secundarias/Ecos de Venganza.md",
     "Misiones/Misión de Entrega.md",
     "Misiones/Misión de Asesinato.md",
     "Misiones/Misión de  Aventura.md",
@@ -228,7 +238,6 @@
     "PNJs/PNJs Herejes/S.P.B.md",
     "Misiones/Secundarias/Carga Varada",
     "Planos y Semiplanos/Planos/El Reverso.md",
-    "Misiones/Secundarias/Ecos de Venganza.md",
     "Reinos/Lugares Importantes/En Velum/Nico's.md",
     "Herejias/Herejes.md",
     "PNJs/PNJs Herejes/PNJs Herejes.md",
