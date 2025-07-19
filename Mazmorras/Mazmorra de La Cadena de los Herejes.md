@@ -14,11 +14,11 @@ Acercar la mano al primer símbolo o a la luz azul, sientes el peso del conocimi
 <div style="display:flex;">
 	<div >
 		Guerreros zombi de Bellator x2
-		<img src="Pasted image 20250719092811.png" style="width:325; height:375">
+		<img src="Capitan Bandido.png" style="width:325; height:375">
 	</div>
 	<div>
 		Clerigo Zombi de Scivi
-		<img src="Pasted image 20250719092811.png" style="width:325; height:375">  
+		<img src="Acolito.png" style="width:325; height:375">  
 	</div>
 </div>
 
