@@ -15,3 +15,14 @@ Acercar la mano al primer símbolo o a la luz azul, sientes el peso del conocimi
 
 # Acertijo
 Al entrar a la sala, los herejes se encuentran frente a una estatua de Bellator, bajo ella hay un mensaje en celestial (se pude descifrar con una tirada de cd 14 en historia), el mensaje dice: "La devoción inspira valentía, la valentía inspira sacrificio, el sacrificio lleva a la muerte"
+
+Frente a la estatua y la inscripción se encuentran tres discos con palabras
+>| Disco 1 | Disco 2 | Disco 3 |
+|------------|------------|-------------|
+|Valentia| Poder   | Sombra |
+| Origen | Sacrificio | Dolor |
+|   Título | Deber | Muerte |
+
+>[!tip] Respuesta
+>Se deben ordenar los discos para que muestren Valentía-Sacrificio-Muerte
+
