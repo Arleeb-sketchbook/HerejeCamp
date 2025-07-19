@@ -61,7 +61,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -182,7 +183,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2a38e38c243626ea",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
     "_Archivos/puzzle.png",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
