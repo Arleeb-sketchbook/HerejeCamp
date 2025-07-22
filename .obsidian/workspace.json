@@ -71,7 +71,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -208,7 +209,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "faa81c37f07c5269",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
     "DESCONOCIDO/Evento Desconocido.md",
     "DESCONOCIDO/Eclipse.md",
