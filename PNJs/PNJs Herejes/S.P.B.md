@@ -4,7 +4,7 @@
  >###### Datos
 > |||
 > | ---- | ---- |
->|Nombre real| Samuel Portus Breidgeston |
+>|Nombre real| Samuel Portus Bridgeston |
 >|Edad|+50|
 >|Clase|Hereje|
 >|Estado|Vivo (Entre Planos)|
