@@ -8,6 +8,6 @@ La nota dejada caer por [[Trego el Zombrujo]] lee:
 Una firma en la parte de atrás dice
 > "— Tu Amiga, [[Nico]]"
 
-Si deciden viajar a Velum, buscando encontraran la tienda [[Nico's]], ahí conocerán a Nico, al final, para celebrar la nueva amistad, Nico les regala el Eco-Códice, una especie de tablilla que se actualiza con Mandatos de diferentes personas o entidades.
+Si deciden viajar a Velum, buscando encontraran la tienda [[Nico's]], ahí conocerán a Nico, que, aunque al principio esta molesta por la muerte de su viejo amigo, acepta que tampoco era una gran persona, al final, para celebrar la nueva amistad con los protagonistas, Nico les regala el Eco-Códice, una especie de tablilla que se actualiza con Mandatos de diferentes personas o entidades.
 
 Misión Finalizada; Recompensa: [[Eco-Códice]]

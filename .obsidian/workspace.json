@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trama de la campaña.md",
-                "mode": "preview",
+                "file": "Misiones/Principales/La nota de Nico.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trama de la campaña"
+              "title": "La nota de Nico"
             }
           }
         ]
@@ -200,6 +200,7 @@
   "active": "780572bd7ed12b12",
   "lastOpenFiles": [
     "Misiones/Principales/La Cadena de los Herejes.md",
+    "Trama de la campaña.md",
     "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
     "DESCONOCIDO/Una Voz Misteriosa.md",
@@ -225,7 +226,6 @@
     "PNJs/PNJs Herejes/S.P.B.md",
     "PNJs/Nico.md",
     "PNJs/Amy.md",
-    "Reinos/Lugares Importantes/En Velum/Nico's.md",
     "_Archivos/Acolito.png",
     "_Archivos/Capitan Bandido.png",
     "MENSAJES",
