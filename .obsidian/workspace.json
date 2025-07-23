@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misiones/Principales/La nota de Nico.md",
+                "file": "Objetos/Objetos Heréticos/Objetos Heréticos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "La nota de Nico"
+              "title": "Objetos Heréticos"
             }
           }
         ]
@@ -197,8 +197,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "780572bd7ed12b12",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
+    "Misiones/Principales/La nota de Nico.md",
+    "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "Trama de la campaña.md",
     "_Herejia-Soundtrack/OST.md",
@@ -224,8 +226,6 @@
     "Planos y Semiplanos/Planos/Eris.md",
     "PNJs/PNJs Herejes/Roguer.md",
     "PNJs/PNJs Herejes/S.P.B.md",
-    "PNJs/Nico.md",
-    "PNJs/Amy.md",
     "_Archivos/Acolito.png",
     "_Archivos/Capitan Bandido.png",
     "MENSAJES",
