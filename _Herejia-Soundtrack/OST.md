@@ -27,4 +27,5 @@
 [[27- Bury the Light.mp3]]
 [[28 - Low Roar - Ill Keep Coming.mp3]]
 [[29 - Low Roar - Dont Be So Serious.mp3]]
+[[FINAL - Deltarune - Your Power Remix.mp3]]
 #oculto 
