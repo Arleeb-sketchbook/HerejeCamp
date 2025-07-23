@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos/Objetos Heréticos/Objetos Heréticos.md",
+                "file": "Herejias/Habilidades Heréticas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Objetos Heréticos"
+              "title": "Habilidades Heréticas"
             }
           }
         ]
@@ -197,10 +197,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "780572bd7ed12b12",
   "lastOpenFiles": [
-    "Misiones/Principales/La nota de Nico.md",
     "Objetos/Objetos Heréticos/Objetos Heréticos.md",
+    "Misiones/Principales/La nota de Nico.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "Trama de la campaña.md",
     "_Herejia-Soundtrack/OST.md",
