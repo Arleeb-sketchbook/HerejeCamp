@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herejias/Habilidades Heréticas.md",
+                "file": "_Archivos/LA CRIATURA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Habilidades Heréticas"
+              "title": "LA CRIATURA"
             }
           }
         ]
@@ -197,8 +197,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "780572bd7ed12b12",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
+    "_Archivos/La criatura.png",
+    "_Archivos/Liberium.png",
+    "_Archivos/Mapa de Eris.png",
+    "_Archivos/Nicole.png",
+    "_Archivos/puzzle.png",
+    "_Archivos/Scivi.png",
+    "_Archivos/Samuel.png",
+    "_Archivos/primer eco.wav",
+    "_Archivos/Pasted image 20250703113109.png",
+    "_Archivos/Pasted image 20250703113041.png",
+    "_Archivos/Pasted image 20250620150623.jpg",
+    "_Archivos/Pasted image 20250620150145.jpg",
+    "_Archivos/LA CRIATURA.md",
+    "Herejias/Habilidades Heréticas.md",
     "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "Misiones/Principales/La nota de Nico.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
@@ -211,7 +225,6 @@
     "Herejias/Proto-Hereje.md",
     "Herejias/Herejía.md",
     "Herejias/Herejes.md",
-    "Herejias/Habilidades Heréticas.md",
     "Logica/Tributos.md",
     "Logica/Sistema de tributado.md",
     "Logica/Rey-Dios.md",
@@ -224,27 +237,14 @@
     "Planos y Semiplanos/Planos/Plano onírico.md",
     "Planos y Semiplanos/Planos/El Reverso.md",
     "Planos y Semiplanos/Planos/Eris.md",
-    "PNJs/PNJs Herejes/Roguer.md",
-    "PNJs/PNJs Herejes/S.P.B.md",
-    "_Archivos/Acolito.png",
-    "_Archivos/Capitan Bandido.png",
     "MENSAJES",
     "_Herejia-Soundtrack/23- Dark Place - Toby Fox.mp3",
-    "_Archivos/primer eco.wav",
-    "_Archivos/puzzle.png",
     "Misiones/Secundarias/Carga Varada",
-    "_Archivos/Samuel.png",
     "_Herejia-Soundtrack/29 - Low Roar - Dont Be So Serious.mp3",
     "_Herejia-Soundtrack/28 - Low Roar - Ill Keep Coming.mp3",
     "_Herejia-Soundtrack/27- Bury the Light.mp3",
     "_Herejia-Soundtrack/Bury the Light.mp3",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
-    "_Archivos/Pasted image 20250703113041.png",
-    "_Archivos/Pasted image 20250703113109.png",
-    "_Archivos/Pasted image 20250619192919.png",
-    "_Archivos/Pasted image 20250619194117.png",
-    "_Archivos/Pasted image 20250619172802.png",
-    "_Archivos/Pasted image 20250619172254.png",
     "Sin título.canvas"
   ]
 }
