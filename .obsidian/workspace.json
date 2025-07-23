@@ -11,10 +11,15 @@
             "id": "780572bd7ed12b12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Trama de la campaña.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Trama de la campaña"
             }
           }
         ]
@@ -192,8 +197,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "688df49f249854f5",
+  "active": "780572bd7ed12b12",
   "lastOpenFiles": [
+    "Misiones/Principales/La Cadena de los Herejes.md",
+    "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
     "DESCONOCIDO/Una Voz Misteriosa.md",
     "DESCONOCIDO/Evento Desconocido.md",
@@ -219,7 +226,6 @@
     "PNJs/Nico.md",
     "PNJs/Amy.md",
     "Reinos/Lugares Importantes/En Velum/Nico's.md",
-    "Reinos/Lugares Importantes/En Semigladi/Coliseo.md",
     "_Archivos/Acolito.png",
     "_Archivos/Capitan Bandido.png",
     "MENSAJES",
@@ -233,7 +239,6 @@
     "_Herejia-Soundtrack/27- Bury the Light.mp3",
     "_Herejia-Soundtrack/Bury the Light.mp3",
     "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
-    "_Herejia-Soundtrack/9 - Luce del Desiderio - [Lappy] .mp3",
     "_Archivos/Pasted image 20250703113041.png",
     "_Archivos/Pasted image 20250703113109.png",
     "_Archivos/Pasted image 20250619192919.png",
