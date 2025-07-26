@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +213,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "91e6aaf51ce3790a",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
-    "MENSAJES/VEO, ESCUCHO, SIENTO.md",
+    "_Archivos/Verdades.png",
+    "Planos y Semiplanos/Planos/Reverso.md",
     "DESCONOCIDO/Verdades/Verdades.md",
+    "MENSAJES/VEO, ESCUCHO, SIENTO.md",
     "DESCONOCIDO/Verdades",
     "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
@@ -251,8 +254,6 @@
     "Logica/Cadenas.md",
     "Objetos/Objetos Clave/Eco-Códice.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
-    "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
-    "Planos y Semiplanos/Planos/Plano onírico.md",
     "MENSAJES",
     "_Herejia-Soundtrack/23- Dark Place - Toby Fox.mp3",
     "Misiones/Secundarias/Carga Varada",

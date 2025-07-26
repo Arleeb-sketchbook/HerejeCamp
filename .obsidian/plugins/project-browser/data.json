@@ -11,7 +11,7 @@
     "launchFolder": "/"
   },
   "useAliases": true,
-  "showStateMenu": true,
+  "showStateMenu": false,
   "loopStatesWhenCycling": true,
   "folders": {
     "defaultView": "Small"
