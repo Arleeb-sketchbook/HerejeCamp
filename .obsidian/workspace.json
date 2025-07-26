@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MENSAJES/VEO, ESCUCHO, SIENTO.md",
-                "mode": "preview",
+                "file": "DESCONOCIDO/Verdades/Verdades.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "VEO, ESCUCHO, SIENTO"
+              "title": "Verdades"
             }
           }
         ],
@@ -136,8 +136,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a",
-                "child": "ID_db3aaaba5bf9"
+                "id": "ID_99187928a94a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -215,6 +214,9 @@
   },
   "active": "91e6aaf51ce3790a",
   "lastOpenFiles": [
+    "MENSAJES/VEO, ESCUCHO, SIENTO.md",
+    "DESCONOCIDO/Verdades/Verdades.md",
+    "DESCONOCIDO/Verdades",
     "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
     "_Archivos/LA CRIATURA.md",
@@ -251,8 +253,6 @@
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Scivi.md",
     "Planos y Semiplanos/Semiplanos/Mundos Trono/Trono de Bellator.md",
     "Planos y Semiplanos/Planos/Plano onírico.md",
-    "Planos y Semiplanos/Planos/El Reverso.md",
-    "Planos y Semiplanos/Planos/Eris.md",
     "MENSAJES",
     "_Herejia-Soundtrack/23- Dark Place - Toby Fox.mp3",
     "Misiones/Secundarias/Carga Varada",
@@ -260,7 +260,6 @@
     "_Herejia-Soundtrack/28 - Low Roar - Ill Keep Coming.mp3",
     "_Herejia-Soundtrack/27- Bury the Light.mp3",
     "_Herejia-Soundtrack/Bury the Light.mp3",
-    "_Herejia-Soundtrack/1 - Ashita No Joe OST Joes Whistle.mp3",
     "Sin título.canvas"
   ]
 }
