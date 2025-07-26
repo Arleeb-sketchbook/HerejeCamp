@@ -6,9 +6,6 @@ En un plano tan enorme como [[Eris]], no solo la flora y fauna no son las única
 ![[Fungicognito]]
 ## [[Licantropía]]
 ![[Licantropía]]
-## [[Vampirismo]]
-![[Vampirismo]]
-
 
 # Curas
 Existen dos formas de solucionar enfermedades:

@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "77e888be7c7ee698",
+        "id": "e09b1ae56b08f702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5911bcdd1bb1a2",
+            "id": "d96146a22c27dcfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "Enfermedades/Enfermedades.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "Enfermedades"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ]
@@ -61,7 +58,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -196,8 +194,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3d5911bcdd1bb1a2",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
+    "Enfermedades/Enfermedades.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales.md",
     "Enfermedades/Vampirismo.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
@@ -207,7 +206,6 @@
     "Enfermedades/Mimicosis.md",
     "Enfermedades/Licantropía.md",
     "Enfermedades/Fungicognito.md",
-    "Enfermedades/Enfermedades.md",
     "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "DESCONOCIDO/Verdades/El Eclipse.md",
     "DESCONOCIDO/Verdades/El Guerrero.md",
