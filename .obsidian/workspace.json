@@ -26,10 +26,15 @@
             "id": "6274ef5f494beb1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Habilidades Vampíricas"
             }
           }
         ],
@@ -207,8 +212,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "6274ef5f494beb1b",
   "lastOpenFiles": [
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Vampíricas.md",
+    "Enfermedades/Vampirismo.md",
+    "Enfermedades/Mimicosis.md",
+    "Enfermedades/Licantropía.md",
+    "Enfermedades/Fungicognito.md",
+    "Enfermedades/Enfermedades.md",
+    "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "DESCONOCIDO/Verdades/El Eclipse.md",
     "DESCONOCIDO/Verdades/El Guerrero.md",
     "DESCONOCIDO/Verdades/El Libre.md",
@@ -220,7 +235,6 @@
     "DESCONOCIDO/Verdades/El Reverso.md",
     "DESCONOCIDO/Verdades/La Sabia.md",
     "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
-    "Objetos/Objetos Heréticos/Objetos Heréticos.md",
     "_Archivos/Verdades.png",
     "Planos y Semiplanos/Planos/Reverso.md",
     "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
@@ -238,16 +252,7 @@
     "_Archivos/Pasted image 20250703113041.png",
     "Herejias/Habilidades Heréticas.md",
     "Misiones/Principales/La nota de Nico.md",
-    "Misiones/Principales/La Cadena de los Herejes.md",
-    "Trama de la campaña.md",
-    "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
-    "DESCONOCIDO/Una Voz Misteriosa.md",
-    "DESCONOCIDO/Evento Desconocido.md",
-    "DESCONOCIDO/Eclipse.md",
-    "Herejias/Proto-Hereje.md",
-    "Herejias/Herejía.md",
-    "Herejias/Herejes.md",
     "DESCONOCIDO/MENSAJES",
     "_Herejia-Soundtrack/23- Dark Place - Toby Fox.mp3",
     "Misiones/Secundarias/Carga Varada",
