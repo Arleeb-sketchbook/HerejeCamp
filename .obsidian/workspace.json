@@ -190,8 +190,7 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "project-browser:Open project browser": false
     }
   },
   "active": "ccfd19b23b108bee",
