@@ -11,15 +11,34 @@
             "id": "d96146a22c27dcfc",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "PNJs/Deidades/Oneiros.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "Oneiros"
+            }
+          },
+          {
+            "id": "fdeea2f38f514437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DESCONOCIDO/Verdades/Verdades.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Verdades"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,8 +77,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -190,11 +208,16 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "fdeea2f38f514437",
   "lastOpenFiles": [
+    "PNJs/Deidades/Oneiros.md",
+    "PNJs/Amy.md",
+    "Sin nombre",
+    "PNJs/Deidades",
     "Enfermedades/Enfermedades.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales.md",
     "Enfermedades/Vampirismo.md",
@@ -221,7 +244,6 @@
     "Planos y Semiplanos/Planos/Reverso.md",
     "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
     "DESCONOCIDO/Verdades",
-    "_Archivos/LA CRIATURA.md",
     "_Archivos/La criatura.png",
     "_Archivos/Liberium.png",
     "_Archivos/Mapa de Eris.png",
@@ -232,15 +254,12 @@
     "_Archivos/primer eco.wav",
     "_Archivos/Pasted image 20250703113109.png",
     "_Archivos/Pasted image 20250703113041.png",
-    "Herejias/Habilidades Heréticas.md",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
     "DESCONOCIDO/MENSAJES",
     "_Herejia-Soundtrack/23- Dark Place - Toby Fox.mp3",
     "Misiones/Secundarias/Carga Varada",
     "_Herejia-Soundtrack/29 - Low Roar - Dont Be So Serious.mp3",
     "_Herejia-Soundtrack/28 - Low Roar - Ill Keep Coming.mp3",
-    "_Herejia-Soundtrack/27- Bury the Light.mp3",
-    "_Herejia-Soundtrack/Bury the Light.mp3",
     "Sin título.canvas"
   ]
 }
