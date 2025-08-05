@@ -18,8 +18,19 @@
               "icon": "align-vertical-justify-start",
               "title": "Browse"
             }
+          },
+          {
+            "id": "c735dfeb7a3aa491",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +112,8 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 8,
-                    "month": 0,
+                    "day": 7,
+                    "month": 2,
                     "year": 1632
                   },
                   "viewState": 1,
@@ -189,11 +200,10 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "project-browser:Open project browser": false,
-      "calendarium:Open Calendarium": false
+      "project-browser:Open project browser": false
     }
   },
-  "active": "e64bbe95c5020db1",
+  "active": "688df49f249854f5",
   "lastOpenFiles": [
     "PNJs/Deidades/Oneiros.md",
     "DESCONOCIDO/Verdades/Verdades.md",
