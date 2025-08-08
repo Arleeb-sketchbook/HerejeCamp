@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72e8774651cdc1e4",
+        "id": "4e4e7469d8a99262",
         "type": "tabs",
         "children": [
           {
-            "id": "e64bbe95c5020db1",
+            "id": "231c9bacc5dc0713",
             "type": "leaf",
             "state": {
               "type": "card-browser-view",
@@ -18,19 +18,8 @@
               "icon": "align-vertical-justify-start",
               "title": "Browse"
             }
-          },
-          {
-            "id": "c735dfeb7a3aa491",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,8 +54,8 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           }
         ]
@@ -143,6 +132,16 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "pinned": true,
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "9b95b2a295354370",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -182,8 +181,8 @@
                 "parent": "ID_99187928a94a"
               },
               "pinned": true,
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           }
         ]
@@ -194,18 +193,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Show hidden folders": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
+      "hide-folders:Show hidden folders": false,
+      "calendarium:Open Calendarium": false,
       "project-browser:Open project browser": false
     }
   },
-  "active": "688df49f249854f5",
+  "active": "231c9bacc5dc0713",
   "lastOpenFiles": [
+    "Enemigos/Hashalaq Quori.md",
     "PNJs/Deidades/Oneiros.md",
+    "Planos y Semiplanos/Planos/Plano onírico.md",
+    "Pasted image 20250806093855.png",
+    "_Herejia-Soundtrack/OST.md",
     "DESCONOCIDO/Verdades/Verdades.md",
     "PNJs/Amy.md",
     "Sin nombre",
@@ -230,10 +234,7 @@
     "DESCONOCIDO/Verdades/El Origen.md",
     "DESCONOCIDO/Verdades/El Reverso.md",
     "DESCONOCIDO/Verdades/La Sabia.md",
-    "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
     "_Archivos/Verdades.png",
-    "Planos y Semiplanos/Planos/Reverso.md",
-    "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
     "DESCONOCIDO/Verdades",
     "_Archivos/La criatura.png",
     "_Archivos/Liberium.png",
@@ -244,7 +245,6 @@
     "_Archivos/Samuel.png",
     "_Archivos/primer eco.wav",
     "_Archivos/Pasted image 20250703113109.png",
-    "_Archivos/Pasted image 20250703113041.png",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
     "DESCONOCIDO/MENSAJES",
     "_Herejia-Soundtrack/23- Dark Place - Toby Fox.mp3",

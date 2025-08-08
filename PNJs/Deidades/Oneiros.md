@@ -6,4 +6,4 @@
 > | Raza | Dios |
 > | Genero | Masculino |
 
-Dios del sueño
+Dios del sueño, regente de [[Plano onírico]]
