@@ -29,16 +29,15 @@
               "type": "markdown",
               "state": {
                 "file": "Tablas/Combos Elementales.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Combos Elementales"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +222,7 @@
       "project-browser:Open project browser": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "231c9bacc5dc0713",
   "lastOpenFiles": [
     "Tablas/Combos Elementales.md",
     "Tablas/Tabla de tributos.md",
