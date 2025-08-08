@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Herejias/Habilidad Herética/Aspectos Elementales.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Aspectos Elementales"
             }
           }
         ]
@@ -208,6 +208,8 @@
   },
   "active": "231c9bacc5dc0713",
   "lastOpenFiles": [
+    "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
+    "README.md",
     "Enemigos/Hashalaq Quori.md",
     "PNJs/Deidades/Oneiros.md",
     "Planos y Semiplanos/Planos/Plano onírico.md",
@@ -235,8 +237,6 @@
     "DESCONOCIDO/Verdades/Los Herejes.md",
     "DESCONOCIDO/Verdades/La falla.md",
     "DESCONOCIDO/Verdades/El Origen.md",
-    "DESCONOCIDO/Verdades/El Reverso.md",
-    "DESCONOCIDO/Verdades/La Sabia.md",
     "_Archivos/Verdades.png",
     "DESCONOCIDO/Verdades",
     "_Archivos/La criatura.png",

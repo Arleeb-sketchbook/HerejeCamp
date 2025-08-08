@@ -2,6 +2,7 @@ La mutación de la [[Marca de la Lógica]] permite modificar el daño de cualqui
 
 | Nombre         | Costo (Tributos) | Descripción                                                                                  | Habilidad                                                      |
 | :------------- | :--------------- | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| La Araña       | 3                | Tu toque impregna carne y metal con toxinas imposibles de purificar.                         | Puedes cambiar el daño de cualquier ataque a *daño de veneno.* |
 | La Forja       | 5                | Tu hambre por tributos arde como el fuego. Infunde tus ataques con esa hambre.               | Puedes cambiar el daño de cualquier ataque a *daño ígneo.*     |
 | La muerte      | 5                | Traes muerte a las batallas. La muerte se manifiesta en tus ataques.                         | Puedes cambiar el daño de cualquier ataque a *daño necrótico.* |
 | El Centellante | 5                | Veloz como un rato, e igual de destructivo; Que tus ataques lleven esa energía               | Puedes cambiar el daño de cualquier ataque a *daño eléctrico.* |
