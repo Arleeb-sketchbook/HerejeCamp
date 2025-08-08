@@ -73,11 +73,12 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -222,7 +223,7 @@
       "project-browser:Open project browser": false
     }
   },
-  "active": "92fdbc3d078874da",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
     "Tablas/Combos Elementales.md",
     "Tablas/Tabla de tributos.md",
