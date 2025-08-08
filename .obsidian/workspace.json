@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Herejias/Habilidad Herética/Aspectos Elementales.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "Combos Elementales"
             }
+          },
+          {
+            "id": "3f20ebb5daaa520d",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,16 +164,6 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "9b95b2a295354370",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -222,11 +225,12 @@
       "project-browser:Open project browser": false
     }
   },
-  "active": "231c9bacc5dc0713",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
+    "Efectos de estado",
+    "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Tablas/Combos Elementales.md",
     "Tablas/Tabla de tributos.md",
-    "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
     "README.md",
     "Enemigos/Hashalaq Quori.md",
@@ -252,7 +256,6 @@
     "DESCONOCIDO/Verdades/El Eclipse.md",
     "DESCONOCIDO/Verdades/El Guerrero.md",
     "DESCONOCIDO/Verdades/El Libre.md",
-    "DESCONOCIDO/Verdades/La Identidad.md",
     "_Archivos/Verdades.png",
     "DESCONOCIDO/Verdades",
     "_Archivos/La criatura.png",
