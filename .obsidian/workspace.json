@@ -221,8 +221,8 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
       "hide-folders:Show hidden folders": false,
-      "calendarium:Open Calendarium": false,
-      "project-browser:Open project browser": false
+      "project-browser:Open project browser": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "d4ddbf1fba68344e",
