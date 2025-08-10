@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misiones/Principales/El Farol de la Esperanza.md",
+                "file": "Viktor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "El Farol de la Esperanza"
+              "title": "Viktor"
             }
           }
         ]
@@ -196,10 +196,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "44fcaba2e8172299",
   "lastOpenFiles": [
-    "DESCONOCIDO/Una Voz Misteriosa.md",
     "Misiones/Principales/El Farol de la Esperanza.md",
+    "Viktor.md",
+    "DESCONOCIDO/Verdades/Cartas de Verdades.md",
+    "DESCONOCIDO/Verdades/El Eclipse.md",
+    "DESCONOCIDO/Una Voz Misteriosa.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "Misiones/Principales/El Caballero.md",
     "Misiones/Principales/La nota de Nico.md",
@@ -224,13 +227,10 @@
     "PNJs/Deidades/Oneiros.md",
     "Planos y Semiplanos/Planos/Plano onírico.md",
     "Pasted image 20250806093855.png",
-    "DESCONOCIDO/Verdades/Verdades.md",
     "PNJs/Amy.md",
     "Sin nombre",
     "PNJs/Deidades",
     "Enfermedades/Enfermedades.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales.md",
-    "Enfermedades/Vampirismo.md",
     "_Archivos/Verdades.png",
     "DESCONOCIDO/Verdades",
     "_Archivos/La criatura.png",
