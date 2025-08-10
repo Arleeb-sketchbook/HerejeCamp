@@ -42,18 +42,19 @@
             }
           },
           {
-            "id": "767bdca85f6e8e8f",
+            "id": "8edfbdd8f5a712ec",
             "type": "leaf",
             "state": {
               "type": "audio",
               "state": {
-                "file": "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3"
+                "file": "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3"
               },
               "icon": "lucide-file-audio",
-              "title": "03- Neverending Night - Toby Fox"
+              "title": "05- Harbinger - Eternal Eclipse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,11 +229,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44fcaba2e8172299",
+  "active": "88247fd7f5daec72",
   "lastOpenFiles": [
-    "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
-    "_Herejia-Soundtrack/OST.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
+    "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
+    "_Herejia-Soundtrack/OST.md",
+    "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "Enemigos/Devorador de conocimiento.md",
     "colores de marca.md",
     "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
@@ -250,7 +252,6 @@
     "Misiones/Secundarias/Carga Varada.md",
     "Misiones/Secundarias/Ecos de Venganza.md",
     "Misiones/Misión de  Aventura.md",
-    "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
     "README.md",
     "Logica/Cadenas.md",
     "Tablas/Combos Elementales.md",
