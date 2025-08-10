@@ -42,19 +42,19 @@
             }
           },
           {
-            "id": "8edfbdd8f5a712ec",
+            "id": "8b02d84967628424",
             "type": "leaf",
             "state": {
               "type": "audio",
               "state": {
-                "file": "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3"
+                "file": "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3"
               },
               "icon": "lucide-file-audio",
-              "title": "05- Harbinger - Eternal Eclipse"
+              "title": "07-  Se Hai Timore Del Vero - [KEYGEN CHURCH]"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "96721c51987e5e07",
@@ -259,14 +259,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7e61c7314c68132e",
+  "active": "2d07b8d295770a70",
   "lastOpenFiles": [
-    "Tablas/Tabla de tributos.md",
-    "iniciativas.md",
+    "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
-    "Misiones/Principales/La Cadena de los Herejes.md",
-    "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
     "_Herejia-Soundtrack/OST.md",
+    "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
+    "iniciativas.md",
+    "Tablas/Tabla de tributos.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "Enemigos/Devorador de conocimiento.md",
     "colores de marca.md",
@@ -290,7 +291,6 @@
     "Efectos de estado",
     "Objetos/Objetos Heréticos/Bifurcador Elemental.md",
     "Enemigos/Hashalaq Quori.md",
-    "PNJs/Deidades/Oneiros.md",
     "Pasted image 20250806093855.png",
     "Sin nombre",
     "PNJs/Deidades",
@@ -306,7 +306,6 @@
     "_Archivos/primer eco.wav",
     "_Archivos/Pasted image 20250703113109.png",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
-    "DESCONOCIDO/MENSAJES",
     "Sin título.canvas"
   ]
 }
