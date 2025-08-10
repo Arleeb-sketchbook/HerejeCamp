@@ -1,6 +1,6 @@
 [[JoJo]]
 [[Akatsuki]]
-[[Personaje de Max]]
+[[Elios]]
 
 
 
