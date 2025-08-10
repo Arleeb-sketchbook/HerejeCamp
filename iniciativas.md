@@ -1,5 +1,5 @@
-Guerro 2 - 20 /65
-Guerreo 1- 13 no simitarra /hp 25
+Guerro 2 - 20 /52
+3
 ale -11
 
 Lea 8
