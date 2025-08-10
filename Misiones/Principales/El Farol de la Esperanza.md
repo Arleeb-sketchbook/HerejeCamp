@@ -1,0 +1,6 @@
+_Tipo de misión: [[Misión de Entrega]]/[[Misión de  Aventura]]_
+_Una chispa se enciende, desde el cadáver de un rey-dios._
+
+Con el [[Eco-Códice]] recién obtenido, los Herejes reciben una misión de un desconocido identificado cómo V
+
+>"Esta carga es sumamente importante, deben entregarla a su destinatario"
