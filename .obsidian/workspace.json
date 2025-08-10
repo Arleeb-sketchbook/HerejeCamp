@@ -10,14 +10,51 @@
           {
             "id": "44fcaba2e8172299",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Misiones/Principales/La Cadena de los Herejes.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "La Cadena de los Herejes"
+            }
+          },
+          {
+            "id": "88247fd7f5daec72",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mazmorra de La Cadena de los Herejes"
+            }
+          },
+          {
+            "id": "093d0a5683f9261c",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,14 +229,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "093d0a5683f9261c",
   "lastOpenFiles": [
-    "Misiones/Principales/Farol de la Esperanza.md",
-    "Viktor.md",
-    "DESCONOCIDO/Verdades/Cartas de Verdades.md",
-    "DESCONOCIDO/Verdades/El Eclipse.md",
-    "DESCONOCIDO/Una Voz Misteriosa.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
+    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
+    "Misiones/Principales/El Farol de la Esperanza.md",
+    "Viktor.md",
+    "Misiones/Principales/Farol de la Esperanza.md",
+    "DESCONOCIDO/Verdades/Cartas de Verdades.md",
+    "DESCONOCIDO/Una Voz Misteriosa.md",
     "Misiones/Principales/El Caballero.md",
     "Misiones/Principales/La nota de Nico.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
@@ -209,7 +247,6 @@
     "Misiones/Secundarias/Ecos de Venganza.md",
     "Misiones/Misión de  Aventura.md",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
-    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "README.md",
@@ -223,10 +260,10 @@
     "PNJs/Deidades/Oneiros.md",
     "Planos y Semiplanos/Planos/Plano onírico.md",
     "Pasted image 20250806093855.png",
+    "DESCONOCIDO/Verdades/Verdades.md",
     "PNJs/Amy.md",
     "Sin nombre",
     "PNJs/Deidades",
-    "Enfermedades/Enfermedades.md",
     "_Archivos/Verdades.png",
     "DESCONOCIDO/Verdades",
     "_Archivos/La criatura.png",
