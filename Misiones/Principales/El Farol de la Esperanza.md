@@ -7,8 +7,7 @@ Con el [[Eco-Códice]] recién obtenido, los Herejes reciben una misión de un d
 
 Al dejar de leer el mensaje, y mirar a sus alrededores, verán como apareció un farol, sin ninguna causa.
 
-Si regresan con [[Nico]], esta actuara distinto, su expresión y postura serian rígidas, como si ```
-algo``` hablara con su cara.
+Si regresan con [[Nico]], esta actuara distinto, su expresión y postura serian rígidas, como si [|ALGO|](Una%20Voz%20Misteriosa) hablara con su cara.
 
 >_"Ese lugar, donde la libertad nació, donde el regia. Donde la libertad, murió."_
 
