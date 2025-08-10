@@ -3,4 +3,4 @@ _Tipo:[[Misión de Entrega]]_
 
 Los [[Herejes]] reciben una [[Misión de Entrega]] en el [[Eco-Códice]],  enviada por un individuo apodado [[S.P.B]], que les solicita que entreguen un paquete que encontraran en un edificio abandonado de [[Velum]], hasta una ubicación desconocida en [[Nullus]]
 
-Al entregar el paquete en la ubicación, este desaparece y es llevado a [[Reverso]]
+Al entregar el paquete en la ubicación, este desaparece y es llevado a el [[Reverso]]
