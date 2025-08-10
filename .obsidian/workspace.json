@@ -45,16 +45,15 @@
             "id": "093d0a5683f9261c",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "audio",
               "state": {
-                "path": "/"
+                "file": "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3"
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file-audio",
+              "title": "02- Susie  - Toby Fox"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +228,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "093d0a5683f9261c",
+  "active": "44fcaba2e8172299",
   "lastOpenFiles": [
-    "Misiones/Principales/La Cadena de los Herejes.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
+    "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
+    "_Herejia-Soundtrack/OST.md",
+    "Misiones/Principales/La Cadena de los Herejes.md",
     "Misiones/Principales/El Farol de la Esperanza.md",
     "Viktor.md",
     "Misiones/Principales/Farol de la Esperanza.md",
@@ -247,11 +248,9 @@
     "Misiones/Secundarias/Ecos de Venganza.md",
     "Misiones/Misión de  Aventura.md",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
-    "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "README.md",
     "Logica/Cadenas.md",
-    "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
     "Tablas/Combos Elementales.md",
     "Efectos de estado",
     "Tablas/Tabla de tributos.md",
@@ -261,7 +260,6 @@
     "Planos y Semiplanos/Planos/Plano onírico.md",
     "Pasted image 20250806093855.png",
     "DESCONOCIDO/Verdades/Verdades.md",
-    "PNJs/Amy.md",
     "Sin nombre",
     "PNJs/Deidades",
     "_Archivos/Verdades.png",
