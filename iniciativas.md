@@ -2,6 +2,8 @@
 |--|----------|
 |[[Akatsuki]]||
 |[[JoJo]]||
+|[[Elios]]||
+|[[Chancleto]]||
 
 
 
