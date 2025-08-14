@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESCONOCIDO/MENSAJES/PRIMER ECO, LLAMADO NO EVIITADO,LO QUE SERÁ.md",
-                "mode": "preview",
+                "file": "PJs/JoJo.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PRIMER ECO, LLAMADO NO EVIITADO,LO QUE SERÁ"
+              "title": "JoJo"
             }
           }
         ],
@@ -267,13 +267,16 @@
   },
   "active": "a401ad2d910778e4",
   "lastOpenFiles": [
-    "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
+    "Herejias/Herejes.md",
+    "DESCONOCIDO/Eclipse.md",
+    "DESCONOCIDO/Evento Desconocido.md",
+    "DESCONOCIDO/Verdades/Cartas de Verdades.md",
     "DESCONOCIDO/MENSAJES/PRIMER ECO, LLAMADO NO EVIITADO,LO QUE SERÁ.md",
+    "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
     "DESCONOCIDO/Una Voz Misteriosa.md",
     "Tablas/Tabla de tributos.md",
     "_Herejia-Soundtrack/OST.md",
     "Tablas/Iniciativas.md",
-    "Herejias/Herejes.md",
     "Logica/Cadenas.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Tablas/Combos Elementales.md",
@@ -294,9 +297,6 @@
     "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
     "Misiones/Principales/El Farol de la Esperanza.md",
     "PNJs/Viktor.md",
-    "Misiones/Principales/Farol de la Esperanza.md",
-    "DESCONOCIDO/Verdades/Cartas de Verdades.md",
-    "Misiones/Principales/El Caballero.md",
     "Efectos de estado",
     "Pasted image 20250806093855.png",
     "Sin nombre",
