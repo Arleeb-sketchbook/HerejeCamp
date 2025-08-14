@@ -42,15 +42,13 @@
             }
           },
           {
-            "id": "2b56e175783bdb56",
+            "id": "a401ad2d910778e4",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
-              "state": {
-                "path": "/"
-              },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
@@ -93,8 +91,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -137,7 +134,7 @@
                 "calendar": "ID_cb3beb798a09",
                 "ephemeral": {
                   "viewing": {
-                    "day": 7,
+                    "day": 8,
                     "month": 2,
                     "year": 1632
                   },
@@ -153,7 +150,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a"
+                "id": "ID_99187928a94a",
+                "child": "ID_3b987ada0a9a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -175,14 +173,16 @@
           {
             "id": "7e61c7314c68132e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iniciativas.md",
+                "file": "Tablas/Iniciativas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Iniciativas"
             }
@@ -211,8 +211,9 @@
             }
           },
           {
-            "id": "2d07b8d295770a70",
+            "id": "2b56e175783bdb56",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -221,12 +222,27 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Tabla de tributos"
             }
+          },
+          {
+            "id": "dd7e56093980e046",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_cb3beb798a09",
+                "id": "ID_3b987ada0a9a",
+                "parent": "ID_99187928a94a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -244,10 +260,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2b56e175783bdb56",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
+    "Tablas/Tabla de tributos.md",
+    "_Herejia-Soundtrack/OST.md",
+    "Tablas/Iniciativas.md",
+    "Herejias/Herejes.md",
+    "Logica/Cadenas.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
-    "Iniciativas.md",
     "Tablas/Combos Elementales.md",
     "Efectos de estado/Congelado.md",
     "Herejias/Colores de Marca.md",
@@ -261,8 +281,6 @@
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "PJs/Elios.md",
-    "Tablas/Tabla de tributos.md",
-    "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "Enemigos/Devorador de conocimiento.md",
@@ -274,8 +292,6 @@
     "DESCONOCIDO/Una Voz Misteriosa.md",
     "Misiones/Principales/El Caballero.md",
     "Misiones/Principales/La nota de Nico.md",
-    "PNJs/PNJs Herejes/S.P.B.md",
-    "Misiones/Secundarias/Carga Varada/Carga Varada I.md",
     "Efectos de estado",
     "Pasted image 20250806093855.png",
     "Sin nombre",

@@ -1,4 +1,4 @@
-A continuacion, se muestra la cantidad de [[Tributos]] por la [[Lógica de la espada]] obtenidos mediante el asesinato de criaturas(Salvo algunas excepciones)
+A continuación, se muestra la cantidad de [[Tributos]] por la [[Lógica de la espada]] obtenidos mediante el asesinato de criaturas (Salvo algunas excepciones)
 
 | CR de criatura | Tributos otorgados    |
 | -------------- | --------------------- |
