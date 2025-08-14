@@ -1,6 +1,7 @@
 [[JoJo]]
 [[Akatsuki]]
 [[Elios]]
+[[Chancleto]]
 
 
 

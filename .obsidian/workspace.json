@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PJs/JoJo.md",
-                "mode": "source",
+                "file": "PJs/Akatsuki.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JoJo"
+              "title": "Akatsuki"
             }
           }
         ],
@@ -96,7 +96,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -265,8 +266,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a401ad2d910778e4",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
+    "PJs/Elios.md",
+    "PJs/PJs.md",
+    "PJs/JoJo.md",
     "Herejias/Herejes.md",
     "DESCONOCIDO/Eclipse.md",
     "DESCONOCIDO/Evento Desconocido.md",
@@ -290,13 +294,10 @@
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
-    "PJs/Elios.md",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "Enemigos/Devorador de conocimiento.md",
     "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
-    "Misiones/Principales/El Farol de la Esperanza.md",
-    "PNJs/Viktor.md",
     "Efectos de estado",
     "Pasted image 20250806093855.png",
     "Sin nombre",

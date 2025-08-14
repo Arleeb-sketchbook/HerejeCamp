@@ -39,7 +39,7 @@ El Rey-Dios, furioso y herido, desató un contraataque que arrasó el campo. Rog
 ### IV. La Secta de Bellator y la caída de Jojo
 Sin rumbo ni fuerzas, Jojo fue encontrado por una orden secreta en Semigladi: las Sectas de Bellator, fanáticos que proclamaban que el único lenguaje sagrado era el combate y el tributo de sangre. La secta lo cuidó… para luego moldearlo. Mediante cánticos psíquicos y símbolos imposibles, borraron su memoria y reescribieron su lealtad, convirtiéndolo en un devoto ciego al servicio de Bellator.
 
-Allí conoció a Akatsuki Kirei, uno de los más fervientes siervos del dios guerrero. Juntos cumplieron las órdenes más sangrientas: cazar herejes, ejecutar sacrificios y erradicar a cualquiera que blasfemara. Ambos creían servir a un bien mayor, sin ver que su fe los deshumanizaba.
+Allí conoció a [[Akatsuki|Akatsuki Kirei]] , uno de los más fervientes siervos del dios guerrero. Juntos cumplieron las órdenes más sangrientas: cazar herejes, ejecutar sacrificios y erradicar a cualquiera que blasfemara. Ambos creían servir a un bien mayor, sin ver que su fe los deshumanizaba.
 
 Pero Akatsuki tenía algo que lo diferenciaba de otros fanáticos: su esposa, Amy, y su hijo, Mindartis. Cuando el Consejo de la secta lo sometió a una prueba final, poniéndolos encadenados frente a él, Akatsuki creyó que era una ilusión y apretó el gatillo… solo para descubrir que no lo era.
 
