@@ -5,3 +5,7 @@ Fue quien creo y comunico a [[Scivi]] la existencia de la [[Lógica de la espada
 
 Es el causante del [[Eclipse]], es la razón de existencia de los [[Herejes]].
 
+Escribió cartas a los jugadores, no a los [[Herejes]]:
+
+[[VEO, ESCUCHO, SIENTO]]
+[[PRIMER ECO, LLAMADO NO EVIITADO,LO QUE SERÁ]]
