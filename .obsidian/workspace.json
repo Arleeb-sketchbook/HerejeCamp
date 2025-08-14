@@ -42,18 +42,18 @@
             }
           },
           {
-            "id": "48246ca9c504d2fa",
+            "id": "747b6e7c028700d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herejias/Habilidades Heréticas.md",
-                "mode": "preview",
-                "source": false,
+                "file": "Iniciativas.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Habilidades Heréticas"
+              "title": "Iniciativas"
             }
           }
         ],
@@ -180,13 +180,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iniciativas.md",
+                "file": "Iniciativas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "iniciativas"
+              "title": "Iniciativas"
             }
           },
           {
@@ -262,10 +262,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7e61c7314c68132e",
+  "active": "747b6e7c028700d3",
   "lastOpenFiles": [
-    "Herejias/Habilidades Heréticas.md",
+    "Tablas/Combos Elementales.md",
+    "Efectos de estado/Congelado.md",
+    "Herejias/Colores de Marca.md",
+    "Herejias/Habilidad Herética/Aspectos Elementales.md",
+    "Efectos de estado/Quemado.md",
+    "Efectos de estado/Envenenado.md",
+    "Efectos de estado/Electrocutado.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
+    "Herejias/Habilidades Heréticas.md",
+    "Iniciativas.md",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
     "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
@@ -274,25 +282,18 @@
     "Tablas/Tabla de tributos.md",
     "_Herejia-Soundtrack/OST.md",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
-    "iniciativas.md",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
     "Enemigos/Devorador de conocimiento.md",
-    "colores de marca.md",
     "_Herejia-Soundtrack/02- Susie  - Toby Fox.mp3",
     "Misiones/Principales/El Farol de la Esperanza.md",
-    "Viktor.md",
+    "PNJs/Viktor.md",
     "Misiones/Principales/Farol de la Esperanza.md",
     "DESCONOCIDO/Verdades/Cartas de Verdades.md",
     "DESCONOCIDO/Una Voz Misteriosa.md",
     "Misiones/Principales/El Caballero.md",
     "Misiones/Principales/La nota de Nico.md",
-    "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "PNJs/PNJs Herejes/S.P.B.md",
     "Misiones/Secundarias/Carga Varada/Carga Varada I.md",
-    "Misiones/Secundarias/Carga Varada.md",
-    "Misiones/Secundarias/Ecos de Venganza.md",
-    "Misiones/Misión de  Aventura.md",
-    "README.md",
     "Efectos de estado",
     "Pasted image 20250806093855.png",
     "Sin nombre",

@@ -1,4 +1,7 @@
-
+|PJ|Iniciativa|
+|--|----------|
+|[[Akatsuki]]||
+|[[JoJo]]||
 
 
 

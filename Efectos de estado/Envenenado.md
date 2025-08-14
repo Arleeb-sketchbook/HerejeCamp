@@ -1,0 +1,1 @@
+Aplica 1d4 de daño de veneno por 4 turnos (acumulable)

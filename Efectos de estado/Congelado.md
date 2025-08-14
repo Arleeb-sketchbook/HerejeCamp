@@ -1,0 +1,1 @@
+Reduce la velocidad de movimiento en 5 pies por 3 turnos (Acumulable)
