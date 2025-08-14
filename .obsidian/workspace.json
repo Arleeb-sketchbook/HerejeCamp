@@ -40,9 +40,21 @@
               "icon": "lucide-file",
               "title": "Mazmorra de La Cadena de los Herejes"
             }
+          },
+          {
+            "id": "2b56e175783bdb56",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d4ddbf1fba68344e",
+  "active": "2b56e175783bdb56",
   "lastOpenFiles": [
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Iniciativas.md",
