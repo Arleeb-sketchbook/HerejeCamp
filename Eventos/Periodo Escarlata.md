@@ -1,4 +1,4 @@
 >[!infobox]
 ![[Pasted image 20250620150623.jpg|cover hsmall]]
 
-El periodo escarlata es el tiempo en el que [[Ruul]] se encuentra en luna llena, los [Licántropos](Licantropía) tienen su máximo poder
+El periodo escarlata es el tiempo en el que [[Ruul]] se encuentra en luna llena, los [Licántropos](Licantropía) tienen su máximo poder, y algunos cultos realizan sus rituales
