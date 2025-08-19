@@ -1,1 +1,1 @@
-Aplica 2d6 de daño ígneo por 2 turnos (acumulable)
+Aplica 2d6 de daño ígneo por 2 turnos (NO acumulable)
