@@ -8,11 +8,14 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Monje |
-> |Relaciones| <ul>Familia<li>Gildar Elmute (Hermano Adoptivo)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roguer]]✝️</li></ul>|
+> |Relaciones| <ul>Familia<li>Adrian (Hermano Adoptivo)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roger]]✝️</li></ul>|
 > |Edad| 25 |
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
 
+# Biografia
+
+# Lore
 ### I. Sangre de dos mundos
 Jojo — cuyo nombre real es Jonathan Joestar — nació en [[Semigladi]], tierra de gladiadores y conquista, donde la sangre derramada era la moneda del honor. Su padre, un guerrero de renombre, murió en la arena; su madre lo llevó a [[Velum]] buscando un futuro lejos del coliseo.
 
