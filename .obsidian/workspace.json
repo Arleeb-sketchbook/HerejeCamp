@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "Logica/Tributos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -246,8 +246,7 @@
               "title": "Agenda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,8 +264,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dc6abfc745e282a6",
+  "active": "688df49f249854f5",
   "lastOpenFiles": [
+    "Logica/Tributos.md",
+    "Pasted image 20250819110729.png",
+    "Pasted image 20250819110336.png",
     "Tablas/Tabla de tributos.md",
     "Planos y Semiplanos/Planos/Eris.md",
     "Cuerpos Celestes/Obliva.md",
@@ -294,7 +296,6 @@
     "PJs/Elios.md",
     "PJs/PJs.md",
     "Herejias/Herejes.md",
-    "DESCONOCIDO/Eclipse.md",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
@@ -309,8 +310,6 @@
     "_Archivos/Liberium.png",
     "_Archivos/Mapa de Eris.png",
     "_Archivos/Nicole.png",
-    "_Archivos/puzzle.png",
-    "_Archivos/Scivi.png",
     "_Archivos/primer eco.wav",
     "_Herejia-Soundtrack/FINAL - Deltarune - Your Power Remix.mp3",
     "Sin título.canvas"
