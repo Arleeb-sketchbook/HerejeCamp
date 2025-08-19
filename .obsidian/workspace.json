@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herejias/Habilidad Herética/Aspectos Elementales.md",
+                "file": "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aspectos Elementales"
+              "title": "Habilidades Licántropas"
             }
           }
         ],
@@ -267,11 +267,13 @@
   },
   "active": "dc6abfc745e282a6",
   "lastOpenFiles": [
-    "Efectos de estado/Quemado.md",
-    "Herejias/Habilidad Herética/Aspectos Elementales.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
+    "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales.md",
+    "Herejias/Habilidad Herética/Aspectos Elementales.md",
+    "Efectos de estado/Quemado.md",
+    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Miméticas.md",
     "Eventos/Periodo Escarlata.md",
     "Misiones/Misión de Entrega.md",
     "_Archivos/Pasted image 20250619172054.png",
@@ -293,8 +295,6 @@
     "DESCONOCIDO/Verdades/Cartas de Verdades.md",
     "DESCONOCIDO/MENSAJES/PRIMER ECO, LLAMADO NO EVIITADO,LO QUE SERÁ.md",
     "DESCONOCIDO/MENSAJES/VEO, ESCUCHO, SIENTO.md",
-    "DESCONOCIDO/Una Voz Misteriosa.md",
-    "Tablas/Iniciativas.md",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
     "_Herejia-Soundtrack/05- Harbinger - Eternal Eclipse.mp3",
     "_Herejia-Soundtrack/03- Neverending Night - Toby Fox.mp3",
