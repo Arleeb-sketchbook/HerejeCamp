@@ -1,1 +1,1 @@
-1d4 de daño eléctrico en un área de 5 pies (acumulable)
+1d4 de daño eléctrico en un área de 5 pies (no acumulable)

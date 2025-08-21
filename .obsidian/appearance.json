@@ -1,11 +1,13 @@
 {
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "opacity"
+    "opacity",
+    "archivo",
+    "Theme - D&D WOTC"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "accentColor": "#1ba136",
+  "accentColor": "",
   "theme": "obsidian",
   "nativeMenus": false
 }
