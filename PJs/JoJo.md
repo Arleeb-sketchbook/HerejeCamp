@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # JoJo
-> ![JoJo|cover hsmall](https://preview.redd.it/lets-have-a-discussion-how-strong-do-you-think-jonathan-v0-lk3ensnviicb1.png?width=640&crop=smart&auto=webp&s=f3e0475d2fd98db1db0a3475f2fda7e42b4be42c)
+> ![JoJo|cover hsmall](https://static.wikitide.net/deathbattlewiki/5/55/Portrait.jonathanjoestar.png)
 > ###### Datos
 > |||
 > | ---- | ---- |
