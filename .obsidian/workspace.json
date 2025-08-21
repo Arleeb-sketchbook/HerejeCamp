@@ -55,9 +55,21 @@
               "icon": "lucide-file",
               "title": "Tributos"
             }
+          },
+          {
+            "id": "4762a4f9313e3ed6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,8 +168,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a",
-                "child": "ID_3b987ada0a9a"
+                "id": "ID_99187928a94a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -255,6 +266,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "templates:Insertar plantilla": false,
@@ -265,7 +277,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "4762a4f9313e3ed6",
   "lastOpenFiles": [
     "Logica/Tributos.md",
     "Pasted image 20250819110729.png",
