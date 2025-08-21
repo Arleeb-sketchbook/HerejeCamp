@@ -1,8 +1,6 @@
 {
-  "cssTheme": "Fancy-a-Story",
+  "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "archivo",
-    "infobox",
     "opacity"
   ],
   "interfaceFontFamily": "",
