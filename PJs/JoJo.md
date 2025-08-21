@@ -8,7 +8,7 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Monje |
-> |Relaciones| <ul>Familia<li>Adrian (Hermano Adoptivo)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roger]]✝️</li></ul>|
+> |Relaciones| <ul>Familia<li>Adrian (Medio Hermano)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roger]]✝️</li></ul>|
 > |Edad| 25 |
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
@@ -24,7 +24,7 @@ En Velum, Jojo creció entre academias y bibliotecas, desarrollando una mentalid
 La locura lo corrompió. Adrian desapareció una noche, dejando un rastro de cuerpos vacíos de tributos. Jojo juró seguir su pista, aunque implicara atravesar los territorios más peligrosos de Eris.
 
 ### II. Los Proto-Herejes y Roger
-Su búsqueda lo llevó a cruzarse con [[Roger]], líder de los [[Proto-Herejes]]: un grupo de los primeros que desafiaron la lógica de los tributos. Roger era un hombre de voz imponente y espíritu indomable, famoso porque su marca ardía como un sol y su risa resonaba más que cualquier campana de victoria.
+Su búsqueda lo llevó a cruzarse con [[Roger]], líder de los [[Proto-Hereje|Proto-Herejes]]: un grupo de los primeros que desafiaron la lógica de los tributos. Roger era un hombre de voz imponente y espíritu indomable, famoso porque su marca ardía como un sol y su risa resonaba más que cualquier campana de victoria.
 
 Roger reconoció en Jojo la mezcla de honor y fuerza que un verdadero hereje necesita. Lo tomó bajo su protección y juntos vivieron batallas, robos de tributos y victorias imposibles. Jojo se convirtió en el escudo de la cadena, y Roger, en su mentor.
 

@@ -18,3 +18,7 @@ text-align:left;
 .markdown-embed-link {
   display: none;
 }
+
+h1, h2, h3 {
+  text-decoration: underline double #1ba136;
+}
