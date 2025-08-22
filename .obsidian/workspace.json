@@ -81,7 +81,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -251,8 +252,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dd7e56093980e046",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
+    "_Herejia-Soundtrack/OST.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Daño Verdadero.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
@@ -261,7 +263,6 @@
     "Herejias/Habilidad Herética/Poderes Heréticos.md",
     "Tablas/Tabla de tributos.md",
     "PJs/JoJo.md",
-    "_Herejia-Soundtrack/OST.md",
     "Herejias/Habilidades Heréticas.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "Efectos de estado/Electrocutado.md",
