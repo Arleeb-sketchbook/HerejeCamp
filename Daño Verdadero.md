@@ -1,0 +1,1 @@
+Daño de tipo físico, no se considera ni de contundente, ni cortante, ni perforante. No tiene resistencias o vulnerabilidades

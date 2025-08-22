@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Cuerpos Celestes\"  ",
@@ -125,18 +125,25 @@
         "a": 1,
         "rgb": 6402031
       }
+    },
+    {
+      "query": "path:\"Efectos de estado\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16728064
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1.08293413173653,
   "lineSizeMultiplier": 1.34456087824351,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.496007984031936,
   "repelStrength": 10.1596806387226,
   "linkStrength": 0.511976047904192,
   "linkDistance": 273,
-  "scale": 0.040360787326956145,
+  "scale": 0.3064897287640712,
   "close": true
 }

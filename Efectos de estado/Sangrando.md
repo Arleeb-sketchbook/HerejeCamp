@@ -1,0 +1,1 @@
+Recibe 1d8 de [[Daño Verdadero]] por 3 turnos
