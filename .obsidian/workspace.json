@@ -40,9 +40,19 @@
               "icon": "lucide-file",
               "title": "Mazmorra de La Cadena de los Herejes"
             }
+          },
+          {
+            "id": "b70e3258103c5dbc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +91,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -231,7 +240,8 @@
               "title": "Agenda"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,10 +260,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "b70e3258103c5dbc",
   "lastOpenFiles": [
-    "PJs/JoJo.md",
+    "Tablas/Tabla de tributos.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
+    "PJs/JoJo.md",
     "_Herejia-Soundtrack/OST.md",
     "Herejias/Habilidades Heréticas.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
@@ -263,7 +274,6 @@
     "PNJs/PNJs Herejes/S.P.B.md",
     "PJs/Akatsuki.md",
     "_Archivos/Pasted image 20250819110729.png",
-    "Tablas/Tabla de tributos.md",
     "Logica/Tributos.md",
     "_Archivos/Pasted image 20250819110336.png",
     "Planos y Semiplanos/Planos/Eris.md",
