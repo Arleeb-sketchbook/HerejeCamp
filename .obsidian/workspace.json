@@ -40,24 +40,9 @@
               "icon": "lucide-file",
               "title": "Mazmorra de La Cadena de los Herejes"
             }
-          },
-          {
-            "id": "818e21155e4c6095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -264,8 +250,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "818e21155e4c6095",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
+    "Mecanicas/Tablas/Combos Elementales.md",
+    "README.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "PJs/Elios.md",
     "PJs/Chancleto.md",
@@ -275,8 +263,8 @@
     "Mecanicas",
     "_Herejia-Soundtrack/OST.md",
     "Herejias/Herejes.md",
-    "Tablas/Tabla de tributos.md",
-    "Tablas/Iniciativas.md",
+    "Mecanicas/Tablas/Tabla de tributos.md",
+    "Mecanicas/Tablas/Iniciativas.md",
     "Mecanicas/Daño Verdadero.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
@@ -293,8 +281,6 @@
     "Planos y Semiplanos/Planos/Eris.md",
     "Cuerpos Celestes/Obliva.md",
     "Cuerpos Celestes/Ruul.md",
-    "Eventos/Periodo Escarlata.md",
-    "Enfermedades/Licantropía.md",
     "_Archivos/Pasted image 20250619172054.png",
     "_Archivos/Acolito.png",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
