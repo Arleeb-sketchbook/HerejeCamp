@@ -40,9 +40,21 @@
               "icon": "lucide-file",
               "title": "Mazmorra de La Cadena de los Herejes"
             }
+          },
+          {
+            "id": "ab908bb68c8c1b9b",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,11 +262,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "ab908bb68c8c1b9b",
   "lastOpenFiles": [
+    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Mecanicas/Tablas/Combos Elementales.md",
     "README.md",
-    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "PJs/Elios.md",
     "PJs/Chancleto.md",
     "PJs/JoJo.md",
