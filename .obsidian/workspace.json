@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tributomancia.md",
+                "file": "Herejias/Tributomancia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -55,9 +55,21 @@
               "icon": "lucide-file",
               "title": "Tributomancia"
             }
+          },
+          {
+            "id": "9c83179f3bbedf75",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,10 +276,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ab908bb68c8c1b9b",
+  "active": "6e64f4d2d0ebca74",
   "lastOpenFiles": [
+    "Herejias/Tributomancia.md",
     "Misiones/Principales/Tributomancers(TBC).md",
-    "Tributomancia.md",
     "README.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Mecanicas/Tablas/Combos Elementales.md",
