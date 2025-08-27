@@ -42,18 +42,15 @@
             }
           },
           {
-            "id": "f40af0a4e6fc9974",
+            "id": "818e21155e4c6095",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "card-browser-view",
               "state": {
-                "file": "PJs/Elios.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "path": "/"
               },
-              "icon": "lucide-file",
-              "title": "Elios"
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
             }
           }
         ],
@@ -96,8 +93,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -265,10 +261,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "818e21155e4c6095",
   "lastOpenFiles": [
-    "PJs/Chancleto.md",
+    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "PJs/Elios.md",
+    "PJs/Chancleto.md",
     "PJs/JoJo.md",
     "PJs/PJs.md",
     "PJs/Akatsuki.md",
@@ -277,7 +274,6 @@
     "Herejias/Herejes.md",
     "Tablas/Tabla de tributos.md",
     "Tablas/Iniciativas.md",
-    "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Mecanicas/Daño Verdadero.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
