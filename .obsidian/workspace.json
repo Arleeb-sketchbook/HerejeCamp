@@ -40,9 +40,21 @@
               "icon": "lucide-file",
               "title": "Mazmorra de La Cadena de los Herejes"
             }
+          },
+          {
+            "id": "f40af0a4e6fc9974",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +93,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -141,8 +152,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_99187928a94a",
-                "child": "ID_3b987ada0a9a"
+                "id": "ID_99187928a94a"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -232,8 +242,7 @@
               "title": "Agenda"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,21 +261,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccfd19b23b108bee",
+  "active": "d4ddbf1fba68344e",
   "lastOpenFiles": [
+    "Herejias/Herejes.md",
     "_Herejia-Soundtrack/OST.md",
+    "Tablas/Tabla de tributos.md",
+    "Tablas/Iniciativas.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Daño Verdadero.md",
     "Herejias/Habilidad Herética/Mutaciones Heréticas.md",
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Efectos de estado/Sangrado.md",
     "Herejias/Habilidad Herética/Poderes Heréticos.md",
-    "Tablas/Tabla de tributos.md",
     "PJs/JoJo.md",
     "Herejias/Habilidades Heréticas.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "Efectos de estado/Electrocutado.md",
-    "Herejias/Herejes.md",
     "Herejias/Herejía.md",
     "PNJs/PNJs Herejes/S.P.B.md",
     "PJs/Akatsuki.md",
@@ -281,7 +291,6 @@
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Fúngicas.md",
     "Herejias/Habilidad Herética/Habilidades Condicionales.md",
-    "Efectos de estado/Quemado.md",
     "_Archivos/Pasted image 20250619172054.png",
     "_Archivos/Acolito.png",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
