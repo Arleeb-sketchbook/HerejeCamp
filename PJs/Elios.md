@@ -6,7 +6,7 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Explorador |
-> |Relaciones|<ul>Aliados <li><ul> Los Herejes <li>[[Chancleto]]</li><li>[[Akatsuki]]</li><li>[[JoJo]]</li></ul></li></ul>|
-> |Edad| 29|
-> |Reino| [[Semigladi]]|
+> |Relaciones|<ul>Aliados <li> Los Herejes </li></ul>|
+> |Edad| ??|
+> |Reino| ?|
 > |Estado| Vivo|

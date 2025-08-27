@@ -6,8 +6,9 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Guerrero |
-> |Relaciones| <ul> Los Herejes <li>[[JoJo]]</li><li>[[Elios]]</li><li>[[Akatsuki]]</li></ul>|
-> |Edad| 29|
+> |Relaciones| <ul> Aliados <li>Los Herejes</li></ul>|
+> |Edad| ??|
 > |Reino| ?|
 > |Estado| Vivo|
+
 Personaje de Lea

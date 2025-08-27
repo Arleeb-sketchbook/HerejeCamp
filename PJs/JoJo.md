@@ -8,7 +8,7 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Monje |
-> |Relaciones| <ul>Familia<li>Adrian (Medio Hermano)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roger]]✝️</li></ul><ul> Los Herejes <li>[[Chancleto]]</li><li>[[Elios]]</li><li>[[Akatsuki]]</li></ul>|
+> |Relaciones| <ul>Familia<li>Adrian (Medio Hermano)</li><li>George Joestar✝(Padre)</li><li>Madre✝</li></ul><ul>Aliados <li>[[Akatsuki]]</li><li>[[Roger]]✝️</li><li>Los Herejes</li> </ul>|
 > |Edad| 25 |
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|

@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PJs/Akatsuki.md",
+                "file": "PJs/Elios.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Akatsuki"
+              "title": "Elios"
             }
           }
         ],
@@ -96,7 +96,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -264,12 +265,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f40af0a4e6fc9974",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
-    "PJs/Elios.md",
-    "PJs/Akatsuki.md",
-    "PJs/JoJo.md",
     "PJs/Chancleto.md",
+    "PJs/Elios.md",
+    "PJs/JoJo.md",
+    "PJs/PJs.md",
+    "PJs/Akatsuki.md",
     "Mecanicas",
     "_Herejia-Soundtrack/OST.md",
     "Herejias/Herejes.md",
@@ -294,7 +296,6 @@
     "Cuerpos Celestes/Ruul.md",
     "Eventos/Periodo Escarlata.md",
     "Enfermedades/Licantropía.md",
-    "Herejias/Habilidad Herética/Habilidades Condicionales/Habilidades Licántropas.md",
     "_Archivos/Pasted image 20250619172054.png",
     "_Archivos/Acolito.png",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",

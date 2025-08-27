@@ -8,7 +8,7 @@
 > | Raza | Humano |
 > | Genero | Masculino |
 > | Clase | Cazador de Sangre |
-> |Relaciones| <ul>Familia<li>[[Amy]] (Esposa) ✝</li><li>[[Mindartis]] (Hijo)✝</li></ul><ul>Aliados <li>[[JoJo]]</li></ul><ul> Los Herejes <li>[[Chancleto]]</li><li>[[Elios]]</li><li>[[JoJo]]</li></ul>|
+> |Relaciones| <ul>Familia<li>[[Amy]] (Esposa) ✝</li><li>[[Mindartis]] (Hijo)✝</li></ul><ul>Aliados <li>[[JoJo]]</li><li>Los Herejes</li></ul>|
 > |Edad| 29|
 > |Reino| [[Semigladi]]|
 > |Estado| Vivo|
