@@ -201,5 +201,19 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 #### ❖Poderes Heréticos❖
 ![[Poderes Heréticos]]
   
+#### Mecánicas
+Se añaden nuevos efectos y tipos de daños
+[[Daño Verdadero]]
+![[Daño Verdadero]]
+[[Sangrado]]
+![[Sangrado]]
+[[Electrocutado]]
+![[Electrocutado]]
+[[Quemado]]
+![[Quemado]]
+[[Envenenado]]
+![[Envenenado]]
+[[Congelado]]
+![[Congelado]]
 
 #oculto 

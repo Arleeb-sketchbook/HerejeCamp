@@ -45,12 +45,15 @@
             "id": "818e21155e4c6095",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "README.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
