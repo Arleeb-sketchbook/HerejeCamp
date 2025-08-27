@@ -1,1 +1,2 @@
-_Los herejes descubren una tecnica antigua, perdida en el tiempo_
+_Los herejes descubren una técnica antigua, perdida en el tiempo, la [[Tributomancia]]_
+

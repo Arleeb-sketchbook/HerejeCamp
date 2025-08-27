@@ -1,0 +1,1 @@
+La Tributomancia es una magia prohibida, en lugar de utilizar espacios de conjuros de una clase lanza hechizos, consume tributos para realizar potentes hechizos con efectos únicos

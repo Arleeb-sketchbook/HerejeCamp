@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misiones/Principales/Tributomancers(TBC).md",
+                "file": "Tributomancia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tributomancers(TBC)"
+              "title": "Tributomancia"
             }
           }
         ],
@@ -266,8 +266,9 @@
   },
   "active": "ab908bb68c8c1b9b",
   "lastOpenFiles": [
-    "README.md",
     "Misiones/Principales/Tributomancers(TBC).md",
+    "Tributomancia.md",
+    "README.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Mecanicas/Tablas/Combos Elementales.md",
     "PJs/Elios.md",
@@ -294,7 +295,6 @@
     "Logica/Tributos.md",
     "_Archivos/Pasted image 20250819110336.png",
     "Planos y Semiplanos/Planos/Eris.md",
-    "Cuerpos Celestes/Obliva.md",
     "_Archivos/Pasted image 20250619172054.png",
     "_Archivos/Acolito.png",
     "_Herejia-Soundtrack/07-  Se Hai Timore Del Vero - [KEYGEN CHURCH].mp3",
