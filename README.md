@@ -6,9 +6,9 @@ _**Herejía**_ es una campaña _(Además de una extensión)_ de D&D 5e (2014), i
 En el plano de _Eris_, durante la era _Meridies_ —una época similar a el siglo XIX en nuestro mundo, pero aun mas movida por las maquinas de vapor— , los jugadores
 toman el rol de **Herejes**, personas que desafiaron un dogma impuesto por los poderosos **Rey-Dios** hace millones de años.
 
-# 🜃Trama🜃
+## 🜃Trama🜃
 
-## ☼Leyendas☼
+### ☼Leyendas☼
 \[Recuerden\]|\[Distorsionen\]|\[Olviden\]  
 
 *Distintas transcripciones de varios extractos cuentan esta leyenda…*  
@@ -51,7 +51,7 @@ Así \[NACIÓ\]||\[COMENZÓ\] \[LA LOGICA DE LA ESPADA\]||\[LA GUERRA\]||\[EL HA
 
   
 
-## ⚙Actualidad⚙
+### ⚙Actualidad⚙
 \[Sobrevivan\]||\[Subleven\]||\[Florezcan\]  
 Época: **Meridies** *(Millones de años después de la leyenda, Similar al Siglo XIX del mundo real, Ambientación Steampunk)*  
 
@@ -139,11 +139,11 @@ Poco se sabe de Nullus en la actualidad, desde la desaparición de Libertium, pa
 
   
 
-# ⌬Herejias⌬
+## ⌬Herejias⌬
 
   
 
-## ◖Tributar◗
+### ◖Tributar◗
 
   
 
@@ -160,7 +160,7 @@ Marca de Scivi (Nacidos en Velum): Puedes obtener tributos de descubrir informac
 Marca de Bellator(Nacidos en Semigladi): Puedes obtener tributos demostrando valía, superioridad en pelea, entre otras.  
 
 Marca de Liberium(Nacidos en Nullus):???
-## Cazando Herejes
+### Cazando Herejes
 
   
 
@@ -170,13 +170,13 @@ Matar a otro hereje, o a algún individuo que esté almacenado tributos, concede
 
   
 
-## ⌈Cadenas⌋
+### ⌈Cadenas⌋
 
 ![[Cadenas]]
 
   
 
-## ☿Auto-Tributación☿
+### ☿Auto-Tributación☿
 
   
 
@@ -188,7 +188,7 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 
   
 
-## ✴[[Habilidades Heréticas]]✴
+### ✴[[Habilidades Heréticas]]✴
 \[Elijan\]||\[Excedan\]||\[Perviertan\]
 #### ❂Aspectos Elementales❂
 \[Ardan\]||\[Transformen\]||\[Contaminen\]
@@ -201,19 +201,19 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 #### ❖Poderes Heréticos❖
 ![[Poderes Heréticos]]
   
-#### Mecánicas
+## Mecánicas
 Se añaden nuevos efectos y tipos de daños
-[[Daño Verdadero]]
+### [[Daño Verdadero]]
 ![[Daño Verdadero]]
-[[Sangrado]]
+### [[Sangrado]]
 ![[Sangrado]]
-[[Electrocutado]]
+### [[Electrocutado]]
 ![[Electrocutado]]
-[[Quemado]]
+### [[Quemado]]
 ![[Quemado]]
-[[Envenenado]]
+### [[Envenenado]]
 ![[Envenenado]]
-[[Congelado]]
+### [[Congelado]]
 ![[Congelado]]
 
 #oculto 

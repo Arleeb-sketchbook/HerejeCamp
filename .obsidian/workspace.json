@@ -60,12 +60,15 @@
             "id": "9c83179f3bbedf75",
             "type": "leaf",
             "state": {
-              "type": "card-browser-view",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "align-vertical-justify-start",
-              "title": "Browse"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -276,11 +279,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e64f4d2d0ebca74",
+  "active": "9c83179f3bbedf75",
   "lastOpenFiles": [
+    "Herejias/Habilidades Heréticas.md",
+    "README.md",
     "Herejias/Tributomancia.md",
     "Misiones/Principales/Tributomancers(TBC).md",
-    "README.md",
     "Mazmorras/Mazmorra de La Cadena de los Herejes.md",
     "Mecanicas/Tablas/Combos Elementales.md",
     "PJs/Elios.md",
@@ -298,7 +302,6 @@
     "Herejias/Habilidad Herética/Aspectos Elementales.md",
     "Mecanicas/Efectos de estado/Sangrado.md",
     "Herejias/Habilidad Herética/Poderes Heréticos.md",
-    "Herejias/Habilidades Heréticas.md",
     "Misiones/Principales/La Cadena de los Herejes.md",
     "Mecanicas/Efectos de estado/Electrocutado.md",
     "Herejias/Herejía.md",
