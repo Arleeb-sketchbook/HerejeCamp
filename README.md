@@ -1,5 +1,7 @@
+ #oculto 
 # Herejía: La espada
-#### _La espada no es solo un arma, es un credo._
+
+## _La espada no es solo un arma, es un credo._
 
 _**Herejía**_ es una campaña _(Además de una extensión)_ de D&D 5e (2014), inspirada en el concepto de la _**Lógica de la espada**_ del universo de *Destiny*.
 
@@ -201,19 +203,21 @@ Puedes guardar una cantidad ilimitada de tributos, y después de cada descanso l
 #### ❖Poderes Heréticos❖
 ![[Poderes Heréticos]]
   
-## Mecánicas
+## ꙮMecánicasꙮ
 Se añaden nuevos efectos y tipos de daños
-### [[Daño Verdadero]]
+#### [[Daño Verdadero]]
 ![[Daño Verdadero]]
-### [[Sangrado]]
+#### [[Sangrado]]
 ![[Sangrado]]
-### [[Electrocutado]]
+#### [[Electrocutado]]
 ![[Electrocutado]]
-### [[Quemado]]
+#### [[Quemado]]
 ![[Quemado]]
-### [[Envenenado]]
+#### [[Envenenado]]
 ![[Envenenado]]
-### [[Congelado]]
+#### [[Congelado]]
 ![[Congelado]]
 
-#oculto 
+
+
+
