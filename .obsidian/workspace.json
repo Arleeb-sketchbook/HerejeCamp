@@ -111,7 +111,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3ad77d25c3cdbd",
@@ -279,7 +280,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9c83179f3bbedf75",
+  "active": "ccfd19b23b108bee",
   "lastOpenFiles": [
     "Herejias/Habilidades Heréticas.md",
     "README.md",
